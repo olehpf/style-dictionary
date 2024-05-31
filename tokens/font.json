@@ -1,0 +1,22 @@
+{
+  "size": {
+    "font": {
+      "small": {
+        "value": "10px",
+        "group": "typography"
+      },
+      "medium": {
+        "value": "16px",
+        "group": "typography"
+      },
+      "large": {
+        "value": "24px",
+        "group": "typography"
+      },
+      "base": {
+        "value": "{size.font.medium.value}",
+        "group": "typography"
+      }
+    }
+  }
+}

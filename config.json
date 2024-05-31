@@ -1,0 +1,21 @@
+{
+    "source": ["tokens/**/*.json"],
+    "platforms": {
+        "scss": {
+            "transformGroup": "scss",
+            "buildPath": "styles/",
+            "files": [
+                {
+                    "destination": "scss/color.scss",
+                    "format": "scss/variables",
+                    "filter": "isColor"
+                },
+                {
+                    "destination": "scss/font.scss",
+                    "format": "scss/variables",
+                    "filter": "isFont"
+                }
+            ]
+        }
+    }
+}
