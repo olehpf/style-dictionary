@@ -1,9 +1,18 @@
 const StyleDictionary = require('style-dictionary');
 
+// Filter for color properties
 StyleDictionary.registerFilter({
-  name: 'isTextTransform',
+  name: 'isColor',
   matcher: function(token) {
-    return token.attributes.category === 'font' && ['lowercase', 'uppercase'].includes(token.value);
+    return token.path[0] === 'light';
+  }
+});
+
+// Filter for font properties
+StyleDictionary.registerFilter({
+  name: 'isFont',
+  matcher: function(token) {
+    return token.path[0] === 'size';
   }
 });
 
