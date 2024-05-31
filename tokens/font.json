@@ -1,21 +1,41 @@
 {
-  "size": {
+  "desktop": {
     "font": {
-      "small": {
-        "value": "10px",
-        "group": "typography"
+      "family": {
+        "title": {
+          "value": "Rethink Sans",
+          "group": "typography"
+        },
+        "body": {
+          "value": "Rethink Sans",
+          "group": "typography"
+        },
+        "code": {
+          "value": "Roboto Mono",
+          "group": "typography"
+        }
       },
-      "medium": {
-        "value": "16px",
-        "group": "typography"
-      },
-      "large": {
-        "value": "24px",
-        "group": "typography"
-      },
-      "base": {
-        "value": "{size.font.medium.value}",
-        "group": "typography"
+      "weight": {
+        "extrabold": {
+          "value": "800",
+          "group": "typography"
+        },
+        "bold": {
+          "value": "700",
+          "group": "typography"
+        },
+        "semibold": {
+          "value": "600",
+          "group": "typography"
+        },
+        "medium": {
+          "value": "500",
+          "group": "typography"
+        },
+        "regular": {
+          "value": "400",
+          "group": "typography"
+        }
       }
     }
   }

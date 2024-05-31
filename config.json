@@ -8,11 +8,17 @@
                 {
                     "destination": "scss/color.scss",
                     "format": "scss/variables",
+                    "optons": {
+                        "outputReferences": true
+                    },
                     "filter": "isColor"
                 },
                 {
                     "destination": "scss/font.scss",
                     "format": "scss/variables",
+                    "optons": {
+                        "outputReferences": true
+                    },
                     "filter": "isFont"
                 }
             ]
