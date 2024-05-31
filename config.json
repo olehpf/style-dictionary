@@ -8,7 +8,8 @@
                 {
                     "destination": "scss/color.scss",
                     "format": "scss/variables",
-                    "optons": {
+                    "options": {
+                        "showFileHeader": false,
                         "outputReferences": true
                     },
                     "filter": "isColor"
@@ -16,7 +17,8 @@
                 {
                     "destination": "scss/font.scss",
                     "format": "scss/variables",
-                    "optons": {
+                    "options": {
+                        "showFileHeader": false,
                         "outputReferences": true
                     },
                     "filter": "isFont"
