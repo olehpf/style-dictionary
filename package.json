@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node config.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["tokens", "json", "scss", "style-dictionary"],
+  "author": "Oleh PF",
   "license": "ISC",
   "description": "",
   "devDependencies": {
