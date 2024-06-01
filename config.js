@@ -20,5 +20,19 @@ StyleDictionary.registerFilter({
   }
 });
 
+// Build the Camel Case name for the token
+StyleDictionary.registerTransform({
+  name: 'name/camel',
+  type: 'name',
+  transformer: function(token) {
+    return token.name.replace(/(\w)(\w*)/g, function(g0,g1,g2){return g1.toUpperCase() + g2.toLowerCase();});
+  }
+});
+
+StyleDictionary.registerTransformGroup({
+  name: 'scss',
+  transforms: ['attribute/cti', 'name/cti/camel', 'color/css', 'size/rem']
+});
+
 const styleDictionary = StyleDictionary.extend('config.json');
 styleDictionary.buildAllPlatforms();

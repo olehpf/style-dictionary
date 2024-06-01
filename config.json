@@ -3,6 +3,7 @@
     "platforms": {
         "scss": {
             "transformGroup": "scss",
+            "prefix": "core-ui",
             "buildPath": "styles/",
             "files": [
                 {
@@ -22,7 +23,7 @@
                         "outputReferences": true
                     },
                     "filter": "isFont"
-                }
+                }   
             ]
         }
     }

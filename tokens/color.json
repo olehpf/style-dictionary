@@ -5,98 +5,98 @@
         "base": {
           "default": {
             "value": "#FFFFFF",
-            "group": "color"
+            "type": "color"
           }
         },
         "neutral": {
           "0": {
             "value": "#FFFFFF",
-            "group": "color"
+            "type": "color"
           },
           "5": {
             "value": "#F7F7F8",
-            "group": "color"
+            "type": "color"
           },
           "10": {
             "value": "#EEF0F1",
-            "group": "color"
+            "type": "color"
           },
           "20": {
             "value": "#D8DBDF",
-            "group": "color"
+            "type": "color"
           },
           "30": {
             "value": "#C2C7CB",
-            "group": "color"
+            "type": "color"
           },
           "40": {
             "value": "#A1A8AF",
-            "group": "color"
+            "type": "color"
           },
           "50": {
             "value": "#767E89",
-            "group": "color"
+            "type": "color"
           },
           "60": {
             "value": "#595E69",
-            "group": "color"
+            "type": "color"
           },
           "70": {
             "value": "#41474D",
-            "group": "color"
+            "type": "color"
           },
           "80": {
             "value": "#2F3337",
-            "group": "color"
+            "type": "color"
           },
           "90": {
             "value": "#202327",
-            "group": "color"
+            "type": "color"
           },
           "100": {
             "value": "#121416",
-            "group": "color"
+            "type": "color"
           },
           "blue": {
             "10": {
               "value": "#E7F5FE",
-              "group": "color"
+              "type": "color"
             },
             "20": {
               "value": "#CEECFD",
-              "group": "color"
+              "type": "color"
             },
             "30": {
               "value": "#92D5FC",
-              "group": "color"
+              "type": "color"
             },
             "40": {
               "value": "#57BEF9",
-              "group": "color"
+              "type": "color"
             },
             "50": {
               "value": "#1BA7F8",
-              "group": "color"
+              "type": "color"
             },
             "60": {
               "value": "#0D84C9",
-              "group": "color"
+              "type": "color"
             },
             "70": {
               "value": "#0570AD",
-              "group": "color"
+              "type": "color"
             },
             "80": {
               "value": "#045780",
-              "group": "color"
+              "type": "color"
             },
             "90": {
               "value": "#034363",
-              "group": "color"
+              "type": "color"
             },
             "100": {
               "value": "#02283B",
-              "group": "color"
+              "type": "color"
             }
           }
         }
@@ -109,98 +109,98 @@
         "base": {
           "default": {
             "value": "#000000",
-            "group": "color"
+            "type": "color"
           }
         },
         "neutral": {
           "0": {
             "value": "#121416",
-            "group": "color"
+            "type": "color"
           },
           "5": {
             "value": "#202327",
-            "group": "color"
+            "type": "color"
           },
           "10": {
             "value": "#2F3337",
-            "group": "color"
+            "type": "color"
           },
           "20": {
             "value": "#41474D",
-            "group": "color"
+            "type": "color"
           },
           "30": {
             "value": "#595E69",
-            "group": "color"
+            "type": "color"
           },
           "40": {
             "value": "#767E89",
-            "group": "color"
+            "type": "color"
           },
           "50": {
             "value": "#A1A8AF",
-            "group": "color"
+            "type": "color"
           },
           "60": {
             "value": "#C2C7CB",
-            "group": "color"
+            "type": "color"
           },
           "70": {
             "value": "#D8DBDF",
-            "group": "color"
+            "type": "color"
           },
           "80": {
             "value": "#EEF0F1",
-            "group": "color"
+            "type": "color"
           },
           "90": {
             "value": "#F7F7F8",
-            "group": "color"
+            "type": "color"
           },
           "100": {
             "value": "#FFFFFF",
-            "group": "color"
+            "type": "color"
           },
           "blue": {
             "10": {
               "value": "#02283B",
-              "group": "color"
+              "type": "color"
             },
             "20": {
               "value": "#034363",
-              "group": "color"
+              "type": "color"
             },
             "30": {
               "value": "#045780",
-              "group": "color"
+              "type": "color"
             },
             "40": {
               "value": "#0570AD",
-              "group": "color"
+              "type": "color"
             },
             "50": {
               "value": "#0D84C9",
-              "group": "color"
+              "type": "color"
             },
             "60": {
               "value": "#1BA7F8",
-              "group": "color"
+              "type": "color"
             },
             "70": {
               "value": "#57BEF9",
-              "group": "color"
+              "type": "color"
             },
             "80": {
               "value": "#92D5FC",
-              "group": "color"
+              "type": "color"
             },
             "90": {
               "value": "#CEECFD",
-              "group": "color"
+              "type": "color"
             },
             "100": {
               "value": "#E7F5FE",
-              "group": "color"
+              "type": "color"
             }
           }
         }

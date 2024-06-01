@@ -3,38 +3,38 @@
     "font": {
       "family": {
         "title": {
-          "value": "Rethink Sans",
-          "group": "typography"
+          "value": "\"Rethink Sans\", sans-serif",
+          "type": "typography"
         },
         "body": {
-          "value": "Rethink Sans",
-          "group": "typography"
+          "value": "\"Rethink Sans\", sans-serif",
+          "type": "typography"
         },
         "code": {
-          "value": "Roboto Mono",
-          "group": "typography"
+          "value": "\"Rethink Sans\", monospace",
+          "type": "typography"
         }
       },
       "weight": {
         "extrabold": {
           "value": "800",
-          "group": "typography"
+          "type": "typography"
         },
         "bold": {
           "value": "700",
-          "group": "typography"
+          "type": "typography"
         },
         "semibold": {
           "value": "600",
-          "group": "typography"
+          "type": "typography"
         },
         "medium": {
           "value": "500",
-          "group": "typography"
+          "type": "typography"
         },
         "regular": {
           "value": "400",
-          "group": "typography"
+          "type": "typography"
         }
       }
     }
