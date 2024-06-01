@@ -20,6 +20,14 @@ StyleDictionary.registerFilter({
   },
 });
 
+// Filter for breakpoints properties
+StyleDictionary.registerFilter({
+  name: "isBreakpoints",
+  matcher: function (token) {
+    return token.path[0] === "breakpoints";
+  },
+});
+
 // Build the Camel Case name for the token
 StyleDictionary.registerTransform({
   name: "name/camel",

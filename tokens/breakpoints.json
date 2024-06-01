@@ -1,0 +1,94 @@
+{
+  "breakpoints": {
+    "xxs": {
+      "min-width": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "360px",
+        "type": "dimension"
+      }
+    },
+    "xs": {
+      "min-width": {
+        "value": "361px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "480px",
+        "type": "dimension"
+      }
+    },
+    "sm": {
+      "min-width": {
+        "value": "481px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "640px",
+        "type": "dimension"
+      }
+    },
+    "md": {
+      "min-width": {
+        "value": "641px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "800px",
+        "type": "dimension"
+      }
+    },
+    "lg": {
+      "min-width": {
+        "value": "801px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "960px",
+        "type": "dimension"
+      }
+    },
+    "xl": {
+      "min-width": {
+        "value": "961px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "1184px",
+        "type": "dimension"
+      }
+    },
+    "xxl": {
+      "min-width": {
+        "value": "1185px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "1320px",
+        "type": "dimension"
+      }
+    },
+    "xxxl": {
+      "min-width": {
+        "value": "1321px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "1600px",
+        "type": "dimension"
+      }
+    },
+    "xxxxl": {
+      "min-width": {
+        "value": "1601px",
+        "type": "dimension"
+      },
+      "max-width": {
+        "value": "10000px",
+        "type": "dimension"
+      }
+    }
+  }
+}

@@ -20,10 +20,19 @@
                     "destination": "scss/font.scss",
                     "format": "scss/variables",
                     "options": {
-                        "showFileHeader": false,
+                        "showFileHeader": "customFileHeader",
                         "outputReferences": true
                     },
                     "filter": "isFont"
+                },
+                {
+                    "destination": "scss/breakpoints.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isBreakpoints"
                 }   
             ]
         }
