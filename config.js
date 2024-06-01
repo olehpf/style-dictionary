@@ -16,7 +16,7 @@ StyleDictionary.registerFilter({
 StyleDictionary.registerFilter({
   name: "isFont",
   matcher: function (token) {
-    return token.path[0] === "desktop" || token.path[0] === "mobile";
+    return token.path[0] === "font";
   },
 });
 

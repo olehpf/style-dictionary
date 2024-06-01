@@ -1,6 +1,5 @@
 {
-  "desktop": {
-    "font": {
+  "font": {
       "family": {
         "title": {
           "value": "\"Rethink Sans\", sans-serif",
@@ -36,7 +35,90 @@
           "value": "400",
           "type": "typography"
         }
+      },
+      "size": {
+        "display1": { 
+          "lg" : {
+            "value": "60px",
+            "type": "typography"
+          },
+          "md" : {
+            "value": "48px",
+            "type": "typography"
+          }
+       },
+       "display2": { 
+          "lg" : {
+            "value": "52px",
+            "type": "typography"
+          },
+          "md" : {
+            "value": "40px",
+            "type": "typography"
+          }
+       },
+       "display3": { 
+          "lg" : {
+            "value": "40px",
+            "type": "typography"
+          },
+          "md" : {
+            "value": "32px",
+            "type": "typography"
+          }
+       },
+        "heading1": {
+          "value": "28px",
+          "type": "typography"
+        },
+        "heading2": {
+          "value": "24px",
+          "type": "typography"
+        },
+        "heading3": {
+          "value": "21px",
+          "type": "typography"
+        },
+        "heading4": {
+          "value": "18px",
+          "type": "typography"
+        },
+        "heading5": {
+          "value": "16px",
+          "type": "typography"
+        },
+        "heading6": {
+          "value": "14px",
+          "type": "typography"
+        },
+        "body-xl": {
+          "value": "28px",
+          "type": "typography"
+        },
+        "body-lg": {
+          "value": "24px",
+          "type": "typography"
+        },
+        "body-md": {
+          "value": "21px",
+          "type": "typography"
+        },
+        "body-sm": {
+          "value": "18px",
+          "type": "typography"
+        },
+        "body-xs": {
+          "value": "16px",
+          "type": "typography"
+        },
+        "code-md": {
+          "value": "15px",
+          "type": "typography"
+        },
+        "code-sm": {
+          "value": "13px",
+          "type": "typography"
+        }
       }
     }
   }
-}
