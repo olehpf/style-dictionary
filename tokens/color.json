@@ -5,98 +5,167 @@
         "base": {
           "default": {
             "value": "#FFFFFF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           }
         },
         "neutral": {
           "0": {
             "value": "#FFFFFF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "5": {
             "value": "#F7F7F8",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "10": {
             "value": "#EEF0F1",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "20": {
             "value": "#D8DBDF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "30": {
             "value": "#C2C7CB",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "40": {
             "value": "#A1A8AF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "50": {
             "value": "#767E89",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "60": {
             "value": "#595E69",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "70": {
             "value": "#41474D",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "80": {
             "value": "#2F3337",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "90": {
             "value": "#202327",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "100": {
             "value": "#121416",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "blue": {
             "10": {
               "value": "#E7F5FE",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "20": {
               "value": "#CEECFD",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "30": {
               "value": "#92D5FC",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "40": {
               "value": "#57BEF9",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "50": {
               "value": "#1BA7F8",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "60": {
               "value": "#0D84C9",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "70": {
               "value": "#0570AD",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "80": {
               "value": "#045780",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "90": {
               "value": "#034363",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "100": {
               "value": "#02283B",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             }
           }
         }
@@ -109,98 +178,167 @@
         "base": {
           "default": {
             "value": "#000000",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           }
         },
         "neutral": {
           "0": {
             "value": "#121416",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "5": {
             "value": "#202327",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "10": {
             "value": "#2F3337",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "20": {
             "value": "#41474D",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "30": {
             "value": "#595E69",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "40": {
             "value": "#767E89",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "50": {
             "value": "#A1A8AF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "60": {
             "value": "#C2C7CB",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "70": {
             "value": "#D8DBDF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "80": {
             "value": "#EEF0F1",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "90": {
             "value": "#F7F7F8",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "100": {
             "value": "#FFFFFF",
-            "type": "color"
+            "attributes": {
+              "category": "color",
+              "type": "shade"
+            }
           },
           "blue": {
             "10": {
               "value": "#02283B",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "20": {
               "value": "#034363",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "30": {
               "value": "#045780",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "40": {
               "value": "#0570AD",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "50": {
               "value": "#0D84C9",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "60": {
               "value": "#1BA7F8",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "70": {
               "value": "#57BEF9",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "80": {
               "value": "#92D5FC",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "90": {
               "value": "#CEECFD",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             },
             "100": {
               "value": "#E7F5FE",
-              "type": "color"
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              }
             }
           }
         }

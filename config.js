@@ -8,7 +8,7 @@ const configStyleDictionary = require("./config.js");
 StyleDictionary.registerFilter({
   name: "isColor",
   matcher: function (token) {
-    return token.type === "color";
+    return token.attributes.category === "color";
   },
 });
 
@@ -16,7 +16,7 @@ StyleDictionary.registerFilter({
 StyleDictionary.registerFilter({
   name: "isFont",
   matcher: function (token) {
-    return token.type === "typography";
+    return token.attributes.type === "font";
   },
 });
 

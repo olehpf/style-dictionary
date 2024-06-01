@@ -3,121 +3,202 @@
       "family": {
         "title": {
           "value": "\"Rethink Sans\", sans-serif",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body": {
           "value": "\"Rethink Sans\", sans-serif",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "code": {
           "value": "\"Roboto Sans\", monospace",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         }
       },
       "weight": {
         "extrabold": {
           "value": "800",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "bold": {
           "value": "700",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "semibold": {
           "value": "600",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "medium": {
           "value": "500",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "regular": {
           "value": "400",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         }
       },
       "size": {
         "display1": { 
           "lg" : {
             "value": "60px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           },
           "md" : {
             "value": "48px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           }
        },
        "display2": { 
           "lg" : {
             "value": "52px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           },
           "md" : {
             "value": "40px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           }
        },
        "display3": { 
           "lg" : {
             "value": "40px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           },
           "md" : {
             "value": "32px",
-            "type": "typography"
+            "attributes": {
+              "category": "typography",
+              "type": "font"
+            }
           }
        },
         "heading1": {
           "value": "28px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "heading2": {
           "value": "24px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "heading3": {
           "value": "21px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "heading4": {
           "value": "18px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "heading5": {
           "value": "16px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "heading6": {
           "value": "14px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body-xl": {
           "value": "28px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body-lg": {
           "value": "24px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body-md": {
           "value": "21px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body-sm": {
           "value": "18px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "body-xs": {
           "value": "16px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "code-md": {
           "value": "15px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         },
         "code-sm": {
           "value": "13px",
-          "type": "typography"
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          }
         }
       }
     }
