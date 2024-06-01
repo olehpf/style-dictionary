@@ -1,4 +1,5 @@
 {
+    "showFileHeader": "customFileHeader",
     "source": ["tokens/**/*.json"],
     "platforms": {
         "scss": {
@@ -10,7 +11,7 @@
                     "destination": "scss/color.scss",
                     "format": "scss/variables",
                     "options": {
-                        "showFileHeader": false,
+                        "showFileHeader": "customFileHeader",
                         "outputReferences": true
                     },
                     "filter": "isColor"
