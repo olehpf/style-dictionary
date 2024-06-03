@@ -58,7 +58,9 @@ StyleDictionary.registerFormat({
     ].join("\n");
     const fileContent = dictionary.allProperties
       .map(function (prop) {
-        return `$${prop.name}: ${prop.value};`;
+        const description = prop.attributes && prop.attributes.description ? `\n/* ${prop.attributes.description} */` : '';
+        const comment = prop.comment ? `// ${prop.comment}` : '';
+        return `${description}\n${comment}\n$${prop.name}: ${prop.value};`;
       })
       .join("\n");
     return `${fileHeader}\n\n${fileContent}`;

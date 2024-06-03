@@ -1,52 +1,176 @@
 /** --------------------------------------------------------------------------
  * The scss/color.scss file.
- * Generated on: Sat Jun 01 2024 23:53:25 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Mon Jun 03 2024 15:34:43 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
+
+// Default color is ⚪️
 $coreUiLightColorPrimitiveBaseDefault: #ffffff;
+
+/* '@/Color/Primitive/Neutral' */
+// Neutral-0
 $coreUiLightColorPrimitiveNeutral0: #ffffff;
+
+// Neutral-5
 $coreUiLightColorPrimitiveNeutral5: #f7f7f8;
+
+// Neutral-10
 $coreUiLightColorPrimitiveNeutral10: #eef0f1;
+
+// Neutral-20
 $coreUiLightColorPrimitiveNeutral20: #d8dbdf;
+
+// Neutral-30
 $coreUiLightColorPrimitiveNeutral30: #c2c7cb;
+
+// Neutral-40
 $coreUiLightColorPrimitiveNeutral40: #a1a8af;
+
+// Neutral-50
 $coreUiLightColorPrimitiveNeutral50: #767e89;
+
+// Neutral-60
 $coreUiLightColorPrimitiveNeutral60: #595e69;
+
+// Neutral-70
 $coreUiLightColorPrimitiveNeutral70: #41474d;
+
+// Neutral-80
 $coreUiLightColorPrimitiveNeutral80: #2f3337;
+
+// Neutral-90
 $coreUiLightColorPrimitiveNeutral90: #202327;
+
+// Neutral-100
 $coreUiLightColorPrimitiveNeutral100: #121416;
-$coreUiLightColorPrimitiveNeutralBlue10: #e7f5fe;
-$coreUiLightColorPrimitiveNeutralBlue20: #ceecfd;
-$coreUiLightColorPrimitiveNeutralBlue30: #92d5fc;
-$coreUiLightColorPrimitiveNeutralBlue40: #57bef9;
-$coreUiLightColorPrimitiveNeutralBlue50: #1ba7f8;
-$coreUiLightColorPrimitiveNeutralBlue60: #0d84c9;
-$coreUiLightColorPrimitiveNeutralBlue70: #0570ad;
-$coreUiLightColorPrimitiveNeutralBlue80: #045780;
-$coreUiLightColorPrimitiveNeutralBlue90: #034363;
-$coreUiLightColorPrimitiveNeutralBlue100: #02283b;
+
+/* '@/Color/Primitive/Blue' */
+// Blue-10
+$coreUiLightColorPrimitiveBlue10: #e7f5fe;
+
+// Blue-20
+$coreUiLightColorPrimitiveBlue20: #ceecfd;
+
+// Blue-30
+$coreUiLightColorPrimitiveBlue30: #92d5fc;
+
+// Blue-40
+$coreUiLightColorPrimitiveBlue40: #57bef9;
+
+// Blue-50
+$coreUiLightColorPrimitiveBlue50: #1ba7f8;
+
+// Blue-60
+$coreUiLightColorPrimitiveBlue60: #0d84c9;
+
+// Blue-70
+$coreUiLightColorPrimitiveBlue70: #0570ad;
+
+// Blue-80
+$coreUiLightColorPrimitiveBlue80: #045780;
+
+// Blue-90
+$coreUiLightColorPrimitiveBlue90: #034363;
+
+// Blue-100
+$coreUiLightColorPrimitiveBlue100: #02283b;
+
+
+$coreUiLightColorPrimitiveNavy10: #e7f2fe;
+
+
+$coreUiLightColorPrimitiveNavy20: #ceecfd;
+
+
+$coreUiLightColorPrimitiveNavy30: #92d5fc;
+
+
+$coreUiLightColorPrimitiveNavy40: #57bef9;
+
+
+$coreUiLightColorPrimitiveNavy50: #1ba7f8;
+
+
+$coreUiLightColorPrimitiveNavy60: #0d84c9;
+
+
+$coreUiLightColorPrimitiveNavy70: #0570ad;
+
+
+$coreUiLightColorPrimitiveNavy80: #045780;
+
+
+$coreUiLightColorPrimitiveNavy90: #034363;
+
+
+$coreUiLightColorPrimitiveNavy100: #02283b;
+
+
 $coreUiDarkColorPrimitiveBaseDefault: #000000;
+
+
 $coreUiDarkColorPrimitiveNeutral0: #121416;
+
+
 $coreUiDarkColorPrimitiveNeutral5: #202327;
+
+
 $coreUiDarkColorPrimitiveNeutral10: #2f3337;
+
+
 $coreUiDarkColorPrimitiveNeutral20: #41474d;
+
+
 $coreUiDarkColorPrimitiveNeutral30: #595e69;
+
+
 $coreUiDarkColorPrimitiveNeutral40: #767e89;
+
+
 $coreUiDarkColorPrimitiveNeutral50: #a1a8af;
+
+
 $coreUiDarkColorPrimitiveNeutral60: #c2c7cb;
+
+
 $coreUiDarkColorPrimitiveNeutral70: #d8dbdf;
+
+
 $coreUiDarkColorPrimitiveNeutral80: #eef0f1;
+
+
 $coreUiDarkColorPrimitiveNeutral90: #f7f7f8;
+
+
 $coreUiDarkColorPrimitiveNeutral100: #ffffff;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue10: #02283b;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue20: #034363;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue30: #045780;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue40: #0570ad;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue50: #0d84c9;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue60: #1ba7f8;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue70: #57bef9;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue80: #92d5fc;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue90: #ceecfd;
+
+
 $coreUiDarkColorPrimitiveNeutralBlue100: #e7f5fe;

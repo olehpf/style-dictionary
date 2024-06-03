@@ -8,7 +8,8 @@
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Default color is ⚪️"
           }
         },
         "neutral": {
@@ -16,89 +17,186 @@
             "value": "#FFFFFF",
             "attributes": {
               "category": "color",
-              "type": "shade"
-            }
+              "type": "shade",
+              "description": "'@/Color/Primitive/Neutral'"
+            },
+            "comment": "Neutral-0"
           },
           "5": {
             "value": "#F7F7F8",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-5"
           },
           "10": {
             "value": "#EEF0F1",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-10"
           },
           "20": {
             "value": "#D8DBDF",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-20"
           },
           "30": {
             "value": "#C2C7CB",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-30"
           },
           "40": {
             "value": "#A1A8AF",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-40"
           },
           "50": {
             "value": "#767E89",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-50"
           },
           "60": {
             "value": "#595E69",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-60"
           },
           "70": {
             "value": "#41474D",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-70"
           },
           "80": {
             "value": "#2F3337",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-80"
           },
           "90": {
             "value": "#202327",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
+            },
+            "comment": "Neutral-90"
           },
           "100": {
             "value": "#121416",
             "attributes": {
               "category": "color",
               "type": "shade"
-            }
-          },
+            },
+            "comment": "Neutral-100"
+          }
+        },
           "blue": {
             "10": {
               "value": "#E7F5FE",
+              "attributes": {
+                "category": "color",
+                "type": "shade",
+                "description": "'@/Color/Primitive/Blue'"
+              },
+              "comment": "Blue-10"
+            },
+            "20": {
+              "value": "#CEECFD",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-20"
+            },
+            "30": {
+              "value": "#92D5FC",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-30"
+            },
+            "40": {
+              "value": "#57BEF9",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-40"
+            },
+            "50": {
+              "value": "#1BA7F8",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-50"
+            },
+            "60": {
+              "value": "#0D84C9",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-60"
+            },
+            "70": {
+              "value": "#0570AD",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-70"
+            },
+            "80": {
+              "value": "#045780",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-80"
+            },
+            "90": {
+              "value": "#034363",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-90"
+            },
+            "100": {
+              "value": "#02283B",
+              "attributes": {
+                "category": "color",
+                "type": "shade"
+              },
+              "comment": "Blue-100"
+            }
+          },
+          "navy": {
+            "10": {
+              "value": "#E7F2FE",
               "attributes": {
                 "category": "color",
                 "type": "shade"
@@ -170,8 +268,7 @@
           }
         }
       }
-    }
-  },
+    },
   "dark": {
     "color": {
       "primitive": {
