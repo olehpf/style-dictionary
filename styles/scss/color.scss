@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/color.scss file.
- * Generated on: Tue Jun 04 2024 09:06:34 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Tue Jun 04 2024 18:00:14 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -292,3 +292,415 @@ $coreUiLightColorPrimitiveMagenta90: #580e49;
 
 // Magenta-100
 $coreUiLightColorPrimitiveMagenta100: #35092c;
+
+/* '@/Color/Semantic/Text/Base' */
+// Text Base Strongest 🔗 to 'Neutral-100'
+$coreUiLightColorSemanticTextBaseStrongest: #121416;
+
+// Text Base Stronger 🔗 to 'Neutral-90'
+$coreUiLightColorSemanticTextBaseStronger: #202327;
+
+// Text Base Strong 🔗 to 'Neutral-80'
+$coreUiLightColorSemanticTextBaseStrong: #2f3337;
+
+// Text Base Normal 🔗 to 'Neutral-60'
+$coreUiLightColorSemanticTextBaseNormal: #595e69;
+
+// Text Base Weak 🔗 to 'Neutral-50'
+$coreUiLightColorSemanticTextBaseWeak: #767e89;
+
+// Text Base Weaker 🔗 to 'Neutral-40'
+$coreUiLightColorSemanticTextBaseWeaker: #a1a8af;
+
+// Text Base Weakest 🔗 to 'Neutral-30'
+$coreUiLightColorSemanticTextBaseWeakest: #c2c7cb;
+
+// Text Base Custom 🔗 to 'Neutral-0'
+$coreUiLightColorSemanticTextBaseCustom: #ffffff;
+
+/* '@/Color/Semantic/Text/Blue' */
+// Text Blue Strongest 🔗 to 'Blue-90'
+$coreUiLightColorSemanticTextBlueStrongest: #034363;
+
+// Text Blue Stronger 🔗 to 'Blue-80'
+$coreUiLightColorSemanticTextBlueStronger: #045780;
+
+// Text Blue Strong 🔗 to 'Blue-70'
+$coreUiLightColorSemanticTextBlueStrong: #0570ad;
+
+// Text Blue Normal 🔗 to 'Blue-60'
+$coreUiLightColorSemanticTextBlueNormal: #0d84c9;
+
+// Text Blue Weak 🔗 to 'Blue-50'
+$coreUiLightColorSemanticTextBlueWeak: #1ba7f8;
+
+// Text Blue Weaker 🔗 to 'Blue-40'
+$coreUiLightColorSemanticTextBlueWeaker: #57bef9;
+
+// Text Blue Weakest 🔗 to 'Blue-30'
+$coreUiLightColorSemanticTextBlueWeakest: #92d5fc;
+
+/* '@/Color/Semantic/Text/Navy' */
+// Text Navy Strongest 🔗 to 'Navy-90'
+$coreUiLightColorSemanticTextNavyStrongest: #032d63;
+
+// Text Navy Stronger 🔗 to'Navy-80'
+$coreUiLightColorSemanticTextNavyStronger: #054394;
+
+// Text Navy Strong 🔗 to'Navy-70'
+$coreUiLightColorSemanticTextNavyStrong: #065dd0;
+
+// Text Navy Normal 🔗 to'Navy-60'
+$coreUiLightColorSemanticTextNavyNormal: #2576ef;
+
+// Text Navy Weak 🔗 to'Navy-50'
+$coreUiLightColorSemanticTextNavyWeak: #4392f9;
+
+// Text Navy Weaker 🔗 to'Navy-40'
+$coreUiLightColorSemanticTextNavyWeaker: #6ba9fa;
+
+// Text Navy Weakest 🔗 to'Navy-30'
+$coreUiLightColorSemanticTextNavyWeakest: #92c0fc;
+
+/* '@/Color/Semantic/Text/Green' */
+// Text Green Strongest 🔗 to 'Green-90'
+$coreUiLightColorSemanticTextGreenStrongest: #114b18;
+
+// Text Green Stronger 🔗 to 'Green-80'
+$coreUiLightColorSemanticTextGreenStronger: #246b2d;
+
+// Text Green Strong 🔗 to 'Green-70'
+$coreUiLightColorSemanticTextGreenStrong: #30913d;
+
+// Text Green Normal 🔗 to 'Green-60'
+$coreUiLightColorSemanticTextGreenNormal: #36a144;
+
+// Text Green Weak 🔗 to 'Green-50'
+$coreUiLightColorSemanticTextGreenWeak: #4bc247;
+
+// Text Green Weaker 🔗 to 'Green-40'
+$coreUiLightColorSemanticTextGreenWeaker: #75d182;
+
+// Text Green Weakest 🔗 to 'Green-30'
+$coreUiLightColorSemanticTextGreenWeakest: #a3e0ac;
+
+/* '@/Color/Semantic/Text/Yellow' */
+// Text Yellow Strongest 🔗 to 'Yellow-90'
+$coreUiLightColorSemanticTextYellowStrongest: #4f3d02;
+
+// Text Yellow Stronger 🔗 to 'Yellow-80'
+$coreUiLightColorSemanticTextYellowStronger: #6d5403;
+
+// Text Yellow Strong 🔗 to 'Yellow-70'
+$coreUiLightColorSemanticTextYellowStrong: #8b6b04;
+
+// Text Yellow Normal 🔗 to 'Yellow-60'
+$coreUiLightColorSemanticTextYellowNormal: #b29506;
+
+// Text Yellow Weak 🔗 to 'Yellow-50'
+$coreUiLightColorSemanticTextYellowWeak: #dab707;
+
+// Text Yellow Weaker 🔗 to 'Yellow-40'
+$coreUiLightColorSemanticTextYellowWeaker: #f9d939;
+
+// Text Yellow Weakest 🔗 to 'Yellow-30'
+$coreUiLightColorSemanticTextYellowWeakest: #fbe67e;
+
+/* '@/Color/Semantic/Text/Red' */
+// Text Red Strongest 🔗 to 'Red-90'
+$coreUiLightColorSemanticTextRedStrongest: #6b0606;
+
+// Text Red Stronger 🔗 to 'Red-80'
+$coreUiLightColorSemanticTextRedStronger: #9c1111;
+
+// Text Red Strong 🔗 to 'Red-70'
+$coreUiLightColorSemanticTextRedStrong: #c51616;
+
+// Text Red Normal 🔗 to 'Red-60'
+$coreUiLightColorSemanticTextRedNormal: #e72727;
+
+// Text Red Weak 🔗 to 'Red-50'
+$coreUiLightColorSemanticTextRedWeak: #ed5a5a;
+
+// Text Red Weaker 🔗 to 'Red-40'
+$coreUiLightColorSemanticTextRedWeaker: #f17e7e;
+
+// Text Red Weakest 🔗 to 'Red-30'
+$coreUiLightColorSemanticTextRedWeakest: #f6acac;
+
+/* '@/Color/Semantic/Text/Orang' */
+// Text Orange Strongest 🔗 to 'Orange-90'
+$coreUiLightColorSemanticTextOrangeStrongest: #603006;
+
+// Text Orange Stronger 🔗 to 'Orange-80'
+$coreUiLightColorSemanticTextOrangeStronger: #864309;
+
+// Text Orange Strong 🔗 to 'Orange-70'
+$coreUiLightColorSemanticTextOrangeStrong: #b65b0c;
+
+// Text Orange Normal 🔗 to 'Orange-60'
+$coreUiLightColorSemanticTextOrangeNormal: #d36a0d;
+
+// Text Orange Weak 🔗 to 'Orange-50'
+$coreUiLightColorSemanticTextOrangeWeak: #f28e36;
+
+// Text Orange Weaker 🔗 to 'Orange-40'
+$coreUiLightColorSemanticTextOrangeWeaker: #f6ae6f;
+
+// Text Orange Weakest 🔗 to 'Orange-30'
+$coreUiLightColorSemanticTextOrangeWeakest: #f8c496;
+
+/* '@/Color/Semantic/Text/Violet' */
+// Text Violet Strongest 🔗 to 'Violet-90'
+$coreUiLightColorSemanticTextVioletStrongest: #31165a;
+
+// Text Violet Stronger 🔗 to 'Violet-80'
+$coreUiLightColorSemanticTextVioletStronger: #4c238b;
+
+// Text Violet Strong 🔗 to 'Violet-70'
+$coreUiLightColorSemanticTextVioletStrong: #632db4;
+
+// Text Violet Normal 🔗 to 'Violet-60'
+$coreUiLightColorSemanticTextVioletNormal: #7c43d0;
+
+// Text Violet Weak 🔗 to 'Violet-50'
+$coreUiLightColorSemanticTextVioletWeak: #9264d8;
+
+// Text Violet Weaker 🔗 to 'Violet-40'
+$coreUiLightColorSemanticTextVioletWeaker: #b595e4;
+
+// Text Violet Weakest 🔗 to 'Violet-30'
+$coreUiLightColorSemanticTextVioletWeakest: #c6adeb;
+
+/* '@/Color/Semantic/Text/Magenta' */
+// Text Magenta Strongest 🔗 to 'Magenta-90'
+$coreUiLightColorSemanticTextMagentaStrongest: #580e49;
+
+// Text Magenta Stronger 🔗 to 'Magenta-80'
+$coreUiLightColorSemanticTextMagentaStronger: #84156e;
+
+// Text Magenta Strong 🔗 to 'Magenta-70'
+$coreUiLightColorSemanticTextMagentaStrong: #af1d92;
+
+// Text Magenta Normal 🔗 to 'Magenta-60'
+$coreUiLightColorSemanticTextMagentaNormal: #db24b7;
+
+// Text Magenta Weak 🔗 to 'Magenta-50'
+$coreUiLightColorSemanticTextMagentaWeak: #e250c5;
+
+// Text Magenta Weaker 🔗 to 'Magenta-40'
+$coreUiLightColorSemanticTextMagentaWeaker: #ea7bd4;
+
+// Text Magenta Weakest 🔗 to 'Magenta-30'
+$coreUiLightColorSemanticTextMagentaWeakest: #f1a7e2;
+
+/* '@/Color/Semantic/Surface/Base' */
+// Surface Base Primary 🔗 to 'Neutral-0' 
+// ✨ on Background (Depth-0)
+$coreUiLightColorSemanticSurfaceBasePrimary: #ffffff;
+
+// Surface Base Secondary 🔗 to 'Neutral-5' 
+// ✨ on Background (Depth-1)
+$coreUiLightColorSemanticSurfaceBaseSecondary: #f7f7f8;
+
+// Surface Base Tertiary 🔗 to 'Neutral-10' 
+// ✨ on Backround (Depth-2)
+$coreUiLightColorSemanticSurfaceBaseTertiary: #eef0f1;
+
+/* '@/Color/Semantic/Surface/Nuetral' */
+// Surface Neutral Lightest 🔗 to 'Neutral-10'
+$coreUiLightColorSemanticSurfaceNeutralLightest: #eef0f1;
+
+// Surface Neutral Lighter 🔗 to 'Neutral-20'
+$coreUiLightColorSemanticSurfaceNeutralLighter: #d8dbdf;
+
+// Surface Neutral Light 🔗 to 'Neutral-30'
+$coreUiLightColorSemanticSurfaceNeutralLight: #c2c7cb;
+
+// Surface Neutral Normal 🔗 to 'Neutral-50'
+$coreUiLightColorSemanticSurfaceNeutralNormal: #767e89;
+
+// Surface Neutral Dark 🔗 to 'Neutral-70'
+$coreUiLightColorSemanticSurfaceNeutralDark: #41474d;
+
+// Surface Neutral Darker 🔗 to 'Neutral-80'
+$coreUiLightColorSemanticSurfaceNeutralDarker: #2f3337;
+
+// Surface Neutral Darkest 🔗 to 'Neutral-90'
+$coreUiLightColorSemanticSurfaceNeutralDarkest: #202327;
+
+/* '@/Color/Semantic/Surface/Blue' */
+// Surface Blue Lightest 🔗 to 'Blue-10'
+$coreUiLightColorSemanticSurfaceBlueLightest: #e7f5fe;
+
+// Surface Blue Lighter 🔗 to 'Blue-20'
+$coreUiLightColorSemanticSurfaceBlueLighter: #ceecfd;
+
+// Surface Blue Light 🔗 to 'Blue-30'
+$coreUiLightColorSemanticSurfaceBlueLight: #92d5fc;
+
+// Surface Blue Normal 🔗 to 'Blue-50'
+$coreUiLightColorSemanticSurfaceBlueNormal: #1ba7f8;
+
+// Surface Blue Dark 🔗 to 'Blue-70'
+$coreUiLightColorSemanticSurfaceBlueDark: #0570ad;
+
+// Surface Blue Darker 🔗 to 'Blue-80'
+$coreUiLightColorSemanticSurfaceBlueDarker: #045780;
+
+// Surface Blue Darkest 🔗 to 'Blue-90'
+$coreUiLightColorSemanticSurfaceBlueDarkest: #034363;
+
+/* '@/Color/Semantic/Surface/Navy' */
+// Surface Navy Lightest 🔗 to 'Navy-10'
+$coreUiLightColorSemanticSurfaceNavyLightest: #e7f2fe;
+
+// Surface Navy Lighter 🔗 to 'Navy-20'
+$coreUiLightColorSemanticSurfaceNavyLighter: #cee2fd;
+
+// Surface Navy Light 🔗 to 'Navy-30'
+$coreUiLightColorSemanticSurfaceNavyLight: #92c0fc;
+
+// Surface Navy Normal 🔗 to 'Navy-50'
+$coreUiLightColorSemanticSurfaceNavyNormal: #4392f9;
+
+// Surface Navy Dark 🔗 to 'Navy-70'
+$coreUiLightColorSemanticSurfaceNavyDark: #065dd0;
+
+// Surface Navy Darker 🔗 to 'Navy-80'
+$coreUiLightColorSemanticSurfaceNavyDarker: #054394;
+
+// Surface Navy Darkest 🔗 to 'Navy-90'
+$coreUiLightColorSemanticSurfaceNavyDarkest: #032d63;
+
+/* '@/Color/Semantic/Surface/Green' */
+// Surface Green Lightest 🔗 to 'Green-10'
+$coreUiLightColorSemanticSurfaceGreenLightest: #ecf9ee;
+
+// Surface Green Lighter 🔗 to 'Green-20'
+$coreUiLightColorSemanticSurfaceGreenLighter: #d9f2dc;
+
+// Surface Green Light 🔗 to 'Green-30'
+$coreUiLightColorSemanticSurfaceGreenLight: #a3e0ac;
+
+// Surface Green Normal 🔗 to 'Green-50'
+$coreUiLightColorSemanticSurfaceGreenNormal: #4bc247;
+
+// Surface Green Dark 🔗 to 'Green-70'
+$coreUiLightColorSemanticSurfaceGreenDark: #30913d;
+
+// Surface Green Darker 🔗 to 'Green-80'
+$coreUiLightColorSemanticSurfaceGreenDarker: #246b2d;
+
+// Surface Green Darkest 🔗 to 'Green-90'
+$coreUiLightColorSemanticSurfaceGreenDarkest: #114b18;
+
+/* '@/Color/Semantic/Surface/Yellow' */
+// Surface Yellow Lightest 🔗 to 'Yellow-10'
+$coreUiLightColorSemanticSurfaceYellowLightest: #fefae6;
+
+// Surface Yellow Lighter 🔗 to 'Yellow-20'
+$coreUiLightColorSemanticSurfaceYellowLighter: #fdf2ba;
+
+// Surface Yellow Light 🔗 to 'Yellow-30'
+$coreUiLightColorSemanticSurfaceYellowLight: #fbe67e;
+
+// Surface Yellow Normal 🔗 to 'Yellow-50'
+$coreUiLightColorSemanticSurfaceYellowNormal: #dab707;
+
+// Surface Yellow Dark 🔗 to 'Yellow-70'
+$coreUiLightColorSemanticSurfaceYellowDark: #8b6b04;
+
+// Surface Yellow Darker 🔗 to 'Yellow-80'
+$coreUiLightColorSemanticSurfaceYellowDarker: #6d5403;
+
+// Surface Yellow Darkest 🔗 to 'Yellow-90'
+$coreUiLightColorSemanticSurfaceYellowDarkest: #4f3d02;
+
+/* '@/Color/Semantic/Surface/Red' */
+// Surface Red Lightest 🔗 to 'Red-10'
+$coreUiLightColorSemanticSurfaceRedLightest: #fce8e8;
+
+// Surface Red Lighter 🔗 to 'Red-20'
+$coreUiLightColorSemanticSurfaceRedLighter: #fad1d1;
+
+// Surface Red Light 🔗 to 'Red-30'
+$coreUiLightColorSemanticSurfaceRedLight: #f6acac;
+
+// Surface Red Normal 🔗 to 'Red-50'
+$coreUiLightColorSemanticSurfaceRedNormal: #ed5a5a;
+
+// Surface Red Dark 🔗 to 'Red-70'
+$coreUiLightColorSemanticSurfaceRedDark: #c51616;
+
+// Surface Red Darker 🔗 to 'Red-80'
+$coreUiLightColorSemanticSurfaceRedDarker: #9c1111;
+
+// Surface Red Darkest 🔗 to 'Red-90'
+$coreUiLightColorSemanticSurfaceRedDarkest: #6b0606;
+
+/* '@/Color/Semantic/Surface/Orange' */
+// Surface Orange Lightest 🔗 to 'Orange-10'
+$coreUiLightColorSemanticSurfaceOrangeLightest: #fdf2e7;
+
+// Surface Orange Lighter 🔗 to 'Orange-20'
+$coreUiLightColorSemanticSurfaceOrangeLighter: #fce4cf;
+
+// Surface Orange Light 🔗 to 'Orange-30'
+$coreUiLightColorSemanticSurfaceOrangeLight: #f8c496;
+
+// Surface Orange Normal 🔗 to 'Orange-50'
+$coreUiLightColorSemanticSurfaceOrangeNormal: #ed5a5a;
+
+// Surface Orange Dark 🔗 to 'Orange-70'
+$coreUiLightColorSemanticSurfaceOrangeDark: #b65b0c;
+
+// Surface Orange Darker 🔗 to 'Orange-80'
+$coreUiLightColorSemanticSurfaceOrangeDarker: #864309;
+
+// Surface Orange Darkest 🔗 to 'Orange-90'
+$coreUiLightColorSemanticSurfaceOrangeDarkest: #603006;
+
+/* '@/Color/Semantic/Surface/Violet' */
+// Surface Violet Lightest 🔗 to 'Violet-10'
+$coreUiLightColorSemanticSurfaceVioletLightest: #f1ebfa;
+
+// Surface Violet Lighter 🔗 to 'Violet-20'
+$coreUiLightColorSemanticSurfaceVioletLighter: #e2d6f5;
+
+// Surface Violet Light 🔗 to 'Violet-30'
+$coreUiLightColorSemanticSurfaceVioletLight: #c6adeb;
+
+// Surface Violet Normal 🔗 to 'Violet-50'
+$coreUiLightColorSemanticSurfaceVioletNormal: #9264d8;
+
+// Surface Violet Dark 🔗 to 'Violet-70'
+$coreUiLightColorSemanticSurfaceVioletDark: #632db4;
+
+// Surface Violet Darker 🔗 to 'Violet-80'
+$coreUiLightColorSemanticSurfaceVioletDarker: #864309;
+
+// Surface Violet Darkest 🔗 to 'Violet-90'
+$coreUiLightColorSemanticSurfaceVioletDarkest: #31165a;
+
+/* '@/Color/Semantic/Surface/Magenta' */
+// Surface Magenta Lightest 🔗 to 'Magenta-10'
+$coreUiLightColorSemanticSurfaceMagentaLightest: #fbe9f8;
+
+// Surface Magenta Lighter 🔗 to 'Magenta-20'
+$coreUiLightColorSemanticSurfaceMagentaLighter: #f8d3f1;
+
+// Surface Magenta Light 🔗 to 'Magenta-30'
+$coreUiLightColorSemanticSurfaceMagentaLight: #f1a7e2;
+
+// Surface Magenta Normal 🔗 to 'Magenta-50'
+$coreUiLightColorSemanticSurfaceMagentaNormal: #e250c5;
+
+// Surface Magenta Dark 🔗 to 'Magenta-70'
+$coreUiLightColorSemanticSurfaceMagentaDark: #af1d92;
+
+// Surface Magenta Darker 🔗 to 'Magenta-80'
+$coreUiLightColorSemanticSurfaceMagentaDarker: #84156e;
+
+// Surface Magenta Darkest 🔗 to 'Magenta-90'
+$coreUiLightColorSemanticSurfaceMagentaDarkest: #580e49;

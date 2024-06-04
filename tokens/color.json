@@ -17,6 +17,7 @@
             "value": "#FFFFFF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Neutral'"
             },
@@ -26,6 +27,7 @@
             "value": "#F7F7F8",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-5"
@@ -34,6 +36,7 @@
             "value": "#EEF0F1",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-10"
@@ -42,6 +45,7 @@
             "value": "#D8DBDF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-20"
@@ -50,6 +54,7 @@
             "value": "#C2C7CB",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-30"
@@ -58,6 +63,7 @@
             "value": "#A1A8AF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-40"
@@ -66,6 +72,7 @@
             "value": "#767E89",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-50"
@@ -74,6 +81,7 @@
             "value": "#595E69",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-60"
@@ -82,6 +90,7 @@
             "value": "#41474D",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-70"
@@ -90,6 +99,7 @@
             "value": "#2F3337",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-80"
@@ -98,6 +108,7 @@
             "value": "#202327",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-90"
@@ -106,6 +117,7 @@
             "value": "#121416",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Neutral-100"
@@ -116,6 +128,7 @@
             "value": "#E7F5FE",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Blue'"
             },
@@ -125,6 +138,7 @@
             "value": "#CEECFD",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-20"
@@ -133,6 +147,7 @@
             "value": "#92D5FC",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-30"
@@ -141,6 +156,7 @@
             "value": "#57BEF9",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-40"
@@ -149,6 +165,7 @@
             "value": "#1BA7F8",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-50"
@@ -157,6 +174,7 @@
             "value": "#0D84C9",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-60"
@@ -165,6 +183,7 @@
             "value": "#0570AD",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-70"
@@ -173,6 +192,7 @@
             "value": "#045780",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-80"
@@ -181,6 +201,7 @@
             "value": "#034363",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-90"
@@ -189,6 +210,7 @@
             "value": "#02283B",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Blue-100"
@@ -199,6 +221,7 @@
             "value": "#E7F2FE",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Navy'"
             },
@@ -208,6 +231,7 @@
             "value": "#CEE2FD",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-20"
@@ -216,6 +240,7 @@
             "value": "#92C0FC",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-30"
@@ -224,6 +249,7 @@
             "value": "#6BA9FA",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-40"
@@ -232,6 +258,7 @@
             "value": "#4392F9",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-50"
@@ -240,6 +267,7 @@
             "value": "#2576EF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-60"
@@ -248,6 +276,7 @@
             "value": "#065DD0",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-70"
@@ -256,6 +285,7 @@
             "value": "#054394",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-80"
@@ -264,6 +294,7 @@
             "value": "#032D63",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-90"
@@ -272,6 +303,7 @@
             "value": "#021A3B",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Navy-100"
@@ -282,6 +314,7 @@
             "value": "#ECF9EE",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Green'"
             },
@@ -291,6 +324,7 @@
             "value": "#D9F2DC",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-20"
@@ -299,6 +333,7 @@
             "value": "#A3E0AC",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-30"
@@ -307,6 +342,7 @@
             "value": "#75D182",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-40"
@@ -315,6 +351,7 @@
             "value": "#4BC247",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-50"
@@ -323,6 +360,7 @@
             "value": "#36A144",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-60"
@@ -331,6 +369,7 @@
             "value": "#30913D",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-70"
@@ -339,6 +378,7 @@
             "value": "#246B2D",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-80"
@@ -347,6 +387,7 @@
             "value": "#114B18",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-90"
@@ -355,6 +396,7 @@
             "value": "#0B3210",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Green-100"
@@ -365,6 +407,7 @@
             "value": "#FEFAE6",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Yellow'"
             },
@@ -374,6 +417,7 @@
             "value": "#FDF2BA",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-20"
@@ -382,6 +426,7 @@
             "value": "#FBE67E",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-30"
@@ -390,6 +435,7 @@
             "value": "#F9D939",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-40"
@@ -398,6 +444,7 @@
             "value": "#DAB707",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-50"
@@ -406,6 +453,7 @@
             "value": "#B29506",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-60"
@@ -414,6 +462,7 @@
             "value": "#8B6B04",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-70"
@@ -422,6 +471,7 @@
             "value": "#6D5403",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-80"
@@ -430,6 +480,7 @@
             "value": "#4F3D02",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-90"
@@ -438,6 +489,7 @@
             "value": "#3B2E02",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Yellow-100"
@@ -448,6 +500,7 @@
             "value": "#FCE8E8",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Red'"
             },
@@ -457,6 +510,7 @@
             "value": "#FAD1D1",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-20"
@@ -465,6 +519,7 @@
             "value": "#F6ACAC",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-30"
@@ -473,6 +528,7 @@
             "value": "#F17E7E",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-40"
@@ -481,6 +537,7 @@
             "value": "#ED5A5A",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-50"
@@ -489,6 +546,7 @@
             "value": "#E72727",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-60"
@@ -497,6 +555,7 @@
             "value": "#C51616",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-70"
@@ -505,6 +564,7 @@
             "value": "#9C1111",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-80"
@@ -513,6 +573,7 @@
             "value": "#6B0606",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-90"
@@ -521,6 +582,7 @@
             "value": "#3A0303",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Red-100"
@@ -531,6 +593,7 @@
             "value": "#FDF2E7",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Orange'"
             },
@@ -540,6 +603,7 @@
             "value": "#FCE4CF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-20"
@@ -548,6 +612,7 @@
             "value": "#F8C496",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-30"
@@ -556,6 +621,7 @@
             "value": "#F6AE6F",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-40"
@@ -564,6 +630,7 @@
             "value": "#F28E36",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-50"
@@ -572,6 +639,7 @@
             "value": "#D36A0D",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-60"
@@ -580,6 +648,7 @@
             "value": "#B65B0C",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-70"
@@ -588,6 +657,7 @@
             "value": "#864309",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-80"
@@ -596,6 +666,7 @@
             "value": "#603006",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-90"
@@ -604,6 +675,7 @@
             "value": "#3A1D04",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Orange-100"
@@ -614,6 +686,7 @@
             "value": "#F1EBFA",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Violet'"
             },
@@ -623,6 +696,7 @@
             "value": "#E2D6F5",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-20"
@@ -631,6 +705,7 @@
             "value": "#C6ADEB",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-30"
@@ -639,6 +714,7 @@
             "value": "#B595E4",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-40"
@@ -647,6 +723,7 @@
             "value": "#9264D8",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-50"
@@ -655,6 +732,7 @@
             "value": "#7C43D0",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-60"
@@ -663,6 +741,7 @@
             "value": "#632DB4",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-70"
@@ -671,6 +750,7 @@
             "value": "#4C238B",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-80"
@@ -679,6 +759,7 @@
             "value": "#31165A",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-90"
@@ -687,6 +768,7 @@
             "value": "#220F3D",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Violet-100"
@@ -697,6 +779,7 @@
             "value": "#FBE9F8",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade",
               "description": "'@/Color/Primitive/Magenta'"
             },
@@ -706,6 +789,7 @@
             "value": "#F8D3F1",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-20"
@@ -714,6 +798,7 @@
             "value": "#F1A7E2",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-30"
@@ -722,6 +807,7 @@
             "value": "#EA7BD4",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-40"
@@ -730,6 +816,7 @@
             "value": "#E250C5",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-50"
@@ -738,6 +825,7 @@
             "value": "#DB24B7",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-60"
@@ -746,6 +834,7 @@
             "value": "#AF1D92",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-70"
@@ -754,6 +843,7 @@
             "value": "#84156E",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-80"
@@ -762,6 +852,7 @@
             "value": "#580E49",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-90"
@@ -770,9 +861,1243 @@
             "value": "#35092C",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Magenta-100"
+          }
+        }
+      },
+      "semantic": {
+        "text": {
+          "base": {
+            "strongest": {
+              "value": "{light.color.primitive.neutral.100}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Base'"
+              },
+              "comment": "Text Base Strongest 🔗 to 'Neutral-100'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.neutral.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Stronger 🔗 to 'Neutral-90'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.neutral.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Strong 🔗 to 'Neutral-80'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.neutral.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Normal 🔗 to 'Neutral-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.neutral.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Weak 🔗 to 'Neutral-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.neutral.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Weaker 🔗 to 'Neutral-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.neutral.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Weakest 🔗 to 'Neutral-30'"
+            },
+            "custom": {
+              "value": "{light.color.primitive.neutral.0}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Base Custom 🔗 to 'Neutral-0'"
+            }
+          },
+          "blue": {
+            "strongest": {
+              "value": "{light.color.primitive.blue.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Blue'"
+              },
+              "comment": "Text Blue Strongest 🔗 to 'Blue-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.blue.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Stronger 🔗 to 'Blue-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.blue.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Strong 🔗 to 'Blue-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.blue.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Normal 🔗 to 'Blue-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.blue.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Weak 🔗 to 'Blue-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.blue.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Weaker 🔗 to 'Blue-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.blue.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Blue Weakest 🔗 to 'Blue-30'"
+            }
+          },
+          "navy": {
+            "strongest": {
+              "value": "{light.color.primitive.navy.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Navy'"
+              },
+              "comment": "Text Navy Strongest 🔗 to 'Navy-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.navy.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Stronger 🔗 to'Navy-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.navy.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Strong 🔗 to'Navy-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.navy.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Normal 🔗 to'Navy-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.navy.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Weak 🔗 to'Navy-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.navy.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Weaker 🔗 to'Navy-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.navy.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Weakest 🔗 to'Navy-30'"
+            }
+          },
+          "green": {
+            "strongest": {
+              "value": "{light.color.primitive.green.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Green'"
+              },
+              "comment": "Text Green Strongest 🔗 to 'Green-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.green.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Stronger 🔗 to 'Green-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.green.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Strong 🔗 to 'Green-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.green.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Normal 🔗 to 'Green-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.green.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Weak 🔗 to 'Green-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.green.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Weaker 🔗 to 'Green-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.green.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Weakest 🔗 to 'Green-30'"
+            }
+          },
+          "yellow": {
+            "strongest": {
+              "value": "{light.color.primitive.yellow.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Yellow'"
+              },
+              "comment": "Text Yellow Strongest 🔗 to 'Yellow-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.yellow.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Stronger 🔗 to 'Yellow-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.yellow.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Strong 🔗 to 'Yellow-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.yellow.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Normal 🔗 to 'Yellow-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.yellow.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Weak 🔗 to 'Yellow-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.yellow.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Weaker 🔗 to 'Yellow-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.yellow.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Weakest 🔗 to 'Yellow-30'"
+            }
+          },
+          "red": {
+            "strongest": {
+              "value": "{light.color.primitive.red.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Red'"
+              },
+              "comment": "Text Red Strongest 🔗 to 'Red-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.red.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Stronger 🔗 to 'Red-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.red.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Strong 🔗 to 'Red-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Normal 🔗 to 'Red-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Weak 🔗 to 'Red-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.red.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Weaker 🔗 to 'Red-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.red.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Weakest 🔗 to 'Red-30'"
+            }
+          },
+          "orange": {
+            "strongest": {
+              "value": "{light.color.primitive.orange.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Orang'"
+              },
+              "comment": "Text Orange Strongest 🔗 to 'Orange-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.orange.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Stronger 🔗 to 'Orange-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.orange.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Strong 🔗 to 'Orange-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Normal 🔗 to 'Orange-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Weak 🔗 to 'Orange-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.orange.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Weaker 🔗 to 'Orange-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.orange.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Weakest 🔗 to 'Orange-30'"
+            }
+          },
+          "violet": {
+            "strongest": {
+              "value": "{light.color.primitive.violet.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Violet'"
+              },
+              "comment": "Text Violet Strongest 🔗 to 'Violet-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.violet.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Stronger 🔗 to 'Violet-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.violet.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Strong 🔗 to 'Violet-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.violet.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Normal 🔗 to 'Violet-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.violet.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Weak 🔗 to 'Violet-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.violet.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Weaker 🔗 to 'Violet-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.violet.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Weakest 🔗 to 'Violet-30'"
+            }
+          },
+          "magenta": {
+            "strongest": {
+              "value": "{light.color.primitive.magenta.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Magenta'"
+              },
+              "comment": "Text Magenta Strongest 🔗 to 'Magenta-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.magenta.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Stronger 🔗 to 'Magenta-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.magenta.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Strong 🔗 to 'Magenta-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.magenta.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Normal 🔗 to 'Magenta-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.magenta.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Weak 🔗 to 'Magenta-50'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.magenta.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Weaker 🔗 to 'Magenta-40'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.magenta.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Weakest 🔗 to 'Magenta-30'"
+            }
+          }
+        },
+        "surface": {
+          "base": {
+            "primary": {
+              "value": "{light.color.primitive.neutral.0}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Base'"
+              },
+              "comment": "Surface Base Primary 🔗 to 'Neutral-0' \n// ✨ on Background (Depth-0)"
+            },
+            "secondary": {
+              "value": "{light.color.primitive.neutral.5}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Base Secondary 🔗 to 'Neutral-5' \n// ✨ on Background (Depth-1)"
+            },
+            "tertiary": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Base Tertiary 🔗 to 'Neutral-10' \n// ✨ on Backround (Depth-2)"
+            }
+          },
+          "neutral": {
+            "lightest": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Nuetral'"
+              },
+              "comment": "Surface Neutral Lightest 🔗 to 'Neutral-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.neutral.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Lighter 🔗 to 'Neutral-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.neutral.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Light 🔗 to 'Neutral-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.neutral.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Normal 🔗 to 'Neutral-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.neutral.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Dark 🔗 to 'Neutral-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.neutral.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Darker 🔗 to 'Neutral-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.neutral.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Darkest 🔗 to 'Neutral-90'"
+            }
+          },
+          "blue": {
+            "lightest": {
+              "value": "{light.color.primitive.blue.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Blue'"
+              },
+              "comment": "Surface Blue Lightest 🔗 to 'Blue-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.blue.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Lighter 🔗 to 'Blue-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.blue.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Light 🔗 to 'Blue-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.blue.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Normal 🔗 to 'Blue-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.blue.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Dark 🔗 to 'Blue-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.blue.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Darker 🔗 to 'Blue-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.blue.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Darkest 🔗 to 'Blue-90'"
+            }
+          },
+          "navy": {
+            "lightest": {
+              "value": "{light.color.primitive.navy.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Navy'"
+              },
+              "comment": "Surface Navy Lightest 🔗 to 'Navy-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.navy.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Lighter 🔗 to 'Navy-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.navy.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Light 🔗 to 'Navy-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.navy.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Normal 🔗 to 'Navy-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.navy.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Dark 🔗 to 'Navy-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.navy.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Darker 🔗 to 'Navy-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.navy.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Darkest 🔗 to 'Navy-90'"
+            }
+          },
+          "green": {
+            "lightest": {
+              "value": "{light.color.primitive.green.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Green'"
+              },
+              "comment": "Surface Green Lightest 🔗 to 'Green-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.green.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Lighter 🔗 to 'Green-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.green.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Light 🔗 to 'Green-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.green.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Normal 🔗 to 'Green-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.green.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Dark 🔗 to 'Green-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.green.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Darker 🔗 to 'Green-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.green.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Darkest 🔗 to 'Green-90'"
+            }
+          },
+          "yellow": {
+            "lightest": {
+              "value": "{light.color.primitive.yellow.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Yellow'"
+              },
+              "comment": "Surface Yellow Lightest 🔗 to 'Yellow-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.yellow.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Lighter 🔗 to 'Yellow-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.yellow.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Light 🔗 to 'Yellow-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.yellow.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Normal 🔗 to 'Yellow-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.yellow.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Dark 🔗 to 'Yellow-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.yellow.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Darker 🔗 to 'Yellow-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.yellow.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Darkest 🔗 to 'Yellow-90'"
+            }
+          },
+          "red": {
+            "lightest": {
+              "value": "{light.color.primitive.red.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Red'"
+              },
+              "comment": "Surface Red Lightest 🔗 to 'Red-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.red.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Lighter 🔗 to 'Red-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.red.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Light 🔗 to 'Red-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Normal 🔗 to 'Red-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.red.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Dark 🔗 to 'Red-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.red.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Darker 🔗 to 'Red-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.red.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Darkest 🔗 to 'Red-90'"
+            }
+          },
+          "orange": {
+            "lightest": {
+              "value": "{light.color.primitive.orange.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Orange'"
+              },
+              "comment": "Surface Orange Lightest 🔗 to 'Orange-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.orange.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Lighter 🔗 to 'Orange-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.orange.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Light 🔗 to 'Orange-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Normal 🔗 to 'Orange-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.orange.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Dark 🔗 to 'Orange-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.orange.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Darker 🔗 to 'Orange-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.orange.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Darkest 🔗 to 'Orange-90'"
+            }
+          },
+          "violet": {
+            "lightest": {
+              "value": "{light.color.primitive.violet.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Violet'"
+              },
+              "comment": "Surface Violet Lightest 🔗 to 'Violet-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.violet.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Lighter 🔗 to 'Violet-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.violet.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Light 🔗 to 'Violet-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.violet.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Normal 🔗 to 'Violet-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.violet.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Dark 🔗 to 'Violet-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.orange.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Darker 🔗 to 'Violet-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.violet.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Darkest 🔗 to 'Violet-90'"
+            }
+          },
+          "magenta": {
+            "lightest": {
+              "value": "{light.color.primitive.magenta.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Magenta'"
+              },
+              "comment": "Surface Magenta Lightest 🔗 to 'Magenta-10'"
+            },
+            "lighter": {
+              "value": "{light.color.primitive.magenta.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Lighter 🔗 to 'Magenta-20'"
+            },
+            "light": {
+              "value": "{light.color.primitive.magenta.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Light 🔗 to 'Magenta-30'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.magenta.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Normal 🔗 to 'Magenta-50'"
+            },
+            "dark": {
+              "value": "{light.color.primitive.magenta.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Dark 🔗 to 'Magenta-70'"
+            },
+            "darker": {
+              "value": "{light.color.primitive.magenta.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Darker 🔗 to 'Magenta-80'"
+            },
+            "darkest": {
+              "value": "{light.color.primitive.magenta.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Darkest 🔗 to 'Magenta-90'"
+            }
           }
         }
       }
