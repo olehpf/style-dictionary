@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/color.scss file.
- * Generated on: Mon Jun 03 2024 15:34:43 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Tue Jun 04 2024 09:06:34 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -76,101 +76,219 @@ $coreUiLightColorPrimitiveBlue90: #034363;
 // Blue-100
 $coreUiLightColorPrimitiveBlue100: #02283b;
 
-
+/* '@/Color/Primitive/Navy' */
+// Navy-10
 $coreUiLightColorPrimitiveNavy10: #e7f2fe;
 
+// Navy-20
+$coreUiLightColorPrimitiveNavy20: #cee2fd;
 
-$coreUiLightColorPrimitiveNavy20: #ceecfd;
+// Navy-30
+$coreUiLightColorPrimitiveNavy30: #92c0fc;
 
+// Navy-40
+$coreUiLightColorPrimitiveNavy40: #6ba9fa;
 
-$coreUiLightColorPrimitiveNavy30: #92d5fc;
+// Navy-50
+$coreUiLightColorPrimitiveNavy50: #4392f9;
 
+// Navy-60
+$coreUiLightColorPrimitiveNavy60: #2576ef;
 
-$coreUiLightColorPrimitiveNavy40: #57bef9;
+// Navy-70
+$coreUiLightColorPrimitiveNavy70: #065dd0;
 
+// Navy-80
+$coreUiLightColorPrimitiveNavy80: #054394;
 
-$coreUiLightColorPrimitiveNavy50: #1ba7f8;
+// Navy-90
+$coreUiLightColorPrimitiveNavy90: #032d63;
 
+// Navy-100
+$coreUiLightColorPrimitiveNavy100: #021a3b;
 
-$coreUiLightColorPrimitiveNavy60: #0d84c9;
+/* '@/Color/Primitive/Green' */
+// Green-10
+$coreUiLightColorPrimitiveGreen10: #ecf9ee;
 
+// Green-20
+$coreUiLightColorPrimitiveGreen20: #d9f2dc;
 
-$coreUiLightColorPrimitiveNavy70: #0570ad;
+// Green-30
+$coreUiLightColorPrimitiveGreen30: #a3e0ac;
 
+// Green-40
+$coreUiLightColorPrimitiveGreen40: #75d182;
 
-$coreUiLightColorPrimitiveNavy80: #045780;
+// Green-50
+$coreUiLightColorPrimitiveGreen50: #4bc247;
 
+// Green-60
+$coreUiLightColorPrimitiveGreen60: #36a144;
 
-$coreUiLightColorPrimitiveNavy90: #034363;
+// Green-70
+$coreUiLightColorPrimitiveGreen70: #30913d;
 
+// Green-80
+$coreUiLightColorPrimitiveGreen80: #246b2d;
 
-$coreUiLightColorPrimitiveNavy100: #02283b;
+// Green-90
+$coreUiLightColorPrimitiveGreen90: #114b18;
 
+// Green-100
+$coreUiLightColorPrimitiveGreen100: #0b3210;
 
-$coreUiDarkColorPrimitiveBaseDefault: #000000;
+/* '@/Color/Primitive/Yellow' */
+// Yellow-10
+$coreUiLightColorPrimitiveYellow10: #fefae6;
 
+// Yellow-20
+$coreUiLightColorPrimitiveYellow20: #fdf2ba;
 
-$coreUiDarkColorPrimitiveNeutral0: #121416;
+// Yellow-30
+$coreUiLightColorPrimitiveYellow30: #fbe67e;
 
+// Yellow-40
+$coreUiLightColorPrimitiveYellow40: #f9d939;
 
-$coreUiDarkColorPrimitiveNeutral5: #202327;
+// Yellow-50
+$coreUiLightColorPrimitiveYellow50: #dab707;
 
+// Yellow-60
+$coreUiLightColorPrimitiveYellow60: #b29506;
 
-$coreUiDarkColorPrimitiveNeutral10: #2f3337;
+// Yellow-70
+$coreUiLightColorPrimitiveYellow70: #8b6b04;
 
+// Yellow-80
+$coreUiLightColorPrimitiveYellow80: #6d5403;
 
-$coreUiDarkColorPrimitiveNeutral20: #41474d;
+// Yellow-90
+$coreUiLightColorPrimitiveYellow90: #4f3d02;
 
+// Yellow-100
+$coreUiLightColorPrimitiveYellow100: #3b2e02;
 
-$coreUiDarkColorPrimitiveNeutral30: #595e69;
+/* '@/Color/Primitive/Red' */
+// Red-10
+$coreUiLightColorPrimitiveRed10: #fce8e8;
 
+// Red-20
+$coreUiLightColorPrimitiveRed20: #fad1d1;
 
-$coreUiDarkColorPrimitiveNeutral40: #767e89;
+// Red-30
+$coreUiLightColorPrimitiveRed30: #f6acac;
 
+// Red-40
+$coreUiLightColorPrimitiveRed40: #f17e7e;
 
-$coreUiDarkColorPrimitiveNeutral50: #a1a8af;
+// Red-50
+$coreUiLightColorPrimitiveRed50: #ed5a5a;
 
+// Red-60
+$coreUiLightColorPrimitiveRed60: #e72727;
 
-$coreUiDarkColorPrimitiveNeutral60: #c2c7cb;
+// Red-70
+$coreUiLightColorPrimitiveRed70: #c51616;
 
+// Red-80
+$coreUiLightColorPrimitiveRed80: #9c1111;
 
-$coreUiDarkColorPrimitiveNeutral70: #d8dbdf;
+// Red-90
+$coreUiLightColorPrimitiveRed90: #6b0606;
 
+// Red-100
+$coreUiLightColorPrimitiveRed100: #3a0303;
 
-$coreUiDarkColorPrimitiveNeutral80: #eef0f1;
+/* '@/Color/Primitive/Orange' */
+// Orange-10
+$coreUiLightColorPrimitiveOrange10: #fdf2e7;
 
+// Orange-20
+$coreUiLightColorPrimitiveOrange20: #fce4cf;
 
-$coreUiDarkColorPrimitiveNeutral90: #f7f7f8;
+// Orange-30
+$coreUiLightColorPrimitiveOrange30: #f8c496;
 
+// Orange-40
+$coreUiLightColorPrimitiveOrange40: #f6ae6f;
 
-$coreUiDarkColorPrimitiveNeutral100: #ffffff;
+// Orange-50
+$coreUiLightColorPrimitiveOrange50: #f28e36;
 
+// Orange-60
+$coreUiLightColorPrimitiveOrange60: #d36a0d;
 
-$coreUiDarkColorPrimitiveNeutralBlue10: #02283b;
+// Orange-70
+$coreUiLightColorPrimitiveOrange70: #b65b0c;
 
+// Orange-80
+$coreUiLightColorPrimitiveOrange80: #864309;
 
-$coreUiDarkColorPrimitiveNeutralBlue20: #034363;
+// Orange-90
+$coreUiLightColorPrimitiveOrange90: #603006;
 
+// Orange-100
+$coreUiLightColorPrimitiveOrange100: #3a1d04;
 
-$coreUiDarkColorPrimitiveNeutralBlue30: #045780;
+/* '@/Color/Primitive/Violet' */
+// Violet-10
+$coreUiLightColorPrimitiveViolet10: #f1ebfa;
 
+// Violet-20
+$coreUiLightColorPrimitiveViolet20: #e2d6f5;
 
-$coreUiDarkColorPrimitiveNeutralBlue40: #0570ad;
+// Violet-30
+$coreUiLightColorPrimitiveViolet30: #c6adeb;
 
+// Violet-40
+$coreUiLightColorPrimitiveViolet40: #b595e4;
 
-$coreUiDarkColorPrimitiveNeutralBlue50: #0d84c9;
+// Violet-50
+$coreUiLightColorPrimitiveViolet50: #9264d8;
 
+// Violet-60
+$coreUiLightColorPrimitiveViolet60: #7c43d0;
 
-$coreUiDarkColorPrimitiveNeutralBlue60: #1ba7f8;
+// Violet-70
+$coreUiLightColorPrimitiveViolet70: #632db4;
 
+// Violet-80
+$coreUiLightColorPrimitiveViolet80: #4c238b;
 
-$coreUiDarkColorPrimitiveNeutralBlue70: #57bef9;
+// Violet-90
+$coreUiLightColorPrimitiveViolet90: #31165a;
 
+// Violet-100
+$coreUiLightColorPrimitiveViolet100: #220f3d;
 
-$coreUiDarkColorPrimitiveNeutralBlue80: #92d5fc;
+/* '@/Color/Primitive/Magenta' */
+// Magenta-10
+$coreUiLightColorPrimitiveMagenta10: #fbe9f8;
 
+// Magenta-20
+$coreUiLightColorPrimitiveMagenta20: #f8d3f1;
 
-$coreUiDarkColorPrimitiveNeutralBlue90: #ceecfd;
+// Magenta-30
+$coreUiLightColorPrimitiveMagenta30: #f1a7e2;
 
+// Magenta-40
+$coreUiLightColorPrimitiveMagenta40: #ea7bd4;
 
-$coreUiDarkColorPrimitiveNeutralBlue100: #e7f5fe;
+// Magenta-50
+$coreUiLightColorPrimitiveMagenta50: #e250c5;
+
+// Magenta-60
+$coreUiLightColorPrimitiveMagenta60: #db24b7;
+
+// Magenta-70
+$coreUiLightColorPrimitiveMagenta70: #af1d92;
+
+// Magenta-80
+$coreUiLightColorPrimitiveMagenta80: #84156e;
+
+// Magenta-90
+$coreUiLightColorPrimitiveMagenta90: #580e49;
+
+// Magenta-100
+$coreUiLightColorPrimitiveMagenta100: #35092c;
