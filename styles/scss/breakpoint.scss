@@ -1,11 +1,11 @@
 /** --------------------------------------------------------------------------
  * The scss/breakpoint.scss file.
- * Generated on: Wed Jun 05 2024 20:56:43 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Wed Jun 05 2024 21:32:50 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
 
-/* '@/Breakpoints' */
+/* '@/Breakpoint/All' */
 // Small Breakpoint 
 // '320' is the Start point
 $coreUiBreakpointSmMinWidth: '320px';
@@ -19,5 +19,6 @@ $coreUiBreakpointSmColumns: 4;
 // Gutter accepts '8px'
 $coreUiBreakpointSmGutter: '8px';
 
-// Margin size has '16px'
-$coreUiBreakpointSmMargin: '16px';
+// Margin size = '24px' 🔗 to '@Spacing/Primitive/Spacer'
+// use to wrap <Layout />
+$coreUiBreakpointSmMargin: '24px';

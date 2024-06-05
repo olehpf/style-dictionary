@@ -33,7 +33,16 @@
                         "outputReferences": true
                     },
                     "filter": "isBreakpoint"
-                }   
+                },
+                {
+                    "destination": "scss/spacing.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isSpacing"
+                }    
             ]
         }
     }

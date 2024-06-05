@@ -1,0 +1,13 @@
+{
+  "spacing": {
+    "primitive": {
+      "spacer": {
+        "value": "'24px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

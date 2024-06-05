@@ -4,7 +4,7 @@ font properties. Here's a breakdown of what each part of the code is doing: */
 const StyleDictionary = require("style-dictionary");
 const configStyleDictionary = require("./config.js");
 
-// Filter for color properties
+// Filter for Color properties
 StyleDictionary.registerFilter({
   name: "isColor",
   matcher: function (token) {
@@ -12,7 +12,7 @@ StyleDictionary.registerFilter({
   },
 });
 
-// Filter for font properties
+// Filter for Font properties
 StyleDictionary.registerFilter({
   name: "isFont",
   matcher: function (token) {
@@ -20,11 +20,19 @@ StyleDictionary.registerFilter({
   },
 });
 
-// Filter for breakpoints properties
+// Filter for Breakpoint properties
 StyleDictionary.registerFilter({
   name: "isBreakpoint",
   matcher: function (token) {
     return token.attributes.type === "breakpoint";
+  },
+});
+
+// Filter for Spacing properties
+StyleDictionary.registerFilter({
+  name: "isSpacing",
+  matcher: function (token) {
+    return token.attributes.type === "spacing";
   },
 });
 

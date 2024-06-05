@@ -6,7 +6,7 @@
         "attributes": {
           "category": "dimension",
           "type": "breakpoint",
-          "description": "'@/Breakpoints'"
+          "description": "'@/Breakpoint/All'"
         },
         "comment": "Small Breakpoint \n// '320' is the Start point"
       },
@@ -35,12 +35,12 @@
         "comment": "Gutter accepts '8px'" 
       },
       "margin": { 
-        "value": "'16px'",
+        "value": "{spacing.primitive.spacer.value}",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "Margin size has '16px'"  
+        "comment": "Margin size = '24px' 🔗 to '@Spacing/Primitive/Spacer'\n// use to wrap <Layout />"  
       }
     }
   }
