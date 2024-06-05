@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/breakpoint.scss file.
- * Generated on: Wed Jun 05 2024 21:32:50 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Wed Jun 05 2024 22:18:44 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -16,9 +16,9 @@ $coreUiBreakpointSmMaxWidth: '600px';
 // Number of columns = 4
 $coreUiBreakpointSmColumns: 4;
 
-// Gutter accepts '8px'
+// Gutter 🔗 to '@Spacing/Primitive/8'
 $coreUiBreakpointSmGutter: '8px';
 
-// Margin size = '24px' 🔗 to '@Spacing/Primitive/Spacer'
+// Margin size 🔗 to '@Spacing/Primitive/16'
 // use to wrap <Layout />
-$coreUiBreakpointSmMargin: '24px';
+$coreUiBreakpointSmMargin: '16px';

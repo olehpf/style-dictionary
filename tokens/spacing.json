@@ -1,11 +1,218 @@
 {
   "spacing": {
     "primitive": {
-      "spacer": {
+      "0": {
+        "value": "'0px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "2": {
+        "value": "'2px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "4": {
+        "value": "'4px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "6": {
+        "value": "'6px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "8": {
+        "value": "'8px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "10": {
+        "value": "'10px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "12": {
+        "value": "'12px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "16": {
+        "value": "'16px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "20": {
+        "value": "'20px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "24": {
         "value": "'24px'",
         "attributes": {
           "category": "dimension",
           "type": "spacing"
+        }
+      },
+      "32": {
+        "value": "'32px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "40": {
+        "value": "'40px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "48": {
+        "value": "'48px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "64": {
+        "value": "'64px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "80": {
+        "value": "'80px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "96": {
+        "value": "'96px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "128": {
+        "value": "'128px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "160": {
+        "value": "'160px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "192": {
+        "value": "'192px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "256": {
+        "value": "'256px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      },
+      "auto": {
+        "value": "'auto'",
+        "attributes": {
+          "category": "dimension",
+          "type": "spacing"
+        }
+      }
+    },
+    "semantic": {
+      "padding": {
+        "none": {
+          "value": "{spacing.primitive.0.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "auto": {
+          "value": "'auto'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "xxs": {
+          "value": "'2px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "value": "'4px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "s": {
+          "value": "'8px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "m": {
+          "value": "'16px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "l": {
+          "value": "'24px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "xl": {
+          "value": "'32px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
+        },
+        "xxl": {
+          "value": "'48px'",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          }
         }
       }
     }

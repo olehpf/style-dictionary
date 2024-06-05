@@ -27,20 +27,20 @@
         "comment": "Number of columns = 4"
       },
       "gutter": { 
-        "value": "'8px'",
+        "value": "{spacing.primitive.8.value}",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "Gutter accepts '8px'" 
+        "comment": "Gutter 🔗 to '@Spacing/Primitive/8'" 
       },
       "margin": { 
-        "value": "{spacing.primitive.spacer.value}",
+        "value": "{spacing.primitive.16.value}",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "Margin size = '24px' 🔗 to '@Spacing/Primitive/Spacer'\n// use to wrap <Layout />"  
+        "comment": "Margin size 🔗 to '@Spacing/Primitive/16'\n// use to wrap <Layout />"  
       }
     }
   }
