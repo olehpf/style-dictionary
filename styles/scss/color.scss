@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/color.scss file.
- * Generated on: Wed Jun 05 2024 08:56:21 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Wed Jun 05 2024 16:45:01 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -293,30 +293,30 @@ $coreUiLightColorPrimitiveMagenta90: #580e49;
 // Magenta-100
 $coreUiLightColorPrimitiveMagenta100: #35092c;
 
-/* '@/Color/Semantic/Text/Base' */
-// Text Base 2x-Strong 🔗 to 'Neutral-100'
-$coreUiLightColorSemanticTextBaseXxStrong: #121416;
+/* '@/Color/Semantic/Text/Neutral' */
+// Text Neutral 2x-Strong 🔗 to 'Neutral-100'
+$coreUiLightColorSemanticTextNeutralXxStrong: #121416;
 
-// Text Base x-Stronger 🔗 to 'Neutral-90'
-$coreUiLightColorSemanticTextBaseXStrong: #202327;
+// Text Neutral x-Stronger 🔗 to 'Neutral-90'
+$coreUiLightColorSemanticTextNeutralXStrong: #202327;
 
-// Text Base Strong 🔗 to 'Neutral-80'
-$coreUiLightColorSemanticTextBaseStrong: #2f3337;
+// Text Neutral Strong 🔗 to 'Neutral-80'
+$coreUiLightColorSemanticTextNeutralStrong: #2f3337;
 
-// Text Base Normal 🔗 to 'Neutral-60'
-$coreUiLightColorSemanticTextBaseNormal: #595e69;
+// Text Neutral Normal 🔗 to 'Neutral-60'
+$coreUiLightColorSemanticTextNeutralNormal: #595e69;
 
-// Text Base Weak 🔗 to 'Neutral-50'
-$coreUiLightColorSemanticTextBaseWeak: #767e89;
+// Text Neutral Weak 🔗 to 'Neutral-50'
+$coreUiLightColorSemanticTextNeutralWeak: #767e89;
 
-// Text Base x-Weak 🔗 to 'Neutral-40'
-$coreUiLightColorSemanticTextBaseXWeak: #a1a8af;
+// Text Neutral x-Weak 🔗 to 'Neutral-40'
+$coreUiLightColorSemanticTextNeutralXWeak: #a1a8af;
 
-// Text Base 2x-Weak 🔗 to 'Neutral-30'
-$coreUiLightColorSemanticTextBaseXxWeak: #c2c7cb;
+// Text Neutral 2x-Weak 🔗 to 'Neutral-30'
+$coreUiLightColorSemanticTextNeutralXxWeak: #c2c7cb;
 
-// Text Base 3x-Weak 🔗 to 'Neutral-0'
-$coreUiLightColorSemanticTextBaseXxxWeak: #ffffff;
+// Text Neutral 3x-Weak 🔗 to 'Neutral-0'
+$coreUiLightColorSemanticTextNeutralXxxWeak: #ffffff;
 
 /* '@/Color/Semantic/Text/Blue' */
 // Text Blue 2x-Strong 🔗 to 'Blue-90'
@@ -693,203 +693,191 @@ $coreUiLightColorSemanticSurfaceMagentaXWeak: #f8d3f1;
 // Surface magenta 2x-Weak 🔗 to 'Magenta-10'
 $coreUiLightColorSemanticSurfaceMagentaXxWeak: #fbe9f8;
 
-/* '@/Color/Semantic/Border/Base' */
-// Border Base Strongest 🔗 to 'Neutral-90'
-$coreUiLightColorSemanticBorderBaseStrongest: #202327;
+/* '@/Color/Semantic/Border/Nuetral' */
+// Border Neutral 2x-Strong 🔗 to 'Neutral-90'
+$coreUiLightColorSemanticBorderNeutralXxStrong: #202327;
 
-// Border Base Stronger 🔗 to 'Neutral-80'
-$coreUiLightColorSemanticBorderBaseStronger: #2f3337;
+// Border Neutral x-Strong 🔗 to 'Neutral-80'
+$coreUiLightColorSemanticBorderNeutralXStrong: #2f3337;
 
-// Border Base Strong 🔗 to 'Neutral-70'
-$coreUiLightColorSemanticBorderBaseStrong: #41474d;
+// Border Neutral Strong 🔗 to 'Neutral-70'
+$coreUiLightColorSemanticBorderNeutralStrong: #41474d;
 
-// Border Base Normal 🔗 to 'Neutral-50'
-$coreUiLightColorSemanticBorderBaseNormal: #767e89;
+// Border Neutral Normal 🔗 to 'Neutral-50'
+$coreUiLightColorSemanticBorderNeutralNormal: #767e89;
 
-// Border Base Weak 🔗 to 'Neutral-20'
-$coreUiLightColorSemanticBorderBaseWeak: #d8dbdf;
+// Border Neutral Weak 🔗 to 'Neutral-30'
+$coreUiLightColorSemanticBorderNeutralWeak: #c2c7cb;
 
-// Border Base Weaker 🔗 to 'Neutral-10'
-$coreUiLightColorSemanticBorderBaseWeaker: #eef0f1;
+// Border Neutral x-Weak 🔗 to 'Neutral-20'
+$coreUiLightColorSemanticBorderNeutralXWeak: #d8dbdf;
 
-// Border Base Weakest 🔗 to 'Neutral-5'
-$coreUiLightColorSemanticBorderBaseWeakest: #f7f7f8;
+// Border Neutral 2x-Weak 🔗 to 'Neutral-10'
+$coreUiLightColorSemanticBorderNeutralXxWeak: #eef0f1;
 
-// Border Base Whiteness 🔗 to 'Neutral-0'
-$coreUiLightColorSemanticBorderBaseWhiteness: #ffffff;
+// Border Neutral 2x-Weak 🔗 to 'Neutral-0'
+$coreUiLightColorSemanticBorderNeutralXxxWeak: #eef0f1;
 
 /* '@/Color/Semantic/Border/Blue' */
-// Border Blue Strongest 🔗 to 'Blue-90'
-$coreUiLightColorSemanticBorderBlueStrongest: #034363;
+// Border Blue 2x-Strong 🔗 to 'Blue-90'
+$coreUiLightColorSemanticBorderBlueXxStrong: #034363;
 
-// Border Blue Stronger 🔗 to 'Blue-80'
-$coreUiLightColorSemanticBorderBlueStronger: #045780;
+// Border Blue x-Strong 🔗 to 'Blue-80'
+$coreUiLightColorSemanticBorderBlueXStrong: #045780;
 
 // Border Blue Strong 🔗 to 'Blue-70'
 $coreUiLightColorSemanticBorderBlueStrong: #0570ad;
 
 // Border Blue Normal 🔗 to 'Blue-50'
-$coreUiLightColorSemanticBorderBlueNormal: #0d84c9;
+$coreUiLightColorSemanticBorderBlueNormal: #1ba7f8;
 
 // Border Blue Weak 🔗 to 'Blue-30'
 $coreUiLightColorSemanticBorderBlueWeak: #92d5fc;
 
-// Border Blue Weaker 🔗 to 'Blue-20'
-$coreUiLightColorSemanticBorderBlueWeaker: #ceecfd;
+// Border Blue x-Weak 🔗 to 'Blue-20'
+$coreUiLightColorSemanticBorderBlueXWeak: #ceecfd;
 
-// Border Blue Weakest 🔗 to 'Blue-10'
-$coreUiLightColorSemanticBorderBlueWeakest: #e7f5fe;
+// Border Blue 2x-Weak 🔗 to 'Blue-10'
+$coreUiLightColorSemanticBorderBlueXxWeak: #eef0f1;
 
 /* '@/Color/Semantic/Border/Navy' */
-// Border Navy Strongest 🔗 to 'Navy-90'
-$coreUiLightColorSemanticBorderNavyStrongest: #032d63;
+// Border Navy 2x-Strong 🔗 to 'Navy-90'
+$coreUiLightColorSemanticBorderNavyXxStrong: #032d63;
 
-// Text Navy Stronger 🔗 to'Navy-80'
-$coreUiLightColorSemanticBorderNavyStronger: #054394;
+// Border Navy x-Strong 🔗 to 'Navy-80'
+$coreUiLightColorSemanticBorderNavyXStrong: #054394;
 
-// Text Navy Strong 🔗 to'Navy-70'
+// Border Navy Strong 🔗 to 'Navy-70'
 $coreUiLightColorSemanticBorderNavyStrong: #065dd0;
 
-// Text Navy Normal 🔗 to'Navy-60'
-$coreUiLightColorSemanticBorderNavyNormal: #2576ef;
+// Border Navy Normal 🔗 to 'Navy-50'
+$coreUiLightColorSemanticBorderNavyNormal: #4392f9;
 
-// Text Navy Weak 🔗 to'Navy-50'
-$coreUiLightColorSemanticBorderNavyWeak: #4392f9;
+// Border Navy Weak 🔗 to 'Navy-30'
+$coreUiLightColorSemanticBorderNavyWeak: #92c0fc;
 
-// Text Navy Weaker 🔗 to'Navy-40'
-$coreUiLightColorSemanticBorderNavyWeaker: #6ba9fa;
+// Border Navy x-Weak 🔗 to 'Navy-20'
+$coreUiLightColorSemanticBorderNavyXWeak: #cee2fd;
 
-// Text Navy Weakest 🔗 to'Navy-30'
-$coreUiLightColorSemanticBorderNavyWeakest: #92c0fc;
+// Border Navy 2x-Weak 🔗 to 'Navy-10'
+$coreUiLightColorSemanticBorderNavyXxWeak: #e7f2fe;
 
-/* '@/Color/Semantic/Text/Green' */
-// Text Green Strongest 🔗 to 'Green-90'
-$coreUiLightColorSemanticBorderGreenStrongest: #114b18;
+/* '@/Color/Semantic/Border/Green' */
+// Border Green 2x-Strong 🔗 to 'Green-90'
+$coreUiLightColorSemanticBorderGreenXxStrong: #114b18;
 
-// Text Green Stronger 🔗 to 'Green-80'
-$coreUiLightColorSemanticBorderGreenStronger: #246b2d;
+// Border Green x-Strong 🔗 to 'Green-80'
+$coreUiLightColorSemanticBorderGreenXStrong: #246b2d;
 
-// Text Green Strong 🔗 to 'Green-70'
+// Border Green Strong 🔗 to 'Green-70'
 $coreUiLightColorSemanticBorderGreenStrong: #30913d;
 
-// Text Green Normal 🔗 to 'Green-60'
-$coreUiLightColorSemanticBorderGreenNormal: #36a144;
+// Border Green Normal 🔗 to 'Green-50'
+$coreUiLightColorSemanticBorderGreenNormal: #4bc247;
 
-// Text Green Weak 🔗 to 'Green-50'
-$coreUiLightColorSemanticBorderGreenWeak: #4bc247;
+// Border Green Weak 🔗 to 'Green-30'
+$coreUiLightColorSemanticBorderGreenWeak: #a3e0ac;
 
-// Text Green Weaker 🔗 to 'Green-40'
-$coreUiLightColorSemanticBorderGreenWeaker: #75d182;
+// Border Green x-Weak 🔗 to 'Green-20'
+$coreUiLightColorSemanticBorderGreenXWeak: #d9f2dc;
 
-// Text Green Weakest 🔗 to 'Green-30'
-$coreUiLightColorSemanticBorderGreenWeakest: #a3e0ac;
+// Border Green 2x-Weak 🔗 to 'Green-10'
+$coreUiLightColorSemanticBorderGreenXxWeak: #ecf9ee;
 
-/* '@/Color/Semantic/Text/Yellow' */
-// Text Yellow Strongest 🔗 to 'Yellow-90'
-$coreUiLightColorSemanticBorderYellowStrongest: #4f3d02;
+/* '@/Color/Semantic/Border/Yellow' */
+// Border Yellow 2x-Strong 🔗 to 'Yellow-90'
+$coreUiLightColorSemanticBorderYellowXxStrong: #4f3d02;
 
-// Text Yellow Stronger 🔗 to 'Yellow-80'
-$coreUiLightColorSemanticBorderYellowStronger: #6d5403;
+// Border Yellow x-Strong 🔗 to 'Yellow-80'
+$coreUiLightColorSemanticBorderYellowXStrong: #6d5403;
 
-// Text Yellow Strong 🔗 to 'Yellow-70'
+// Border Yellow Strong 🔗 to 'Yellow-70'
 $coreUiLightColorSemanticBorderYellowStrong: #8b6b04;
 
-// Text Yellow Normal 🔗 to 'Yellow-60'
-$coreUiLightColorSemanticBorderYellowNormal: #b29506;
+// Border Yellow Normal 🔗 to 'Yellow-50'
+$coreUiLightColorSemanticBorderYellowNormal: #dab707;
 
-// Text Yellow Weak 🔗 to 'Yellow-50'
-$coreUiLightColorSemanticBorderYellowWeak: #dab707;
+// Border Yellow Weak 🔗 to 'Yellow-30'
+$coreUiLightColorSemanticBorderYellowWeak: #fbe67e;
 
-// Text Yellow Weaker 🔗 to 'Yellow-40'
-$coreUiLightColorSemanticBorderYellowWeaker: #f9d939;
+// Border Yellow x-Weak 🔗 to 'Yellow-20'
+$coreUiLightColorSemanticBorderYellowXWeak: #fdf2ba;
 
-// Text Yellow Weakest 🔗 to 'Yellow-30'
-$coreUiLightColorSemanticBorderYellowWeakest: #fbe67e;
+// Border Yellow 2x-Weak 🔗 to 'Yellow-10'
+$coreUiLightColorSemanticBorderYellowXxWeak: #fefae6;
 
-/* '@/Color/Semantic/Text/Red' */
-// Text Red Strongest 🔗 to 'Red-90'
-$coreUiLightColorSemanticBorderRedStrongest: #6b0606;
+/* '@/Color/Semantic/Border/Red' */
+// Border Red 2x-Strong 🔗 to 'Red-90'
+$coreUiLightColorSemanticBorderRedXxStrong: #6b0606;
 
-// Text Red Stronger 🔗 to 'Red-80'
-$coreUiLightColorSemanticBorderRedStronger: #9c1111;
-
-// Text Red Strong 🔗 to 'Red-70'
+// Border Red Strong 🔗 to 'Red-70'
 $coreUiLightColorSemanticBorderRedStrong: #c51616;
 
-// Text Red Normal 🔗 to 'Red-60'
-$coreUiLightColorSemanticBorderRedNormal: #e72727;
+// Border Red Normal 🔗 to 'Red-50'
+$coreUiLightColorSemanticBorderRedNormal: #ed5a5a;
 
-// Text Red Weak 🔗 to 'Red-50'
-$coreUiLightColorSemanticBorderRedWeak: #ed5a5a;
+// Border Red Weak 🔗 to 'Red-30'
+$coreUiLightColorSemanticBorderRedWeak: #f6acac;
 
-// Text Red Weaker 🔗 to 'Red-40'
-$coreUiLightColorSemanticBorderRedWeaker: #f17e7e;
+// Border Red x-Weak 🔗 to 'Red-20'
+$coreUiLightColorSemanticBorderRedXWeak: #fad1d1;
 
-// Text Red Weakest 🔗 to 'Red-30'
-$coreUiLightColorSemanticBorderRedWeakest: #f6acac;
+// Border Red 2x-Weak 🔗 to 'Red-10'
+$coreUiLightColorSemanticBorderRedXxWeak: #fce8e8;
 
-/* '@/Color/Semantic/Text/Orang' */
-// Text Orange Strongest 🔗 to 'Orange-90'
-$coreUiLightColorSemanticBorderOrangeStrongest: #603006;
+/* '@/Color/Semantic/Border/Orange' */
+// Border Orange 2x-Strong 🔗 to 'Orange-90'
+$coreUiLightColorSemanticBorderOrangeXxStrong: #603006;
 
-// Text Orange Stronger 🔗 to 'Orange-80'
-$coreUiLightColorSemanticBorderOrangeStronger: #864309;
-
-// Text Orange Strong 🔗 to 'Orange-70'
+// Border Orange Strong 🔗 to 'Orange-70'
 $coreUiLightColorSemanticBorderOrangeStrong: #b65b0c;
 
-// Text Orange Normal 🔗 to 'Orange-60'
-$coreUiLightColorSemanticBorderOrangeNormal: #d36a0d;
+// Border Orange Normal 🔗 to 'Orange-50'
+$coreUiLightColorSemanticBorderOrangeNormal: #f28e36;
 
-// Text Orange Weak 🔗 to 'Orange-50'
-$coreUiLightColorSemanticBorderOrangeWeak: #f28e36;
+// Border Orange Weak 🔗 to 'Orange-30'
+$coreUiLightColorSemanticBorderOrangeWeak: #f8c496;
 
-// Text Orange Weaker 🔗 to 'Orange-40'
-$coreUiLightColorSemanticBorderOrangeWeaker: #f6ae6f;
+// Border Orange x-Weak 🔗 to 'Orange-20'
+$coreUiLightColorSemanticBorderOrangeXWeak: #fce4cf;
 
-// Text Orange Weakest 🔗 to 'Orange-30'
-$coreUiLightColorSemanticBorderOrangeWeakest: #f8c496;
+// Border Orange 2x-Weak 🔗 to 'Orange-10'
+$coreUiLightColorSemanticBorderOrangeXxWeak: #fdf2e7;
 
-/* '@/Color/Semantic/Text/Violet' */
-// Text Violet Strongest 🔗 to 'Violet-90'
-$coreUiLightColorSemanticBorderVioletStrongest: #31165a;
+/* '@/Color/Semantic/Border/Violet' */
+// Border Violet 2x-Strong 🔗 to 'Violet-90'
+$coreUiLightColorSemanticBorderVioletXxStrong: #31165a;
 
-// Text Violet Stronger 🔗 to 'Violet-80'
-$coreUiLightColorSemanticBorderVioletStronger: #4c238b;
-
-// Text Violet Strong 🔗 to 'Violet-70'
+// Border Violet Strong 🔗 to 'Violet-70'
 $coreUiLightColorSemanticBorderVioletStrong: #632db4;
 
-// Text Violet Normal 🔗 to 'Violet-60'
-$coreUiLightColorSemanticBorderVioletNormal: #7c43d0;
+// Border Violet Normal 🔗 to 'Violet-50'
+$coreUiLightColorSemanticBorderVioletNormal: #f28e36;
 
-// Text Violet Weak 🔗 to 'Violet-50'
-$coreUiLightColorSemanticBorderVioletWeak: #9264d8;
+// Border Violet Weak 🔗 to 'Violet-30'
+$coreUiLightColorSemanticBorderVioletWeak: #c6adeb;
 
-// Text Violet Weaker 🔗 to 'Violet-40'
-$coreUiLightColorSemanticBorderVioletWeaker: #b595e4;
+// Border Violet x-Weak 🔗 to 'Violet-20'
+$coreUiLightColorSemanticBorderVioletXWeak: #e2d6f5;
 
-// Text Violet Weakest 🔗 to 'Violet-30'
-$coreUiLightColorSemanticBorderVioletWeakest: #c6adeb;
+// Border Violet 2x-Weak 🔗 to 'Violet-10'
+$coreUiLightColorSemanticBorderVioletXxWeak: #f1ebfa;
 
-/* '@/Color/Semantic/Text/Magenta' */
-// Text Magenta Strongest 🔗 to 'Magenta-90'
-$coreUiLightColorSemanticBorderMagentaStrongest: #580e49;
+/* '@/Color/Semantic/Border/Magenta' */
+// Border Magenta 2x-Strong 🔗 to 'Magenta-90'
+$coreUiLightColorSemanticBorderMagentaXxStrong: #580e49;
 
-// Text Magenta Stronger 🔗 to 'Magenta-80'
-$coreUiLightColorSemanticBorderMagentaStronger: #84156e;
-
-// Text Magenta Strong 🔗 to 'Magenta-70'
+// Border Magenta Strong 🔗 to 'Magenta-70'
 $coreUiLightColorSemanticBorderMagentaStrong: #af1d92;
 
-// Text Magenta Normal 🔗 to 'Magenta-60'
-$coreUiLightColorSemanticBorderMagentaNormal: #db24b7;
+// Border Magenta Normal 🔗 to 'Magenta-50'
+$coreUiLightColorSemanticBorderMagentaNormal: #e250c5;
 
-// Text Magenta Weak 🔗 to 'Magenta-50'
-$coreUiLightColorSemanticBorderMagentaWeak: #e250c5;
+// Border Magenta Weak 🔗 to 'Magenta-30'
+$coreUiLightColorSemanticBorderMagentaWeak: #f1a7e2;
 
-// Text Magenta Weaker 🔗 to 'Magenta-40'
-$coreUiLightColorSemanticBorderMagentaWeaker: #ea7bd4;
+// Border Magenta x-Weak 🔗 to 'Magenta-20'
+$coreUiLightColorSemanticBorderMagentaXWeak: #f8d3f1;
 
-// Text Magenta Weakest 🔗 to 'Magenta-30'
-$coreUiLightColorSemanticBorderMagentaWeakest: #f1a7e2;
+// Border magenta 2x-Weak 🔗 to 'Magenta-10'
+$coreUiLightColorSemanticBorderMagentaXxWeak: #fbe9f8;

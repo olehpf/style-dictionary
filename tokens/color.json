@@ -7,6 +7,7 @@
             "value": "#FFFFFF",
             "attributes": {
               "category": "color",
+              "subcategory": "primitive",
               "type": "shade"
             },
             "comment": "Default color is ⚪️"
@@ -870,16 +871,16 @@
       },
       "semantic": {
         "text": {
-          "base": {
+          "neutral": {
             "xx-strong": {
               "value": "{light.color.primitive.neutral.100}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Base'"
+                "description": "'@/Color/Semantic/Text/Neutral'"
               },
-              "comment": "Text Base 2x-Strong 🔗 to 'Neutral-100'"
+              "comment": "Text Neutral 2x-Strong 🔗 to 'Neutral-100'"
             },
             "x-strong": {
               "value": "{light.color.primitive.neutral.90}",
@@ -888,7 +889,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base x-Stronger 🔗 to 'Neutral-90'"
+              "comment": "Text Neutral x-Stronger 🔗 to 'Neutral-90'"
             },
             "strong": {
               "value": "{light.color.primitive.neutral.80}",
@@ -897,7 +898,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Strong 🔗 to 'Neutral-80'"
+              "comment": "Text Neutral Strong 🔗 to 'Neutral-80'"
             },
             "normal": {
               "value": "{light.color.primitive.neutral.60}",
@@ -906,7 +907,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Normal 🔗 to 'Neutral-60'"
+              "comment": "Text Neutral Normal 🔗 to 'Neutral-60'"
             },
             "weak": {
               "value": "{light.color.primitive.neutral.50}",
@@ -915,7 +916,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Weak 🔗 to 'Neutral-50'"
+              "comment": "Text Neutral Weak 🔗 to 'Neutral-50'"
             },
             "x-weak": {
               "value": "{light.color.primitive.neutral.40}",
@@ -924,7 +925,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base x-Weak 🔗 to 'Neutral-40'"
+              "comment": "Text Neutral x-Weak 🔗 to 'Neutral-40'"
             },
             "xx-weak": {
               "value": "{light.color.primitive.neutral.30}",
@@ -933,7 +934,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base 2x-Weak 🔗 to 'Neutral-30'"
+              "comment": "Text Neutral 2x-Weak 🔗 to 'Neutral-30'"
             },
             "xxx-weak": {
               "value": "{light.color.primitive.neutral.0}",
@@ -942,7 +943,7 @@
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base 3x-Weak 🔗 to 'Neutral-0'"
+              "comment": "Text Neutral 3x-Weak 🔗 to 'Neutral-0'"
             }
           },
           "blue": {
@@ -2101,83 +2102,83 @@
           }
         },
         "border": {
-          "base": {
-            "strongest": {
+          "neutral": {
+            "xx-strong": {
               "value": "{light.color.primitive.neutral.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Border/Base'"
+                "description": "'@/Color/Semantic/Border/Nuetral'"
               },
-              "comment": "Border Base Strongest 🔗 to 'Neutral-90'"
+              "comment": "Border Neutral 2x-Strong 🔗 to 'Neutral-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.neutral.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Stronger 🔗 to 'Neutral-80'"
+              "comment": "Border Neutral x-Strong 🔗 to 'Neutral-80'"
             },
             "strong": {
               "value": "{light.color.primitive.neutral.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Strong 🔗 to 'Neutral-70'"
+              "comment": "Border Neutral Strong 🔗 to 'Neutral-70'"
             },
             "normal": {
               "value": "{light.color.primitive.neutral.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Normal 🔗 to 'Neutral-50'"
+              "comment": "Border Neutral Normal 🔗 to 'Neutral-50'"
             },
             "weak": {
+              "value": "{light.color.primitive.neutral.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Neutral Weak 🔗 to 'Neutral-30'"
+            },
+            "x-weak": {
               "value": "{light.color.primitive.neutral.20}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Weak 🔗 to 'Neutral-20'"
+              "comment": "Border Neutral x-Weak 🔗 to 'Neutral-20'"
             },
-            "weaker": {
+            "xx-weak": {
               "value": "{light.color.primitive.neutral.10}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Weaker 🔗 to 'Neutral-10'"
+              "comment": "Border Neutral 2x-Weak 🔗 to 'Neutral-10'"
             },
-            "weakest": {
-              "value": "{light.color.primitive.neutral.5}",
+            "xxx-weak": {
+              "value": "{light.color.primitive.neutral.10}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Base Weakest 🔗 to 'Neutral-5'"
-            },
-            "whiteness": {
-              "value": "{light.color.primitive.neutral.0}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Border Base Whiteness 🔗 to 'Neutral-0'"
+              "comment": "Border Neutral 2x-Weak 🔗 to 'Neutral-0'"
             }
           },
           "blue": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.blue.90}",
               "attributes": {
                 "category": "color",
@@ -2185,32 +2186,32 @@
                 "type": "shade",
                 "description": "'@/Color/Semantic/Border/Blue'"
               },
-              "comment": "Border Blue Strongest 🔗 to 'Blue-90'"
+              "comment": "Border Blue 2x-Strong 🔗 to 'Blue-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.blue.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Blue Stronger 🔗 to 'Blue-80'"
+              "comment": "Border Blue x-Strong 🔗 to 'Blue-80'"
             },
             "strong": {
               "value": "{light.color.primitive.blue.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
               "comment": "Border Blue Strong 🔗 to 'Blue-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.blue.60}",
+              "value": "{light.color.primitive.blue.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
               "comment": "Border Blue Normal 🔗 to 'Blue-50'"
             },
@@ -2219,31 +2220,31 @@
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
               "comment": "Border Blue Weak 🔗 to 'Blue-30'"
             },
-            "weaker": {
+            "x-weak": {
               "value": "{light.color.primitive.blue.20}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Blue Weaker 🔗 to 'Blue-20'"
+              "comment": "Border Blue x-Weak 🔗 to 'Blue-20'"
             },
-            "weakest": {
-              "value": "{light.color.primitive.blue.10}",
+            "xx-weak": {
+              "value": "{light.color.primitive.neutral.10}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Border Blue Weakest 🔗 to 'Blue-10'"
+              "comment": "Border Blue 2x-Weak 🔗 to 'Blue-10'"
             }
           },
           "navy": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.navy.90}",
               "attributes": {
                 "category": "color",
@@ -2251,460 +2252,460 @@
                 "type": "shade",
                 "description": "'@/Color/Semantic/Border/Navy'"
               },
-              "comment": "Border Navy Strongest 🔗 to 'Navy-90'"
+              "comment": "Border Navy 2x-Strong 🔗 to 'Navy-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.navy.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Navy Stronger 🔗 to'Navy-80'"
+              "comment": "Border Navy x-Strong 🔗 to 'Navy-80'"
             },
             "strong": {
               "value": "{light.color.primitive.navy.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Navy Strong 🔗 to'Navy-70'"
+              "comment": "Border Navy Strong 🔗 to 'Navy-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.navy.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Navy Normal 🔗 to'Navy-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.navy.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Navy Weak 🔗 to'Navy-50'"
+              "comment": "Border Navy Normal 🔗 to 'Navy-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.navy.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Navy Weaker 🔗 to'Navy-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.navy.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Navy Weakest 🔗 to'Navy-30'"
+              "comment": "Border Navy Weak 🔗 to 'Navy-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.navy.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Navy x-Weak 🔗 to 'Navy-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.navy.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Navy 2x-Weak 🔗 to 'Navy-10'"
             }
           },
           "green": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.green.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Green'"
+                "description": "'@/Color/Semantic/Border/Green'"
               },
-              "comment": "Text Green Strongest 🔗 to 'Green-90'"
+              "comment": "Border Green 2x-Strong 🔗 to 'Green-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.green.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Green Stronger 🔗 to 'Green-80'"
+              "comment": "Border Green x-Strong 🔗 to 'Green-80'"
             },
             "strong": {
               "value": "{light.color.primitive.green.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Green Strong 🔗 to 'Green-70'"
+              "comment": "Border Green Strong 🔗 to 'Green-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.green.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Green Normal 🔗 to 'Green-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.green.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Green Weak 🔗 to 'Green-50'"
+              "comment": "Border Green Normal 🔗 to 'Green-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.green.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Green Weaker 🔗 to 'Green-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.green.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Green Weakest 🔗 to 'Green-30'"
+              "comment": "Border Green Weak 🔗 to 'Green-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.green.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Green x-Weak 🔗 to 'Green-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.green.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Green 2x-Weak 🔗 to 'Green-10'"
             }
           },
           "yellow": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.yellow.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Yellow'"
+                "description": "'@/Color/Semantic/Border/Yellow'"
               },
-              "comment": "Text Yellow Strongest 🔗 to 'Yellow-90'"
+              "comment": "Border Yellow 2x-Strong 🔗 to 'Yellow-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.yellow.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Yellow Stronger 🔗 to 'Yellow-80'"
+              "comment": "Border Yellow x-Strong 🔗 to 'Yellow-80'"
             },
             "strong": {
               "value": "{light.color.primitive.yellow.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Yellow Strong 🔗 to 'Yellow-70'"
+              "comment": "Border Yellow Strong 🔗 to 'Yellow-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.yellow.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Yellow Normal 🔗 to 'Yellow-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.yellow.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Yellow Weak 🔗 to 'Yellow-50'"
+              "comment": "Border Yellow Normal 🔗 to 'Yellow-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.yellow.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Yellow Weaker 🔗 to 'Yellow-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.yellow.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Yellow Weakest 🔗 to 'Yellow-30'"
+              "comment": "Border Yellow Weak 🔗 to 'Yellow-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.yellow.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Yellow x-Weak 🔗 to 'Yellow-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.yellow.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Yellow 2x-Weak 🔗 to 'Yellow-10'"
             }
           },
           "red": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.red.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Red'"
+                "description": "'@/Color/Semantic/Border/Red'"
               },
-              "comment": "Text Red Strongest 🔗 to 'Red-90'"
+              "comment": "Border Red 2x-Strong 🔗 to 'Red-90'"
             },
-            "stronger": {
-              "value": "{light.color.primitive.red.80}",
+            "x-strong": {
               "attributes": {
+                "value": "{light.color.primitive.red.80}",
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Red Stronger 🔗 to 'Red-80'"
+              "comment": "Border Red x-Strong 🔗 to 'Red-80'"
             },
             "strong": {
               "value": "{light.color.primitive.red.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Red Strong 🔗 to 'Red-70'"
+              "comment": "Border Red Strong 🔗 to 'Red-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.red.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Red Normal 🔗 to 'Red-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.red.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Red Weak 🔗 to 'Red-50'"
+              "comment": "Border Red Normal 🔗 to 'Red-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.red.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Red Weaker 🔗 to 'Red-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.red.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Red Weakest 🔗 to 'Red-30'"
+              "comment": "Border Red Weak 🔗 to 'Red-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.red.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Red x-Weak 🔗 to 'Red-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.red.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Red 2x-Weak 🔗 to 'Red-10'"
             }
           },
           "orange": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.orange.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Orang'"
+                "description": "'@/Color/Semantic/Border/Orange'"
               },
-              "comment": "Text Orange Strongest 🔗 to 'Orange-90'"
+              "comment": "Border Orange 2x-Strong 🔗 to 'Orange-90'"
             },
-            "stronger": {
-              "value": "{light.color.primitive.orange.80}",
+            "x-strong": {
               "attributes": {
+                "value": "{light.color.primitive.orange.80}",
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Orange Stronger 🔗 to 'Orange-80'"
+              "comment": "Border Orange x-Strong 🔗 to 'Orange-80'"
             },
             "strong": {
               "value": "{light.color.primitive.orange.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Orange Strong 🔗 to 'Orange-70'"
+              "comment": "Border Orange Strong 🔗 to 'Orange-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.orange.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Orange Normal 🔗 to 'Orange-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.orange.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Orange Weak 🔗 to 'Orange-50'"
+              "comment": "Border Orange Normal 🔗 to 'Orange-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.orange.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Orange Weaker 🔗 to 'Orange-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.orange.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Orange Weakest 🔗 to 'Orange-30'"
+              "comment": "Border Orange Weak 🔗 to 'Orange-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.orange.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Orange x-Weak 🔗 to 'Orange-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.orange.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Orange 2x-Weak 🔗 to 'Orange-10'"
             }
           },
           "violet": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.violet.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Violet'"
+                "description": "'@/Color/Semantic/Border/Violet'"
               },
-              "comment": "Text Violet Strongest 🔗 to 'Violet-90'"
+              "comment": "Border Violet 2x-Strong 🔗 to 'Violet-90'"
             },
-            "stronger": {
-              "value": "{light.color.primitive.violet.80}",
+            "x-strong": {
               "attributes": {
+                "value": "{light.color.primitive.violet.80}",
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Violet Stronger 🔗 to 'Violet-80'"
+              "comment": "Border Violet x-Strong 🔗 to 'Violet-80'"
             },
             "strong": {
               "value": "{light.color.primitive.violet.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Violet Strong 🔗 to 'Violet-70'"
+              "comment": "Border Violet Strong 🔗 to 'Violet-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.violet.60}",
+              "value": "{light.color.primitive.orange.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Violet Normal 🔗 to 'Violet-60'"
+              "comment": "Border Violet Normal 🔗 to 'Violet-50'"
             },
             "weak": {
-              "value": "{light.color.primitive.violet.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Violet Weak 🔗 to 'Violet-50'"
-            },
-            "weaker": {
-              "value": "{light.color.primitive.violet.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Violet Weaker 🔗 to 'Violet-40'"
-            },
-            "weakest": {
               "value": "{light.color.primitive.violet.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Violet Weakest 🔗 to 'Violet-30'"
+              "comment": "Border Violet Weak 🔗 to 'Violet-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.violet.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Violet x-Weak 🔗 to 'Violet-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.violet.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Violet 2x-Weak 🔗 to 'Violet-10'"
             }
           },
           "magenta": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.magenta.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Magenta'"
+                "description": "'@/Color/Semantic/Border/Magenta'"
               },
-              "comment": "Text Magenta Strongest 🔗 to 'Magenta-90'"
+              "comment": "Border Magenta 2x-Strong 🔗 to 'Magenta-90'"
             },
-            "stronger": {
-              "value": "{light.color.primitive.magenta.80}",
+            "x-strong": {
               "attributes": {
+                "value": "{light.color.primitive.magenta.80}",
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Magenta Stronger 🔗 to 'Magenta-80'"
+              "comment": "Border Magenta x-Strong 🔗 to 'Magenta-80'"
             },
             "strong": {
               "value": "{light.color.primitive.magenta.70}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Magenta Strong 🔗 to 'Magenta-70'"
+              "comment": "Border Magenta Strong 🔗 to 'Magenta-70'"
             },
             "normal": {
-              "value": "{light.color.primitive.magenta.60}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Magenta Normal 🔗 to 'Magenta-60'"
-            },
-            "weak": {
               "value": "{light.color.primitive.magenta.50}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Magenta Weak 🔗 to 'Magenta-50'"
+              "comment": "Border Magenta Normal 🔗 to 'Magenta-50'"
             },
-            "weaker": {
-              "value": "{light.color.primitive.magenta.40}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade" 
-              },
-              "comment": "Text Magenta Weaker 🔗 to 'Magenta-40'"
-            },
-            "weakest": {
+            "weak": {
               "value": "{light.color.primitive.magenta.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
-                "type": "shade" 
+                "type": "shade"
               },
-              "comment": "Text Magenta Weakest 🔗 to 'Magenta-30'"
+              "comment": "Border Magenta Weak 🔗 to 'Magenta-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.magenta.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Magenta x-Weak 🔗 to 'Magenta-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.magenta.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border magenta 2x-Weak 🔗 to 'Magenta-10'"
             }
           }
-        }
+        }  
       }
     }
   }
