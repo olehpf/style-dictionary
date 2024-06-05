@@ -871,7 +871,7 @@
       "semantic": {
         "text": {
           "base": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.neutral.100}",
               "attributes": {
                 "category": "color",
@@ -879,16 +879,16 @@
                 "type": "shade",
                 "description": "'@/Color/Semantic/Text/Base'"
               },
-              "comment": "Text Base Strongest 🔗 to 'Neutral-100'"
+              "comment": "Text Base 2x-Strong 🔗 to 'Neutral-100'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.neutral.90}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Stronger 🔗 to 'Neutral-90'"
+              "comment": "Text Base x-Stronger 🔗 to 'Neutral-90'"
             },
             "strong": {
               "value": "{light.color.primitive.neutral.80}",
@@ -917,36 +917,36 @@
               },
               "comment": "Text Base Weak 🔗 to 'Neutral-50'"
             },
-            "weaker": {
+            "x-weak": {
               "value": "{light.color.primitive.neutral.40}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Weaker 🔗 to 'Neutral-40'"
+              "comment": "Text Base x-Weak 🔗 to 'Neutral-40'"
             },
-            "weakest": {
+            "xx-weak": {
               "value": "{light.color.primitive.neutral.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Weakest 🔗 to 'Neutral-30'"
+              "comment": "Text Base 2x-Weak 🔗 to 'Neutral-30'"
             },
-            "custom": {
+            "xxx-weak": {
               "value": "{light.color.primitive.neutral.0}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Base Custom 🔗 to 'Neutral-0'"
+              "comment": "Text Base 3x-Weak 🔗 to 'Neutral-0'"
             }
           },
           "blue": {
-            "strongest": {
+            "xx-strong": {
               "value": "{light.color.primitive.blue.90}",
               "attributes": {
                 "category": "color",
@@ -954,16 +954,16 @@
                 "type": "shade",
                 "description": "'@/Color/Semantic/Text/Blue'"
               },
-              "comment": "Text Blue Strongest 🔗 to 'Blue-90'"
+              "comment": "Text Blue 2x-Strong 🔗 to 'Blue-90'"
             },
-            "stronger": {
+            "x-strong": {
               "value": "{light.color.primitive.blue.80}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Blue Stronger 🔗 to 'Blue-80'"
+              "comment": "Text Blue x-Strong 🔗 to 'Blue-80'"
             },
             "strong": {
               "value": "{light.color.primitive.blue.70}",
@@ -992,23 +992,1254 @@
               },
               "comment": "Text Blue Weak 🔗 to 'Blue-50'"
             },
-            "weaker": {
+            "x-weak": {
               "value": "{light.color.primitive.blue.40}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Blue Weaker 🔗 to 'Blue-40'"
+              "comment": "Text Blue x-Weak 🔗 to 'Blue-40'"
             },
-            "weakest": {
+            "xx-weak": {
               "value": "{light.color.primitive.blue.30}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade" 
               },
-              "comment": "Text Blue Weakest 🔗 to 'Blue-30'"
+              "comment": "Text Blue 2x-Weak 🔗 to 'Blue-30'"
+            }
+          },
+          "navy": {
+            "xx-strong": {
+              "value": "{light.color.primitive.navy.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Navy'"
+              },
+              "comment": "Text Navy 2x-Strong 🔗 to 'Navy-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.navy.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy x-Strong 🔗 to'Navy-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.navy.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Strong 🔗 to'Navy-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.navy.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Normal 🔗 to'Navy-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.navy.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy Weak 🔗 to'Navy-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.navy.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy x-Weak 🔗 to'Navy-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.navy.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Navy 2x-Weak 🔗 to'Navy-30'"
+            }
+          },
+          "green": {
+            "xx-strong": {
+              "value": "{light.color.primitive.green.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Green'"
+              },
+              "comment": "Text Green 2x-Strong 🔗 to 'Green-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.green.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green x-Strong 🔗 to 'Green-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.green.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Strong 🔗 to 'Green-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.green.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Normal 🔗 to 'Green-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.green.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green Weak 🔗 to 'Green-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.green.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green x-Weak 🔗 to 'Green-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.green.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Green 2x-Weak 🔗 to 'Green-30'"
+            }
+          },
+          "yellow": {
+            "xx-strong": {
+              "value": "{light.color.primitive.yellow.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Yellow'"
+              },
+              "comment": "Text Yellow 2x-Strong 🔗 to 'Yellow-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.yellow.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow x-Strong 🔗 to 'Yellow-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.yellow.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Strong 🔗 to 'Yellow-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.yellow.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Normal 🔗 to 'Yellow-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.yellow.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow Weak 🔗 to 'Yellow-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.yellow.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow x-Weak 🔗 to 'Yellow-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.yellow.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Yellow 2x-Weak 🔗 to 'Yellow-30'"
+            }
+          },
+          "red": {
+            "xx-strong": {
+              "value": "{light.color.primitive.red.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Red'"
+              },
+              "comment": "Text Red 2x-Strong 🔗 to 'Red-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.red.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red x-Strong 🔗 to 'Red-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.red.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Strong 🔗 to 'Red-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Normal 🔗 to 'Red-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red Weak 🔗 to 'Red-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.red.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red x-Weak 🔗 to 'Red-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.red.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Red 2x-Weak 🔗 to 'Red-30'"
+            }
+          },
+          "orange": {
+            "xx-strong": {
+              "value": "{light.color.primitive.orange.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Orang'"
+              },
+              "comment": "Text Orange 2x-Strong 🔗 to 'Orange-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.orange.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange x-Strong 🔗 to 'Orange-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.orange.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Strong 🔗 to 'Orange-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Normal 🔗 to 'Orange-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Weak 🔗 to 'Orange-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.orange.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange x-Weak 🔗 to 'Orange-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.orange.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Orange Weak 🔗 to 'Orange-30'"
+            }
+          },
+          "violet": {
+            "xx-strong": {
+              "value": "{light.color.primitive.violet.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Violet'"
+              },
+              "comment": "Text Violet 2x-Strong 🔗 to 'Violet-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.violet.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet x-Strong 🔗 to 'Violet-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.violet.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Strong 🔗 to 'Violet-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.violet.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Normal 🔗 to 'Violet-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.violet.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet Weak 🔗 to 'Violet-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.violet.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet x-Weak 🔗 to 'Violet-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.violet.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Violet 2x-Weak 🔗 to 'Violet-30'"
+            }
+          },
+          "magenta": {
+            "xx-strong": {
+              "value": "{light.color.primitive.magenta.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Text/Magenta'"
+              },
+              "comment": "Text Magenta 2x-Strong 🔗 to 'Magenta-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.magenta.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta x-Strong 🔗 to 'Magenta-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.magenta.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Strong 🔗 to 'Magenta-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.magenta.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Normal 🔗 to 'Magenta-60'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.magenta.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta Weak 🔗 to 'Magenta-50'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.magenta.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta x-Weak 🔗 to 'Magenta-40'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.magenta.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Text Magenta 2x-Weak 🔗 to 'Magenta-30'"
+            }
+          }
+        },
+        "surface": {
+          "base": {
+            "primary": {
+              "value": "{light.color.primitive.neutral.0}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Base'"
+              },
+              "comment": "Surface Base Primary 🔗 to 'Neutral-0' \n// ✨ on Primary Background"
+            },
+            "secondary": {
+              "value": "{light.color.primitive.neutral.5}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Base Secondary 🔗 to 'Neutral-5' \n// ✨ on Secondary Background"
+            },
+            "tertiary": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Base Tertiary 🔗 to 'Neutral-10' \n// ✨ on Tertiary Backround"
+            }
+          },
+          "neutral": {
+            "xx-strong": {
+              "value": "{light.color.primitive.neutral.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Nuetral'"
+              },
+              "comment": "Surface Neutral 2x-Strong 🔗 to 'Neutral-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.neutral.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral x-Strong 🔗 to 'Neutral-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.neutral.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Strong 🔗 to 'Neutral-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.neutral.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Normal 🔗 to 'Neutral-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.neutral.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral Weak 🔗 to 'Neutral-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.neutral.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral x-Weak 🔗 to 'Neutral-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Neutral 2x-Weak 🔗 to 'Neutral-10'"
+            }
+          },
+          "blue": {
+            "xx-strong": {
+              "value": "{light.color.primitive.blue.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Blue'"
+              },
+              "comment": "Surface Blue 2x-Strong 🔗 to 'Blue-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.blue.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue x-Strong 🔗 to 'Blue-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.blue.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Strong 🔗 to 'Blue-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.blue.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Normal 🔗 to 'Blue-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.blue.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue Weak 🔗 to 'Blue-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.blue.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue x-Weak 🔗 to 'Blue-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Blue 2x-Weak 🔗 to 'Blue-10'"
+            }
+          },
+          "navy": {
+            "xx-strong": {
+              "value": "{light.color.primitive.navy.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Navy'"
+              },
+              "comment": "Surface Navy 2x-Strong 🔗 to 'Navy-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.navy.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy x-Strong 🔗 to 'Navy-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.navy.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Strong 🔗 to 'Navy-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.navy.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Normal 🔗 to 'Navy-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.navy.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy Weak 🔗 to 'Navy-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.navy.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy x-Weak 🔗 to 'Navy-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.navy.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Navy 2x-Weak 🔗 to 'Navy-10'"
+            }
+          },
+          "green": {
+            "xx-strong": {
+              "value": "{light.color.primitive.green.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Green'"
+              },
+              "comment": "Surface Green 2x-Strong 🔗 to 'Green-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.green.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green x-Strong 🔗 to 'Green-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.green.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Strong 🔗 to 'Green-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.green.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Normal 🔗 to 'Green-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.green.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green Weak 🔗 to 'Green-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.green.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green x-Weak 🔗 to 'Green-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.green.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Green 2x-Weak 🔗 to 'Green-10'"
+            }
+          },
+          "yellow": {
+            "xx-strong": {
+              "value": "{light.color.primitive.yellow.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Yellow'"
+              },
+              "comment": "Surface Yellow 2x-Strong 🔗 to 'Yellow-90'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.yellow.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow x-Strong 🔗 to 'Yellow-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.yellow.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Strong 🔗 to 'Yellow-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.yellow.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Normal 🔗 to 'Yellow-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.yellow.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow Weak 🔗 to 'Yellow-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.yellow.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow x-Weak 🔗 to 'Yellow-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.yellow.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Yellow 2x-Weak 🔗 to 'Yellow-10'"
+            }
+          },
+          "red": {
+            "xx-strong": {
+              "value": "{light.color.primitive.red.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Red'"
+              },
+              "comment": "Surface Red 2x-Strong 🔗 to 'Red-90'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.red.80}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red x-Strong 🔗 to 'Red-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.red.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Strong 🔗 to 'Red-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Normal 🔗 to 'Red-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.red.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red Weak 🔗 to 'Red-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.red.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red x-Weak 🔗 to 'Red-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.red.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Red 2x-Weak 🔗 to 'Red-10'"
+            }
+          },
+          "orange": {
+            "xx-strong": {
+              "value": "{light.color.primitive.orange.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Orange'"
+              },
+              "comment": "Surface Orange 2x-Strong 🔗 to 'Orange-90'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.orange.80}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange x-Strong 🔗 to 'Orange-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.orange.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Strong 🔗 to 'Orange-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Normal 🔗 to 'Orange-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.orange.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange Weak 🔗 to 'Orange-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.orange.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange x-Weak 🔗 to 'Orange-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.orange.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Orange 2x-Weak 🔗 to 'Orange-10'"
+            }
+          },
+          "violet": {
+            "xx-strong": {
+              "value": "{light.color.primitive.violet.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Violet'"
+              },
+              "comment": "Surface Violet 2x-Strong 🔗 to 'Violet-90'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.violet.80}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet x-Strong 🔗 to 'Violet-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.violet.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Strong 🔗 to 'Violet-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Normal 🔗 to 'Violet-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.violet.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet Weak 🔗 to 'Violet-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.violet.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet x-Weak 🔗 to 'Violet-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.violet.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Violet 2x-Weak 🔗 to 'Violet-10'"
+            }
+          },
+          "magenta": {
+            "xx-strong": {
+              "value": "{light.color.primitive.magenta.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Surface/Magenta'"
+              },
+              "comment": "Surface Magenta 2x-Strong 🔗 to 'Magenta-90'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.magenta.80}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta x-Strong 🔗 to 'Magenta-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.magenta.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Strong 🔗 to 'Magenta-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.magenta.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Normal 🔗 to 'Magenta-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.magenta.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta Weak 🔗 to 'Magenta-30'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.magenta.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface Magenta x-Weak 🔗 to 'Magenta-20'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.magenta.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Surface magenta 2x-Weak 🔗 to 'Magenta-10'"
+            }
+          }
+        },
+        "border": {
+          "base": {
+            "strongest": {
+              "value": "{light.color.primitive.neutral.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Border/Base'"
+              },
+              "comment": "Border Base Strongest 🔗 to 'Neutral-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.neutral.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Stronger 🔗 to 'Neutral-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.neutral.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Strong 🔗 to 'Neutral-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.neutral.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Normal 🔗 to 'Neutral-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.neutral.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Weak 🔗 to 'Neutral-20'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Weaker 🔗 to 'Neutral-10'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.neutral.5}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Weakest 🔗 to 'Neutral-5'"
+            },
+            "whiteness": {
+              "value": "{light.color.primitive.neutral.0}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Base Whiteness 🔗 to 'Neutral-0'"
+            }
+          },
+          "blue": {
+            "strongest": {
+              "value": "{light.color.primitive.blue.90}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Border/Blue'"
+              },
+              "comment": "Border Blue Strongest 🔗 to 'Blue-90'"
+            },
+            "stronger": {
+              "value": "{light.color.primitive.blue.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Stronger 🔗 to 'Blue-80'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.blue.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Strong 🔗 to 'Blue-70'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.blue.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Normal 🔗 to 'Blue-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.blue.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Weak 🔗 to 'Blue-30'"
+            },
+            "weaker": {
+              "value": "{light.color.primitive.blue.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Weaker 🔗 to 'Blue-20'"
+            },
+            "weakest": {
+              "value": "{light.color.primitive.blue.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade" 
+              },
+              "comment": "Border Blue Weakest 🔗 to 'Blue-10'"
             }
           },
           "navy": {
@@ -1018,9 +2249,9 @@
                 "category": "color",
                 "subcategory": "semantic",
                 "type": "shade",
-                "description": "'@/Color/Semantic/Text/Navy'"
+                "description": "'@/Color/Semantic/Border/Navy'"
               },
-              "comment": "Text Navy Strongest 🔗 to 'Navy-90'"
+              "comment": "Border Navy Strongest 🔗 to 'Navy-90'"
             },
             "stronger": {
               "value": "{light.color.primitive.navy.80}",
@@ -1471,632 +2702,6 @@
                 "type": "shade" 
               },
               "comment": "Text Magenta Weakest 🔗 to 'Magenta-30'"
-            }
-          }
-        },
-        "surface": {
-          "base": {
-            "primary": {
-              "value": "{light.color.primitive.neutral.0}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Base'"
-              },
-              "comment": "Surface Base Primary 🔗 to 'Neutral-0' \n// ✨ on Background (Depth-0)"
-            },
-            "secondary": {
-              "value": "{light.color.primitive.neutral.5}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Base Secondary 🔗 to 'Neutral-5' \n// ✨ on Background (Depth-1)"
-            },
-            "tertiary": {
-              "value": "{light.color.primitive.neutral.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Base Tertiary 🔗 to 'Neutral-10' \n// ✨ on Backround (Depth-2)"
-            }
-          },
-          "neutral": {
-            "lightest": {
-              "value": "{light.color.primitive.neutral.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Nuetral'"
-              },
-              "comment": "Surface Neutral Lightest 🔗 to 'Neutral-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.neutral.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Lighter 🔗 to 'Neutral-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.neutral.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Light 🔗 to 'Neutral-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.neutral.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Normal 🔗 to 'Neutral-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.neutral.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Dark 🔗 to 'Neutral-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.neutral.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Darker 🔗 to 'Neutral-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.neutral.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Neutral Darkest 🔗 to 'Neutral-90'"
-            }
-          },
-          "blue": {
-            "lightest": {
-              "value": "{light.color.primitive.blue.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Blue'"
-              },
-              "comment": "Surface Blue Lightest 🔗 to 'Blue-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.blue.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Lighter 🔗 to 'Blue-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.blue.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Light 🔗 to 'Blue-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.blue.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Normal 🔗 to 'Blue-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.blue.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Dark 🔗 to 'Blue-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.blue.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Darker 🔗 to 'Blue-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.blue.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Blue Darkest 🔗 to 'Blue-90'"
-            }
-          },
-          "navy": {
-            "lightest": {
-              "value": "{light.color.primitive.navy.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Navy'"
-              },
-              "comment": "Surface Navy Lightest 🔗 to 'Navy-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.navy.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Lighter 🔗 to 'Navy-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.navy.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Light 🔗 to 'Navy-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.navy.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Normal 🔗 to 'Navy-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.navy.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Dark 🔗 to 'Navy-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.navy.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Darker 🔗 to 'Navy-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.navy.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Navy Darkest 🔗 to 'Navy-90'"
-            }
-          },
-          "green": {
-            "lightest": {
-              "value": "{light.color.primitive.green.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Green'"
-              },
-              "comment": "Surface Green Lightest 🔗 to 'Green-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.green.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Lighter 🔗 to 'Green-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.green.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Light 🔗 to 'Green-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.green.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Normal 🔗 to 'Green-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.green.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Dark 🔗 to 'Green-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.green.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Darker 🔗 to 'Green-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.green.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Green Darkest 🔗 to 'Green-90'"
-            }
-          },
-          "yellow": {
-            "lightest": {
-              "value": "{light.color.primitive.yellow.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Yellow'"
-              },
-              "comment": "Surface Yellow Lightest 🔗 to 'Yellow-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.yellow.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Lighter 🔗 to 'Yellow-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.yellow.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Light 🔗 to 'Yellow-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.yellow.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Normal 🔗 to 'Yellow-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.yellow.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Dark 🔗 to 'Yellow-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.yellow.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Darker 🔗 to 'Yellow-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.yellow.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Yellow Darkest 🔗 to 'Yellow-90'"
-            }
-          },
-          "red": {
-            "lightest": {
-              "value": "{light.color.primitive.red.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Red'"
-              },
-              "comment": "Surface Red Lightest 🔗 to 'Red-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.red.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Lighter 🔗 to 'Red-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.red.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Light 🔗 to 'Red-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.red.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Normal 🔗 to 'Red-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.red.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Dark 🔗 to 'Red-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.red.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Darker 🔗 to 'Red-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.red.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Red Darkest 🔗 to 'Red-90'"
-            }
-          },
-          "orange": {
-            "lightest": {
-              "value": "{light.color.primitive.orange.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Orange'"
-              },
-              "comment": "Surface Orange Lightest 🔗 to 'Orange-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.orange.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Lighter 🔗 to 'Orange-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.orange.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Light 🔗 to 'Orange-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.red.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Normal 🔗 to 'Orange-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.orange.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Dark 🔗 to 'Orange-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.orange.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Darker 🔗 to 'Orange-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.orange.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Orange Darkest 🔗 to 'Orange-90'"
-            }
-          },
-          "violet": {
-            "lightest": {
-              "value": "{light.color.primitive.violet.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Violet'"
-              },
-              "comment": "Surface Violet Lightest 🔗 to 'Violet-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.violet.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Lighter 🔗 to 'Violet-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.violet.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Light 🔗 to 'Violet-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.violet.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Normal 🔗 to 'Violet-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.violet.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Dark 🔗 to 'Violet-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.orange.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Darker 🔗 to 'Violet-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.violet.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Violet Darkest 🔗 to 'Violet-90'"
-            }
-          },
-          "magenta": {
-            "lightest": {
-              "value": "{light.color.primitive.magenta.10}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade",
-                "description": "'@/Color/Semantic/Surface/Magenta'"
-              },
-              "comment": "Surface Magenta Lightest 🔗 to 'Magenta-10'"
-            },
-            "lighter": {
-              "value": "{light.color.primitive.magenta.20}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Lighter 🔗 to 'Magenta-20'"
-            },
-            "light": {
-              "value": "{light.color.primitive.magenta.30}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Light 🔗 to 'Magenta-30'"
-            },
-            "normal": {
-              "value": "{light.color.primitive.magenta.50}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Normal 🔗 to 'Magenta-50'"
-            },
-            "dark": {
-              "value": "{light.color.primitive.magenta.70}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Dark 🔗 to 'Magenta-70'"
-            },
-            "darker": {
-              "value": "{light.color.primitive.magenta.80}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Darker 🔗 to 'Magenta-80'"
-            },
-            "darkest": {
-              "value": "{light.color.primitive.magenta.90}",
-              "attributes": {
-                "category": "color",
-                "subcategory": "semantic",
-                "type": "shade"
-              },
-              "comment": "Surface Magenta Darkest 🔗 to 'Magenta-90'"
             }
           }
         }
