@@ -22,9 +22,9 @@ StyleDictionary.registerFilter({
 
 // Filter for breakpoints properties
 StyleDictionary.registerFilter({
-  name: "isBreakpoints",
+  name: "isBreakpoint",
   matcher: function (token) {
-    return token.attributes.type === "breakpoints";
+    return token.attributes.type === "breakpoint";
   },
 });
 

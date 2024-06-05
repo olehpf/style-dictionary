@@ -26,13 +26,13 @@
                     "filter": "isFont"
                 },
                 {
-                    "destination": "scss/breakpoints.scss",
+                    "destination": "scss/breakpoint.scss",
                     "format": "scss/variables",
                     "options": {
                         "showFileHeader": "customFileHeader",
                         "outputReferences": true
                     },
-                    "filter": "isBreakpoints"
+                    "filter": "isBreakpoint"
                 }   
             ]
         }

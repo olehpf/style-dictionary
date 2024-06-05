@@ -2168,7 +2168,7 @@
               "comment": "Border Neutral 2x-Weak 🔗 to 'Neutral-10'"
             },
             "xxx-weak": {
-              "value": "{light.color.primitive.neutral.10}",
+              "value": "{light.color.primitive.neutral.0}",
               "attributes": {
                 "category": "color",
                 "subcategory": "semantic",
@@ -2705,7 +2705,612 @@
               "comment": "Border magenta 2x-Weak 🔗 to 'Magenta-10'"
             }
           }
-        }  
+        },
+        "icon": {
+          "neutral": {
+            "xx-strong": {
+              "value": "{light.color.primitive.neutral.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Nuetral'"
+              },
+              "comment": "Icon Neutral 2x-Strong 🔗 to 'Neutral-80'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.neutral.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral x-Strong 🔗 to 'Neutral-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.neutral.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral Strong 🔗 to 'Neutral-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.neutral.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral Normal 🔗 to 'Neutral-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.neutral.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral Weak 🔗 to 'Neutral-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.neutral.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral x-Weak 🔗 to 'Neutral-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.neutral.10}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral 2x-Weak 🔗 to 'Neutral-20'"
+            },
+            "xxx-weak": {
+              "value": "{light.color.primitive.neutral.0}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Neutral 2x-Weak 🔗 to 'Neutral-0'"
+            }
+          },
+          "blue": {
+            "xx-strong": {
+              "value": "{light.color.primitive.blue.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Blue'"
+              },
+              "comment": "Icon Blue 2x-Strong 🔗 to 'Blue-80'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.blue.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue x-Strong 🔗 to 'Blue-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.blue.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue Strong 🔗 to 'Blue-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.blue.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue Normal 🔗 to 'Blue-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.blue.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue Weak 🔗 to 'Blue-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.blue.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue x-Weak 🔗 to 'Blue-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.neutral.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Blue 2x-Weak 🔗 to 'Blue-20'"
+            }
+          },
+          "navy": {
+            "xx-strong": {
+              "value": "{light.color.primitive.navy.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Navy'"
+              },
+              "comment": "Icon Navy 2x-Strong 🔗 to 'Navy-80'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.navy.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy x-Strong 🔗 to 'Navy-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.navy.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy Strong 🔗 to 'Navy-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.navy.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy Normal 🔗 to 'Navy-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.navy.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy Weak 🔗 to 'Navy-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.navy.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy x-Weak 🔗 to 'Navy-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.navy.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Navy 2x-Weak 🔗 to 'Navy-20'"
+            }
+          },
+          "green": {
+            "xx-strong": {
+              "value": "{light.color.primitive.green.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Green'"
+              },
+              "comment": "Icon Green 2x-Strong 🔗 to 'Green-80'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.green.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green x-Strong 🔗 to 'Green-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.green.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green Strong 🔗 to 'Green-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.green.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green Normal 🔗 to 'Green-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.green.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green Weak 🔗 to 'Green-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.green.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green x-Weak 🔗 to 'Green-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.green.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Green 2x-Weak 🔗 to 'Green-20'"
+            }
+          },
+          "yellow": {
+            "xx-strong": {
+              "value": "{light.color.primitive.yellow.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Yellow'"
+              },
+              "comment": "Icon Yellow 2x-Strong 🔗 to 'Yellow-80'"
+            },
+            "x-strong": {
+              "value": "{light.color.primitive.yellow.70}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow x-Strong 🔗 to 'Yellow-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.yellow.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow Strong 🔗 to 'Yellow-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.yellow.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow Normal 🔗 to 'Yellow-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.yellow.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow Weak 🔗 to 'Yellow-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.yellow.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow x-Weak 🔗 to 'Yellow-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.yellow.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Yellow 2x-Weak 🔗 to 'Yellow-20'"
+            }
+          },
+          "red": {
+            "xx-strong": {
+              "value": "{light.color.primitive.red.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Red'"
+              },
+              "comment": "Icon Red 2x-Strong 🔗 to 'Red-80'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.red.70}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red x-Strong 🔗 to 'Red-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.red.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red Strong 🔗 to 'Red-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.red.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red Normal 🔗 to 'Red-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.red.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red Weak 🔗 to 'Red-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.red.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red x-Weak 🔗 to 'Red-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.red.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Red 2x-Weak 🔗 to 'Red-20'"
+            }
+          },
+          "orange": {
+            "xx-strong": {
+              "value": "{light.color.primitive.orange.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Orange'"
+              },
+              "comment": "Icon Orange 2x-Strong 🔗 to 'Orange-80'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.orange.70}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange x-Strong 🔗 to 'Orange-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.orange.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange Strong 🔗 to 'Orange-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange Normal 🔗 to 'Orange-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.orange.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange Weak 🔗 to 'Orange-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.orange.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange x-Weak 🔗 to 'Orange-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.orange.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Orange 2x-Weak 🔗 to 'Orange-20'"
+            }
+          },
+          "violet": {
+            "xx-strong": {
+              "value": "{light.color.primitive.violet.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Violet'"
+              },
+              "comment": "Icon Violet 2x-Strong 🔗 to 'Violet-80'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.violet.70}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet x-Strong 🔗 to 'Violet-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.violet.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet Strong 🔗 to 'Violet-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.orange.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet Normal 🔗 to 'Violet-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.violet.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet Weak 🔗 to 'Violet-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.violet.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet x-Weak 🔗 to 'Violet-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.violet.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Violet 2x-Weak 🔗 to 'Violet-20'"
+            }
+          },
+          "magenta": {
+            "xx-strong": {
+              "value": "{light.color.primitive.magenta.80}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade",
+                "description": "'@/Color/Semantic/Icon/Magenta'"
+              },
+              "comment": "Icon Magenta 2x-Strong 🔗 to 'Magenta-80'"
+            },
+            "x-strong": {
+              "attributes": {
+                "value": "{light.color.primitive.magenta.70}",
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Magenta x-Strong 🔗 to 'Magenta-70'"
+            },
+            "strong": {
+              "value": "{light.color.primitive.magenta.60}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Magenta Strong 🔗 to 'Magenta-60'"
+            },
+            "normal": {
+              "value": "{light.color.primitive.magenta.50}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Border Magenta Normal 🔗 to 'Magenta-50'"
+            },
+            "weak": {
+              "value": "{light.color.primitive.magenta.40}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Magenta Weak 🔗 to 'Magenta-40'"
+            },
+            "x-weak": {
+              "value": "{light.color.primitive.magenta.30}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon Magenta x-Weak 🔗 to 'Magenta-30'"
+            },
+            "xx-weak": {
+              "value": "{light.color.primitive.magenta.20}",
+              "attributes": {
+                "category": "color",
+                "subcategory": "semantic",
+                "type": "shade"
+              },
+              "comment": "Icon magenta 2x-Weak 🔗 to 'Magenta-20'"
+            }
+          }
+        }   
       }
     }
   }
