@@ -1,96 +1,344 @@
 /** --------------------------------------------------------------------------
  * The scss/spacing.scss file.
- * Generated on: Wed Jun 05 2024 22:18:44 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Fri Jun 07 2024 11:09:23 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
 
-
+/* '@/Spacing/Primitive' */
+// ✨ use to add a 'NEW' value
 $coreUiSpacingPrimitive0: '0px';
 
-
+// Primitive-2
 $coreUiSpacingPrimitive2: '2px';
 
-
+// Primitive-4
 $coreUiSpacingPrimitive4: '4px';
 
-
+// Primitive-6
 $coreUiSpacingPrimitive6: '6px';
 
-
+// Primitive-8
 $coreUiSpacingPrimitive8: '8px';
 
-
+// Primitive-10
 $coreUiSpacingPrimitive10: '10px';
 
-
+// Primitive-12
 $coreUiSpacingPrimitive12: '12px';
 
-
+// Primitive-16
 $coreUiSpacingPrimitive16: '16px';
 
-
+// Primitive-20
 $coreUiSpacingPrimitive20: '20px';
 
-
+// Primitive-24
 $coreUiSpacingPrimitive24: '24px';
 
-
+// Primitive-32
 $coreUiSpacingPrimitive32: '32px';
 
-
+// Primitive-40
 $coreUiSpacingPrimitive40: '40px';
 
-
+// Primitive-48
 $coreUiSpacingPrimitive48: '48px';
 
-
+// Primitive-64
 $coreUiSpacingPrimitive64: '64px';
 
-
+// Primitive-80
 $coreUiSpacingPrimitive80: '80px';
 
-
+// Primitive-96
 $coreUiSpacingPrimitive96: '96px';
 
-
+// Primitive-128
 $coreUiSpacingPrimitive128: '128px';
 
-
+// Primitive-160
 $coreUiSpacingPrimitive160: '160px';
 
-
+// Primitive-192
 $coreUiSpacingPrimitive192: '192px';
 
-
+// Primitive-256
 $coreUiSpacingPrimitive256: '256px';
 
-
+// Primitive 'auto'
 $coreUiSpacingPrimitiveAuto: 'auto';
 
+/* '@/Spacing/Primitive' */
+// Primitive-Negative-2
+$coreUiSpacingPrimitiveNegative2: '-2px';
 
-$coreUiSpacingSemanticPaddingNone: '0px';
+// Primitive-Negative-4
+$coreUiSpacingPrimitiveNegative4: '-4px';
 
+// Primitive-Negative-6
+$coreUiSpacingPrimitiveNegative6: '-6px';
 
-$coreUiSpacingSemanticPaddingAuto: 'auto';
+// Primitive-Negative-8
+$coreUiSpacingPrimitiveNegative8: '-8px';
 
+// Primitive-Negative-10
+$coreUiSpacingPrimitiveNegative10: '-10px';
 
-$coreUiSpacingSemanticPaddingXxs: '2px';
+// Primitive-Negative-12
+$coreUiSpacingPrimitiveNegative12: '-12px';
 
+// Primitive-Negative-16
+$coreUiSpacingPrimitiveNegative16: '-16px';
 
-$coreUiSpacingSemanticPaddingXs: '4px';
+// Primitive-Negative-20
+$coreUiSpacingPrimitiveNegative20: '-20px';
 
+// Primitive-Negative-24
+$coreUiSpacingPrimitiveNegative24: '-24px';
 
-$coreUiSpacingSemanticPaddingS: '8px';
+// Primitive-Negative-32
+$coreUiSpacingPrimitiveNegative32: '-32px';
 
+// Primitive-Negative-40
+$coreUiSpacingPrimitiveNegative40: '-40px';
 
-$coreUiSpacingSemanticPaddingM: '16px';
+// Primitive-Negative-48
+$coreUiSpacingPrimitiveNegative48: '-48px';
 
+// Primitive-Negative-64
+$coreUiSpacingPrimitiveNegative64: '-64px';
 
-$coreUiSpacingSemanticPaddingL: '24px';
+// Primitive-Negative-80
+$coreUiSpacingPrimitiveNegative80: '-80px';
 
+// Primitive-Negative-96
+$coreUiSpacingPrimitiveNegative96: '-96px';
 
-$coreUiSpacingSemanticPaddingXl: '32px';
+// Primitive-Negative-128
+$coreUiSpacingPrimitiveNegative128: '-128px';
 
+// Primitive-Negative-160'
+$coreUiSpacingPrimitiveNegative160: '-160px';
 
-$coreUiSpacingSemanticPaddingXxl: '48px';
+// Primitive-Negative-192
+$coreUiSpacingPrimitiveNegative192: '-192px';
+
+// Primitive-Negative-256
+$coreUiSpacingPrimitiveNegative256: '-256px';
+
+/* '@/Spacing/Semantic/Padding' */
+// Padding 0 🔗 to 'Primitive-0'
+$coreUiSemanticPadding0: '0px';
+
+// Padding 25 🔗 to 'Primitive-2'
+$coreUiSemanticPadding25: '2px';
+
+// Padding 50 🔗 to 'Primitive-4'
+$coreUiSemanticPadding50: '4px';
+
+// Padding 75 🔗 to 'Primitive-6'
+$coreUiSemanticPadding75: '6px';
+
+// Padding 100 🔗 to 'Primitive-8'
+$coreUiSemanticPadding100: '8px';
+
+// Padding 125 🔗 to 'Primitive-10'
+$coreUiSemanticPadding125: '10px';
+
+// Padding 150 🔗 to 'Primitive-12'
+$coreUiSemanticPadding150: '12px';
+
+// Padding 200 🔗 to 'Primitive-16'
+$coreUiSemanticPadding200: '16px';
+
+// Padding 250 🔗 to 'Primitive-20'
+$coreUiSemanticPadding250: '20px';
+
+// Padding 300 🔗 to 'Primitive-24'
+$coreUiSemanticPadding300: '24px';
+
+// Padding 400 🔗 to 'Primitive-32'
+$coreUiSemanticPadding400: '32px';
+
+// Padding 500 🔗 to 'Primitive-40'
+$coreUiSemanticPadding500: '40px';
+
+// Padding 600 🔗 to 'Primitive-48'
+$coreUiSemanticPadding600: '48px';
+
+// Padding 800 🔗 to 'Primitive-64'
+$coreUiSemanticPadding800: '64px';
+
+// Padding 1000 🔗 to 'Primitive-80'
+$coreUiSemanticPadding1000: '80px';
+
+/* '@/Spacing/Semantic/Margin' */
+// Margin 0 🔗 to 'Primitive-0'
+$coreUiSemanticMargin0: '0px';
+
+// Margin 25 🔗 to 'Primitive-2'
+$coreUiSemanticMargin25: '2px';
+
+// Margin 50 🔗 to 'Primitive-4'
+$coreUiSemanticMargin50: '4px';
+
+// Margin 75 🔗 to 'Primitive-6'
+$coreUiSemanticMargin75: '6px';
+
+// Margin 100 🔗 to 'Primitive-8'
+$coreUiSemanticMargin100: '8px';
+
+// Margin 125 🔗 to 'Primitive-10'
+$coreUiSemanticMargin125: '10px';
+
+// Margin 150 🔗 to 'Primitive-12'
+$coreUiSemanticMargin150: '12px';
+
+// Margin 200 🔗 to 'Primitive-16'
+$coreUiSemanticMargin200: '16px';
+
+// Margin 250 🔗 to 'Primitive-20'
+$coreUiSemanticMargin250: '20px';
+
+// Margin 300 🔗 to 'Primitive-24'
+$coreUiSemanticMargin300: '24px';
+
+// Margin 400 🔗 to 'Primitive-32'
+$coreUiSemanticMargin400: '32px';
+
+// Margin 500 🔗 to 'Primitive-40'
+$coreUiSemanticMargin500: '40px';
+
+// Margin 600 🔗 to 'Primitive-48'
+$coreUiSemanticMargin600: '48px';
+
+// Margin 800 🔗 to 'Primitive-64'
+$coreUiSemanticMargin800: '64px';
+
+// Margin 1000 🔗 to 'Primitive-80'
+$coreUiSemanticMargin1000: '80px';
+
+// Margin 'auto' 🔗 to 'Primitive-auto'
+$coreUiSemanticMarginAuto: 'auto';
+
+/* '@/Spacing/Semantic/Gap' */
+// Gap 0 🔗 to 'Primitive-0'
+$coreUiSemanticGap0: '0px';
+
+// Gap 25 🔗 to 'Primitive-2'
+$coreUiSemanticGap25: '2px';
+
+// Gap 50 🔗 to 'Primitive-4'
+$coreUiSemanticGap50: '4px';
+
+// Gap 75 🔗 to 'Primitive-6'
+$coreUiSemanticGap75: '6px';
+
+// Gap 100 🔗 to 'Primitive-8'
+$coreUiSemanticGap100: '8px';
+
+// Gap 125 🔗 to 'Primitive-10'
+$coreUiSemanticGap125: '10px';
+
+// Gap 150 🔗 to 'Primitive-12'
+$coreUiSemanticGap150: '12px';
+
+// Gap 200 🔗 to 'Primitive-16'
+$coreUiSemanticGap200: '16px';
+
+// Gap 250 🔗 to 'Primitive-20'
+$coreUiSemanticGap250: '20px';
+
+// Gap 300 🔗 to 'Primitive-24'
+$coreUiSemanticGap300: '24px';
+
+// Gap 400 🔗 to 'Primitive-32'
+$coreUiSemanticGap400: '32px';
+
+// Gap 500 🔗 to 'Primitive-40'
+$coreUiSemanticGap500: '40px';
+
+// Gap 600 🔗 to 'Primitive-48'
+$coreUiSemanticGap600: '48px';
+
+// Gap 800 🔗 to 'Primitive-64'
+$coreUiSemanticGap800: '64px';
+
+// Gap 1000 🔗 to 'Primitive-80'
+$coreUiSemanticGap1000: '80px';
+
+// Gap 1200 🔗 to 'Primitive-96'
+$coreUiSemanticGap1200: '1200px';
+
+// Gap 1600 🔗 to 'Primitive-128'
+$coreUiSemanticGap1600: '1600px';
+
+// Gap 2000 🔗 to 'Primitive-160'
+$coreUiSemanticGap2000: '2000px';
+
+// Gap 2400 🔗 to 'Primitive-192'
+$coreUiSemanticGap2400: '2400px';
+
+// Gap 3200 🔗 to 'Primitive-256'
+$coreUiSemanticGap3200: '3200px';
+
+// Gap 'auto' 🔗 to 'Primitive-auto'
+$coreUiSemanticGapAuto: 'auto';
+
+// Gap Negative 25 🔗 to 'Primitive-Negative-2'
+$coreUiSemanticGapNegative25: '-2px';
+
+// Gap Negative 50 🔗 to 'Primitive-Negative-4'
+$coreUiSemanticGapNegative50: '-4px';
+
+// Gap Negative 75 🔗 to 'Primitive-Negative-6'
+$coreUiSemanticGapNegative75: '-6px';
+
+// Gap Negative 100 🔗 to 'Primitive-Negative-8'
+$coreUiSemanticGapNegative100: '-8px';
+
+// Gap Negative 125 🔗 to 'Primitive-Negative-10'
+$coreUiSemanticGapNegative125: '-10px';
+
+// Gap Negative 150 🔗 to 'Primitive-Negative-12'
+$coreUiSemanticGapNegative150: '-12px';
+
+// Gap Negative 200 🔗 to 'Primitive-Negative-16'
+$coreUiSemanticGapNegative200: '-16px';
+
+// Gap Negative 250 🔗 to 'Primitive-Negative-20'
+$coreUiSemanticGapNegative250: '-20px';
+
+// Gap Negative 300 🔗 to 'Primitive-Negative-24'
+$coreUiSemanticGapNegative300: '-24px';
+
+// Gap Negative 400 🔗 to 'Primitive-Negative-32'
+$coreUiSemanticGapNegative400: '-32px';
+
+// Gap Negative 500 🔗 to 'Primitive-Negative-40'
+$coreUiSemanticGapNegative500: '-40px';
+
+// Gap Negative 600 🔗 to 'Primitive-Negative-48'
+$coreUiSemanticGapNegative600: '-48px';
+
+// Gap Negative 800 🔗 to 'Primitive-Negative-64'
+$coreUiSemanticGapNegative800: '-64px';
+
+// Gap Negative 1000 🔗 to 'Primitive-Negative-80'
+$coreUiSemanticGapNegative1000: '-80px';
+
+// Gap Negative 1200 🔗 to 'Primitive-Negative-96'
+$coreUiSemanticGapNegative1200: '-96px';
+
+// Gap Negative 1600 🔗 to 'Primitive-Negative-128'
+$coreUiSemanticGapNegative1600: '-128px';
+
+// Gap Negative 2000 🔗 to 'Primitive-Negative-160'
+$coreUiSemanticGapNegative2000: '-160px';
+
+// Gap Negative 2400 🔗 to 'Primitive-Negative-192'
+$coreUiSemanticGapNegative2400: '-192px';
+
+// Gap Negative 3200 🔗 to 'Primitive-Negative-256'
+$coreUiSemanticGapNegative3200: '-256px';
