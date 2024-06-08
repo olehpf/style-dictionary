@@ -6,9 +6,9 @@
         "attributes": {
           "category": "dimension",
           "type": "breakpoint",
-          "description": "'@/Breakpoint/All'"
+          "description": "'@/Breakpoint/Small'"
         },
-        "comment": "Small Breakpoint \n// '320' is the Start point"
+        "comment": "'320' is the Start point"
       },
       "max-width": {
         "value": "'600px'",
@@ -54,12 +54,12 @@
         "comment": "'601' is the Start point"
       },
       "max-width": {
-        "value": "'1024px'",
+        "value": "'960px'",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "'1024' is the End point"
+        "comment": "'960' is the End point"
       },
       "columns": { 
         "value": "6",
@@ -88,21 +88,21 @@
     },
     "lg": {
       "min-width": {
-        "value": "'1025px'",
+        "value": "'961px'",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint",
           "description": "'@/Breakpoint/Large'"
         },
-        "comment": "'1025' is the Start point"
+        "comment": "'961' is the Start point"
       },
       "max-width": {
-        "value": "'1320px'",
+        "value": "'1280px'",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "'1320' is the End point"
+        "comment": "'1280' is the End point"
       },
       "columns": { 
         "value": "8",
@@ -131,13 +131,13 @@
     },
     "xl": {
       "min-width": {
-        "value": "'1321px'",
+        "value": "'1281px'",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint",
           "description": "'@/Breakpoint/XL'"
         },
-        "comment": "'1321' is the Start point"
+        "comment": "'1281' is the Start point"
       },
       "max-width": {
         "value": "'1600px'",

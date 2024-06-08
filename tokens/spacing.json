@@ -8,7 +8,7 @@
           "type": "spacing",
           "description": "'@/Spacing/Primitive'"
         },
-        "comment": "✨ use to add a 'NEW' value"
+        "comment": "✨ use to add||remove values\n// Primitive-0"
       },
       "2": {
         "value": "'2px'",

@@ -36,6 +36,14 @@ StyleDictionary.registerFilter({
   },
 });
 
+// Filter for Spacing properties
+StyleDictionary.registerFilter({
+  name: "isOpacity",
+  matcher: function (token) {
+    return token.attributes.type === "opacity";
+  },
+});
+
 // Build the Camel Case name for the token
 StyleDictionary.registerTransform({
   name: "name/camel",

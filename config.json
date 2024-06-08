@@ -42,7 +42,16 @@
                         "outputReferences": true
                     },
                     "filter": "isSpacing"
-                }    
+                },
+                {
+                    "destination": "scss/opacity.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isOpacity"
+                }      
             ]
         }
     }

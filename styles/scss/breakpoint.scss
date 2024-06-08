@@ -1,12 +1,11 @@
 /** --------------------------------------------------------------------------
  * The scss/breakpoint.scss file.
- * Generated on: Sat Jun 08 2024 15:11:36 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Sat Jun 08 2024 16:14:54 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
 
-/* '@/Breakpoint/All' */
-// Small Breakpoint 
+/* '@/Breakpoint/Small' */
 // '320' is the Start point
 $coreUiBreakpointSmMinWidth: '320px';
 
@@ -27,8 +26,8 @@ $coreUiBreakpointSmMargin: '16px';
 // '601' is the Start point
 $coreUiBreakpointMdMinWidth: '601px';
 
-// '1024' is the End point
-$coreUiBreakpointMdMaxWidth: '1024px';
+// '960' is the End point
+$coreUiBreakpointMdMaxWidth: '960px';
 
 // Number of columns = 6
 $coreUiBreakpointMdColumns: 6;
@@ -41,11 +40,11 @@ $coreUiBreakpointMdGutter: '12px';
 $coreUiBreakpointMdMargin: '32px';
 
 /* '@/Breakpoint/Large' */
-// '1025' is the Start point
-$coreUiBreakpointLgMinWidth: '1025px';
+// '961' is the Start point
+$coreUiBreakpointLgMinWidth: '961px';
 
-// '1320' is the End point
-$coreUiBreakpointLgMaxWidth: '1320px';
+// '1280' is the End point
+$coreUiBreakpointLgMaxWidth: '1280px';
 
 // Number of columns = 8
 $coreUiBreakpointLgColumns: 8;
@@ -58,8 +57,8 @@ $coreUiBreakpointLgGutter: '16px';
 $coreUiBreakpointLgMargin: '48px';
 
 /* '@/Breakpoint/XL' */
-// '1321' is the Start point
-$coreUiBreakpointXlMinWidth: '1321px';
+// '1281' is the Start point
+$coreUiBreakpointXlMinWidth: '1281px';
 
 // '1600' is the End point
 $coreUiBreakpointXlMaxWidth: '1600px';

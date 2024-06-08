@@ -1,0 +1,63 @@
+/** --------------------------------------------------------------------------
+ * The scss/opacity.scss file.
+ * Generated on: Sat Jun 08 2024 16:14:54 GMT+0300 (Eastern European Summer Time)
+ * russia is a terrorist state 💯💩 
+ ----------------------------------------------------------------------------- **/
+
+
+/* '@/Opacity/Primitive' */
+// ✨ use to add||remove values
+// Opacity-0
+$coreUiOpacityPrimitive0: '0';
+
+// Opacity-10
+$coreUiOpacityPrimitive10: '0.1';
+
+// Opacity-20
+$coreUiOpacityPrimitive20: '0.2';
+
+// Opacity-30
+$coreUiOpacityPrimitive30: '0.3';
+
+// Opacity-40
+$coreUiOpacityPrimitive40: '0.4';
+
+// Opacity-50
+$coreUiOpacityPrimitive50: '0.5';
+
+// Opacity-60
+$coreUiOpacityPrimitive60: '0.6';
+
+// Opacity-70
+$coreUiOpacityPrimitive70: '0.7';
+
+// Opacity-80
+$coreUiOpacityPrimitive80: '0.8';
+
+// Opacity-90
+$coreUiOpacityPrimitive90: '0.9';
+
+/* '@/Opacity/Semantic' */
+// Opacity 2x-High 🔗 to 'Primitive-20'
+$coreUiOpacitySemanticXxHigh: '0.2';
+
+// Opacity x-High 🔗 to 'Primitive-30'
+$coreUiOpacitySemanticXHigh: '0.3';
+
+// Opacity High 🔗 to 'Primitive-40'
+$coreUiOpacitySemanticHigh: '0.4';
+
+// Opacity Medium 🔗 to 'Primitive-50'
+$coreUiOpacitySemanticMedium: '0.5';
+
+// Opacity Low 🔗 to 'Primitive-60'
+$coreUiOpacitySemanticLow: '0.6';
+
+// Opacity x-Low 🔗 to 'Primitive-70'
+$coreUiOpacitySemanticXLow: '0.7';
+
+// Opacity 2x-Low 🔗 to 'Primitive-80'
+$coreUiOpacitySemanticXxLow: '0.8';
+
+// Opacity None 🔗 to 'Primitive-0'
+$coreUiOpacitySemanticNone: '0';
