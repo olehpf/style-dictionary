@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/breakpoint.scss file.
- * Generated on: Fri Jun 07 2024 11:09:23 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Sat Jun 08 2024 15:11:36 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -16,9 +16,60 @@ $coreUiBreakpointSmMaxWidth: '600px';
 // Number of columns = 4
 $coreUiBreakpointSmColumns: 4;
 
-// Gutter 🔗 to '@Spacing/Primitive/8'
+// Gutter 🔗 to '@Spacing/Semantic/Gap-100'
 $coreUiBreakpointSmGutter: '8px';
 
-// Margin size 🔗 to '@Spacing/Primitive/16'
+// Margin size 🔗 to '@Spacing/Semantic/Margin-200'
 // use to wrap <Layout />
 $coreUiBreakpointSmMargin: '16px';
+
+/* '@/Breakpoint/Medium' */
+// '601' is the Start point
+$coreUiBreakpointMdMinWidth: '601px';
+
+// '1024' is the End point
+$coreUiBreakpointMdMaxWidth: '1024px';
+
+// Number of columns = 6
+$coreUiBreakpointMdColumns: 6;
+
+// Gutter 🔗 to '@Spacing/Semantic/Gap-150'
+$coreUiBreakpointMdGutter: '12px';
+
+// Margin size 🔗 to '@Spacing/Semantic/Margin-400'
+// use to wrap <Layout />
+$coreUiBreakpointMdMargin: '32px';
+
+/* '@/Breakpoint/Large' */
+// '1025' is the Start point
+$coreUiBreakpointLgMinWidth: '1025px';
+
+// '1320' is the End point
+$coreUiBreakpointLgMaxWidth: '1320px';
+
+// Number of columns = 8
+$coreUiBreakpointLgColumns: 8;
+
+// Gutter 🔗 to '@Spacing/Semantic/Gap-200'
+$coreUiBreakpointLgGutter: '16px';
+
+// Margin size 🔗 to '@Spacing/Semantic/Margin-600'
+// use to wrap <Layout />
+$coreUiBreakpointLgMargin: '48px';
+
+/* '@/Breakpoint/XL' */
+// '1321' is the Start point
+$coreUiBreakpointXlMinWidth: '1321px';
+
+// '1600' is the End point
+$coreUiBreakpointXlMaxWidth: '1600px';
+
+// Number of columns = 12
+$coreUiBreakpointXlColumns: 12;
+
+// Gutter 🔗 to '@Spacing/Semantic/Gap-300'
+$coreUiBreakpointXlGutter: '24px';
+
+// Margin size 🔗 to '@Spacing/Semantic/Margin-800'
+// use to wrap <Layout />
+$coreUiBreakpointXlMargin: '64px';

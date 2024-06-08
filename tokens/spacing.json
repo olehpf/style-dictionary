@@ -323,585 +323,585 @@
         },
         "comment": "Primitive-Negative-256"
       }
-    }
-  },
-  "semantic": {
-    "padding": {
-      "0": {
-        "value": "{spacing.primitive.0.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing",
-          "description": "'@/Spacing/Semantic/Padding'"
-        },
-        "comment": "Padding 0 🔗 to 'Primitive-0'"
-      },
-      "25": {
-        "value": "{spacing.primitive.2.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 25 🔗 to 'Primitive-2'"
-      },
-      "50": {
-        "value": "{spacing.primitive.4.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 50 🔗 to 'Primitive-4'"
-      },
-      "75": {
-        "value": "{spacing.primitive.6.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 75 🔗 to 'Primitive-6'"
-      },
-      "100": {
-        "value": "{spacing.primitive.8.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 100 🔗 to 'Primitive-8'"
-      },
-      "125": {
-        "value": "{spacing.primitive.10.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 125 🔗 to 'Primitive-10'"
-      },
-      "150": {
-        "value": "{spacing.primitive.12.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 150 🔗 to 'Primitive-12'"
-      },
-      "200": {
-        "value": "{spacing.primitive.16.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 200 🔗 to 'Primitive-16'"
-      },
-      "250": {
-        "value": "{spacing.primitive.20.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 250 🔗 to 'Primitive-20'"
-      },
-      "300": {
-        "value": "{spacing.primitive.24.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 300 🔗 to 'Primitive-24'"
-      },
-      "400": {
-        "value": "{spacing.primitive.32.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 400 🔗 to 'Primitive-32'"
-      },
-      "500": {
-        "value": "{spacing.primitive.40.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 500 🔗 to 'Primitive-40'"
-      },
-      "600": {
-        "value": "{spacing.primitive.48.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 600 🔗 to 'Primitive-48'"
-      },
-      "800": {
-        "value": "{spacing.primitive.64.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 800 🔗 to 'Primitive-64'"
-      },
-      "1000": {
-        "value": "{spacing.primitive.80.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Padding 1000 🔗 to 'Primitive-80'"
-      }
     },
-    "margin": {
-      "0": {
-        "value": "{spacing.primitive.0.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing",
-          "description": "'@/Spacing/Semantic/Margin'"
+    "semantic": {
+      "padding": {
+        "0": {
+          "value": "{spacing.primitive.0.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing",
+            "description": "'@/Spacing/Semantic/Padding'"
+          },
+          "comment": "Padding 0 🔗 to 'Primitive-0'"
         },
-        "comment": "Margin 0 🔗 to 'Primitive-0'"
-      },
-      "25": {
-        "value": "{spacing.primitive.2.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 25 🔗 to 'Primitive-2'"
-      },
-      "50": {
-        "value": "{spacing.primitive.4.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 50 🔗 to 'Primitive-4'"
-      },
-      "75": {
-        "value": "{spacing.primitive.6.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 75 🔗 to 'Primitive-6'"
-      },
-      "100": {
-        "value": "{spacing.primitive.8.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 100 🔗 to 'Primitive-8'"
-      },
-      "125": {
-        "value": "{spacing.primitive.10.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 125 🔗 to 'Primitive-10'"
-      },
-      "150": {
-        "value": "{spacing.primitive.12.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 150 🔗 to 'Primitive-12'"
-      },
-      "200": {
-        "value": "{spacing.primitive.16.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 200 🔗 to 'Primitive-16'"
-      },
-      "250": {
-        "value": "{spacing.primitive.20.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 250 🔗 to 'Primitive-20'"
-      },
-      "300": {
-        "value": "{spacing.primitive.24.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 300 🔗 to 'Primitive-24'"
-      },
-      "400": {
-        "value": "{spacing.primitive.32.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 400 🔗 to 'Primitive-32'"
-      },
-      "500": {
-        "value": "{spacing.primitive.40.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 500 🔗 to 'Primitive-40'"
-      },
-      "600": {
-        "value": "{spacing.primitive.48.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 600 🔗 to 'Primitive-48'"
-      },
-      "800": {
-        "value": "{spacing.primitive.64.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 800 🔗 to 'Primitive-64'"
-      },
-      "1000": {
-        "value": "{spacing.primitive.80.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 1000 🔗 to 'Primitive-80'"
-      },
-      "auto": {
-        "value": "{spacing.primitive.auto.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Margin 'auto' 🔗 to 'Primitive-auto'"
-      }
-    },
-    "gap": {
-      "0": {
-        "value": "{spacing.primitive.0.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing",
-          "description": "'@/Spacing/Semantic/Gap'"
-        },
-        "comment": "Gap 0 🔗 to 'Primitive-0'"
-      },
-      "25": {
-        "value": "{spacing.primitive.2.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 25 🔗 to 'Primitive-2'"
-      },
-      "50": {
-        "value": "{spacing.primitive.4.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 50 🔗 to 'Primitive-4'"
-      },
-      "75": {
-        "value": "{spacing.primitive.6.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 75 🔗 to 'Primitive-6'"
-      },
-      "100": {
-        "value": "{spacing.primitive.8.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 100 🔗 to 'Primitive-8'"
-      },
-      "125": {
-        "value": "{spacing.primitive.10.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 125 🔗 to 'Primitive-10'"
-      },
-      "150": {
-        "value": "{spacing.primitive.12.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 150 🔗 to 'Primitive-12'"
-      },
-      "200": {
-        "value": "{spacing.primitive.16.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 200 🔗 to 'Primitive-16'"
-      },
-      "250": {
-        "value": "{spacing.primitive.20.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 250 🔗 to 'Primitive-20'"
-      },
-      "300": {
-        "value": "{spacing.primitive.24.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 300 🔗 to 'Primitive-24'"
-      },
-      "400": {
-        "value": "{spacing.primitive.32.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 400 🔗 to 'Primitive-32'"
-      },
-      "500": {
-        "value": "{spacing.primitive.40.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 500 🔗 to 'Primitive-40'"
-      },
-      "600": {
-        "value": "{spacing.primitive.48.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 600 🔗 to 'Primitive-48'"
-      },
-      "800": {
-        "value": "{spacing.primitive.64.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 800 🔗 to 'Primitive-64'"
-      },
-      "1000": {
-        "value": "{spacing.primitive.80.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 1000 🔗 to 'Primitive-80'"
-      },
-      "1200": {
-        "value": "'1200px'",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 1200 🔗 to 'Primitive-96'"
-      },
-      "1600": {
-        "value": "'1600px'",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 1600 🔗 to 'Primitive-128'"
-      },
-      "2000": {
-        "value": "'2000px'",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 2000 🔗 to 'Primitive-160'"
-      },
-      "2400": {
-        "value": "'2400px'",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 2400 🔗 to 'Primitive-192'"
-      },
-      "3200": {
-        "value": "'3200px'",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 3200 🔗 to 'Primitive-256'"
-      },
-      "auto": {
-        "value": "{spacing.primitive.auto.value}",
-        "attributes": {
-          "category": "dimension",
-          "type": "spacing"
-        },
-        "comment": "Gap 'auto' 🔗 to 'Primitive-auto'"
-      },
-      "negative": {
         "25": {
-          "value": "{spacing.primitive.negative-2.value}",
+          "value": "{spacing.primitive.2.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 25 🔗 to 'Primitive-Negative-2'"
+          "comment": "Padding 25 🔗 to 'Primitive-2'"
         },
         "50": {
-          "value": "{spacing.primitive.negative-4.value}",
+          "value": "{spacing.primitive.4.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 50 🔗 to 'Primitive-Negative-4'"
+          "comment": "Padding 50 🔗 to 'Primitive-4'"
         },
         "75": {
-          "value": "{spacing.primitive.negative-6.value}",
+          "value": "{spacing.primitive.6.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 75 🔗 to 'Primitive-Negative-6'"
+          "comment": "Padding 75 🔗 to 'Primitive-6'"
         },
         "100": {
-          "value": "{spacing.primitive.negative-8.value}",
+          "value": "{spacing.primitive.8.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 100 🔗 to 'Primitive-Negative-8'"
+          "comment": "Padding 100 🔗 to 'Primitive-8'"
         },
         "125": {
-          "value": "{spacing.primitive.negative-10.value}",
+          "value": "{spacing.primitive.10.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 125 🔗 to 'Primitive-Negative-10'"
+          "comment": "Padding 125 🔗 to 'Primitive-10'"
         },
         "150": {
-          "value": "{spacing.primitive.negative-12.value}",
+          "value": "{spacing.primitive.12.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 150 🔗 to 'Primitive-Negative-12'"
+          "comment": "Padding 150 🔗 to 'Primitive-12'"
         },
         "200": {
-          "value": "{spacing.primitive.negative-16.value}",
+          "value": "{spacing.primitive.16.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 200 🔗 to 'Primitive-Negative-16'"
+          "comment": "Padding 200 🔗 to 'Primitive-16'"
         },
         "250": {
-          "value": "{spacing.primitive.negative-20.value}",
+          "value": "{spacing.primitive.20.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 250 🔗 to 'Primitive-Negative-20'"
+          "comment": "Padding 250 🔗 to 'Primitive-20'"
         },
         "300": {
-          "value": "{spacing.primitive.negative-24.value}",
+          "value": "{spacing.primitive.24.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 300 🔗 to 'Primitive-Negative-24'"
+          "comment": "Padding 300 🔗 to 'Primitive-24'"
         },
         "400": {
-          "value": "{spacing.primitive.negative-32.value}",
+          "value": "{spacing.primitive.32.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 400 🔗 to 'Primitive-Negative-32'"
+          "comment": "Padding 400 🔗 to 'Primitive-32'"
         },
         "500": {
-          "value": "{spacing.primitive.negative-40.value}",
+          "value": "{spacing.primitive.40.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 500 🔗 to 'Primitive-Negative-40'"
+          "comment": "Padding 500 🔗 to 'Primitive-40'"
         },
         "600": {
-          "value": "{spacing.primitive.negative-48.value}",
+          "value": "{spacing.primitive.48.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 600 🔗 to 'Primitive-Negative-48'"
+          "comment": "Padding 600 🔗 to 'Primitive-48'"
         },
         "800": {
-          "value": "{spacing.primitive.negative-64.value}",
+          "value": "{spacing.primitive.64.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 800 🔗 to 'Primitive-Negative-64'"
+          "comment": "Padding 800 🔗 to 'Primitive-64'"
         },
         "1000": {
-          "value": "{spacing.primitive.negative-80.value}",
+          "value": "{spacing.primitive.80.value}",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 1000 🔗 to 'Primitive-Negative-80'"
+          "comment": "Padding 1000 🔗 to 'Primitive-80'"
+        }
+      },
+      "margin": {
+        "0": {
+          "value": "{spacing.primitive.0.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing",
+            "description": "'@/Spacing/Semantic/Margin'"
+          },
+          "comment": "Margin 0 🔗 to 'Primitive-0'"
+        },
+        "25": {
+          "value": "{spacing.primitive.2.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 25 🔗 to 'Primitive-2'"
+        },
+        "50": {
+          "value": "{spacing.primitive.4.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 50 🔗 to 'Primitive-4'"
+        },
+        "75": {
+          "value": "{spacing.primitive.6.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 75 🔗 to 'Primitive-6'"
+        },
+        "100": {
+          "value": "{spacing.primitive.8.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 100 🔗 to 'Primitive-8'"
+        },
+        "125": {
+          "value": "{spacing.primitive.10.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 125 🔗 to 'Primitive-10'"
+        },
+        "150": {
+          "value": "{spacing.primitive.12.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 150 🔗 to 'Primitive-12'"
+        },
+        "200": {
+          "value": "{spacing.primitive.16.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 200 🔗 to 'Primitive-16'"
+        },
+        "250": {
+          "value": "{spacing.primitive.20.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 250 🔗 to 'Primitive-20'"
+        },
+        "300": {
+          "value": "{spacing.primitive.24.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 300 🔗 to 'Primitive-24'"
+        },
+        "400": {
+          "value": "{spacing.primitive.32.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 400 🔗 to 'Primitive-32'"
+        },
+        "500": {
+          "value": "{spacing.primitive.40.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 500 🔗 to 'Primitive-40'"
+        },
+        "600": {
+          "value": "{spacing.primitive.48.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 600 🔗 to 'Primitive-48'"
+        },
+        "800": {
+          "value": "{spacing.primitive.64.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 800 🔗 to 'Primitive-64'"
+        },
+        "1000": {
+          "value": "{spacing.primitive.80.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 1000 🔗 to 'Primitive-80'"
+        },
+        "auto": {
+          "value": "{spacing.primitive.auto.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Margin 'auto' 🔗 to 'Primitive-auto'"
+        }
+      },
+      "gap": {
+        "0": {
+          "value": "{spacing.primitive.0.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing",
+            "description": "'@/Spacing/Semantic/Gap'"
+          },
+          "comment": "Gap 0 🔗 to 'Primitive-0'"
+        },
+        "25": {
+          "value": "{spacing.primitive.2.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 25 🔗 to 'Primitive-2'"
+        },
+        "50": {
+          "value": "{spacing.primitive.4.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 50 🔗 to 'Primitive-4'"
+        },
+        "75": {
+          "value": "{spacing.primitive.6.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 75 🔗 to 'Primitive-6'"
+        },
+        "100": {
+          "value": "{spacing.primitive.8.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 100 🔗 to 'Primitive-8'"
+        },
+        "125": {
+          "value": "{spacing.primitive.10.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 125 🔗 to 'Primitive-10'"
+        },
+        "150": {
+          "value": "{spacing.primitive.12.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 150 🔗 to 'Primitive-12'"
+        },
+        "200": {
+          "value": "{spacing.primitive.16.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 200 🔗 to 'Primitive-16'"
+        },
+        "250": {
+          "value": "{spacing.primitive.20.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 250 🔗 to 'Primitive-20'"
+        },
+        "300": {
+          "value": "{spacing.primitive.24.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 300 🔗 to 'Primitive-24'"
+        },
+        "400": {
+          "value": "{spacing.primitive.32.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 400 🔗 to 'Primitive-32'"
+        },
+        "500": {
+          "value": "{spacing.primitive.40.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 500 🔗 to 'Primitive-40'"
+        },
+        "600": {
+          "value": "{spacing.primitive.48.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 600 🔗 to 'Primitive-48'"
+        },
+        "800": {
+          "value": "{spacing.primitive.64.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 800 🔗 to 'Primitive-64'"
+        },
+        "1000": {
+          "value": "{spacing.primitive.80.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 1000 🔗 to 'Primitive-80'"
         },
         "1200": {
-          "value": "{spacing.primitive.negative-96.value}",
+          "value": "'1200px'",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 1200 🔗 to 'Primitive-Negative-96'"
+          "comment": "Gap 1200 🔗 to 'Primitive-96'"
         },
         "1600": {
-          "value": "{spacing.primitive.negative-128.value}",
+          "value": "'1600px'",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 1600 🔗 to 'Primitive-Negative-128'"
+          "comment": "Gap 1600 🔗 to 'Primitive-128'"
         },
         "2000": {
-          "value": "{spacing.primitive.negative-160.value}",
+          "value": "'2000px'",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 2000 🔗 to 'Primitive-Negative-160'"
+          "comment": "Gap 2000 🔗 to 'Primitive-160'"
         },
         "2400": {
-          "value": "{spacing.primitive.negative-192.value}",
+          "value": "'2400px'",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 2400 🔗 to 'Primitive-Negative-192'"
+          "comment": "Gap 2400 🔗 to 'Primitive-192'"
         },
         "3200": {
-          "value": "{spacing.primitive.negative-256.value}",
+          "value": "'3200px'",
           "attributes": {
             "category": "dimension",
             "type": "spacing"
           },
-          "comment": "Gap Negative 3200 🔗 to 'Primitive-Negative-256'"
+          "comment": "Gap 3200 🔗 to 'Primitive-256'"
+        },
+        "auto": {
+          "value": "{spacing.primitive.auto.value}",
+          "attributes": {
+            "category": "dimension",
+            "type": "spacing"
+          },
+          "comment": "Gap 'auto' 🔗 to 'Primitive-auto'"
+        },
+        "negative": {
+          "25": {
+            "value": "{spacing.primitive.negative-2.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 25 🔗 to 'Primitive-Negative-2'"
+          },
+          "50": {
+            "value": "{spacing.primitive.negative-4.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 50 🔗 to 'Primitive-Negative-4'"
+          },
+          "75": {
+            "value": "{spacing.primitive.negative-6.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 75 🔗 to 'Primitive-Negative-6'"
+          },
+          "100": {
+            "value": "{spacing.primitive.negative-8.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 100 🔗 to 'Primitive-Negative-8'"
+          },
+          "125": {
+            "value": "{spacing.primitive.negative-10.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 125 🔗 to 'Primitive-Negative-10'"
+          },
+          "150": {
+            "value": "{spacing.primitive.negative-12.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 150 🔗 to 'Primitive-Negative-12'"
+          },
+          "200": {
+            "value": "{spacing.primitive.negative-16.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 200 🔗 to 'Primitive-Negative-16'"
+          },
+          "250": {
+            "value": "{spacing.primitive.negative-20.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 250 🔗 to 'Primitive-Negative-20'"
+          },
+          "300": {
+            "value": "{spacing.primitive.negative-24.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 300 🔗 to 'Primitive-Negative-24'"
+          },
+          "400": {
+            "value": "{spacing.primitive.negative-32.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 400 🔗 to 'Primitive-Negative-32'"
+          },
+          "500": {
+            "value": "{spacing.primitive.negative-40.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 500 🔗 to 'Primitive-Negative-40'"
+          },
+          "600": {
+            "value": "{spacing.primitive.negative-48.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 600 🔗 to 'Primitive-Negative-48'"
+          },
+          "800": {
+            "value": "{spacing.primitive.negative-64.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 800 🔗 to 'Primitive-Negative-64'"
+          },
+          "1000": {
+            "value": "{spacing.primitive.negative-80.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 1000 🔗 to 'Primitive-Negative-80'"
+          },
+          "1200": {
+            "value": "{spacing.primitive.negative-96.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 1200 🔗 to 'Primitive-Negative-96'"
+          },
+          "1600": {
+            "value": "{spacing.primitive.negative-128.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 1600 🔗 to 'Primitive-Negative-128'"
+          },
+          "2000": {
+            "value": "{spacing.primitive.negative-160.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 2000 🔗 to 'Primitive-Negative-160'"
+          },
+          "2400": {
+            "value": "{spacing.primitive.negative-192.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 2400 🔗 to 'Primitive-Negative-192'"
+          },
+          "3200": {
+            "value": "{spacing.primitive.negative-256.value}",
+            "attributes": {
+              "category": "dimension",
+              "type": "spacing"
+            },
+            "comment": "Gap Negative 3200 🔗 to 'Primitive-Negative-256'"
+          }
         }
       }
     }

@@ -27,20 +27,149 @@
         "comment": "Number of columns = 4"
       },
       "gutter": { 
-        "value": "{spacing.primitive.8.value}",
+        "value": "{spacing.semantic.gap.100.value}",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "Gutter 🔗 to '@Spacing/Primitive/8'" 
+        "comment": "Gutter 🔗 to '@Spacing/Semantic/Gap-100'" 
       },
       "margin": { 
-        "value": "{spacing.primitive.16.value}",
+        "value": "{spacing.semantic.margin.200.value}",
         "attributes": {
           "category": "dimension",
           "type": "breakpoint"
         },
-        "comment": "Margin size 🔗 to '@Spacing/Primitive/16'\n// use to wrap <Layout />"  
+        "comment": "Margin size 🔗 to '@Spacing/Semantic/Margin-200'\n// use to wrap <Layout />"  
+      }
+    },
+    "md": {
+      "min-width": {
+        "value": "'601px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint",
+          "description": "'@/Breakpoint/Medium'"
+        },
+        "comment": "'601' is the Start point"
+      },
+      "max-width": {
+        "value": "'1024px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "'1024' is the End point"
+      },
+      "columns": { 
+        "value": "6",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Number of columns = 6"
+      },
+      "gutter": { 
+        "value": "{spacing.semantic.gap.150.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Gutter 🔗 to '@Spacing/Semantic/Gap-150'" 
+      },
+      "margin": { 
+        "value": "{spacing.semantic.margin.400.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Margin size 🔗 to '@Spacing/Semantic/Margin-400'\n// use to wrap <Layout />"  
+      }
+    },
+    "lg": {
+      "min-width": {
+        "value": "'1025px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint",
+          "description": "'@/Breakpoint/Large'"
+        },
+        "comment": "'1025' is the Start point"
+      },
+      "max-width": {
+        "value": "'1320px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "'1320' is the End point"
+      },
+      "columns": { 
+        "value": "8",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Number of columns = 8"
+      },
+      "gutter": { 
+        "value": "{spacing.semantic.gap.200.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Gutter 🔗 to '@Spacing/Semantic/Gap-200'" 
+      },
+      "margin": { 
+        "value": "{spacing.semantic.margin.600.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Margin size 🔗 to '@Spacing/Semantic/Margin-600'\n// use to wrap <Layout />"  
+      }
+    },
+    "xl": {
+      "min-width": {
+        "value": "'1321px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint",
+          "description": "'@/Breakpoint/XL'"
+        },
+        "comment": "'1321' is the Start point"
+      },
+      "max-width": {
+        "value": "'1600px'",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "'1600' is the End point"
+      },
+      "columns": { 
+        "value": "12",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Number of columns = 12"
+      },
+      "gutter": { 
+        "value": "{spacing.semantic.gap.300.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Gutter 🔗 to '@Spacing/Semantic/Gap-300'" 
+      },
+      "margin": { 
+        "value": "{spacing.semantic.margin.800.value}",
+        "attributes": {
+          "category": "dimension",
+          "type": "breakpoint"
+        },
+        "comment": "Margin size 🔗 to '@Spacing/Semantic/Margin-800'\n// use to wrap <Layout />"  
       }
     }
   }
