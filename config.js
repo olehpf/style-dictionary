@@ -36,11 +36,19 @@ StyleDictionary.registerFilter({
   },
 });
 
-// Filter for Spacing properties
+// Filter for Opacity properties
 StyleDictionary.registerFilter({
   name: "isOpacity",
   matcher: function (token) {
     return token.attributes.type === "opacity";
+  },
+});
+
+// Filter for Radius properties
+StyleDictionary.registerFilter({
+  name: "isRadius",
+  matcher: function (token) {
+    return token.attributes.type === "radius";
   },
 });
 

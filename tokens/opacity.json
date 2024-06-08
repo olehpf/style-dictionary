@@ -8,7 +8,7 @@
           "type": "opacity",
           "description": "'@/Opacity/Primitive'"
         },
-        "comment": "✨ use to add||remove values\n// Opacity-0"
+        "comment": "✨ Use to add||remove values\n// Opacity-0"
       },
       "10": {
         "value": "'0.1'",

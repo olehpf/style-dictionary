@@ -51,7 +51,16 @@
                         "outputReferences": true
                     },
                     "filter": "isOpacity"
-                }      
+                },
+                {
+                    "destination": "scss/radius.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isRadius"
+                }        
             ]
         }
     }
