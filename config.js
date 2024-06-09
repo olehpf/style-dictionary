@@ -8,7 +8,7 @@ const configStyleDictionary = require("./config.js");
 StyleDictionary.registerFilter({
   name: "isColor",
   matcher: function (token) {
-    return token.attributes.category === "color";
+    return token.attributes.type === "shade";
   },
 });
 
@@ -32,7 +32,7 @@ StyleDictionary.registerFilter({
 StyleDictionary.registerFilter({
   name: "isSpacing",
   matcher: function (token) {
-    return token.attributes.type === "spacing";
+    return token.attributes.type === "padding" || token.attributes.type === "margin" || token.attributes.type === "gap";
   },
 });
 
@@ -40,7 +40,7 @@ StyleDictionary.registerFilter({
 StyleDictionary.registerFilter({
   name: "isOpacity",
   matcher: function (token) {
-    return token.attributes.type === "opacity";
+    return token.attributes.category === "opacity" || token.attributes.type === "layer opacity";
   },
 });
 
@@ -48,7 +48,15 @@ StyleDictionary.registerFilter({
 StyleDictionary.registerFilter({
   name: "isRadius",
   matcher: function (token) {
-    return token.attributes.type === "radius";
+    return token.attributes.category === "radius" || token.attributes.type === "rounded corner";
+  },
+});
+
+// Filter for Stroke properties
+StyleDictionary.registerFilter({
+  name: "isStroke",
+  matcher: function (token) {
+    return token.attributes.category === "stroke";
   },
 });
 

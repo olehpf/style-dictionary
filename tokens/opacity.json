@@ -4,8 +4,8 @@
       "0": {
         "value": "'0'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity",
+          "category": "opacity",
+          "type": "unit",
           "description": "'@/Opacity/Primitive'"
         },
         "comment": "✨ Use to add||remove values\n// Opacity-0"
@@ -13,72 +13,72 @@
       "10": {
         "value": "'0.1'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-10"
       },
       "20": {
         "value": "'0.2'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-20"
       },
       "30": {
         "value": "'0.3'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-30"
       },
       "40": {
         "value": "'0.4'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-40"
       },
       "50": {
         "value": "'0.5'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-50"
       },
       "60": {
         "value": "'0.6'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-60"
       },
       "70": {
         "value": "'0.7'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-70"
       },
       "80": {
         "value": "'0.8'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-80"
       },
       "90": {
         "value": "'0.9'",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "unit"
         },
         "comment": "Opacity-90"
       }
@@ -87,8 +87,8 @@
       "xx-high": {
         "value": "{opacity.primitive.20.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity",
+          "category": "opacity",
+          "type": "layer opacity",
           "description": "'@/Opacity/Semantic'"
         },
         "comment": "Opacity 2x-High 🔗 to 'Primitive-20'"
@@ -96,56 +96,56 @@
       "x-high": {
         "value": "{opacity.primitive.30.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity x-High 🔗 to 'Primitive-30'"
       },
       "high": {
         "value": "{opacity.primitive.40.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity High 🔗 to 'Primitive-40'"
       },
       "medium": {
         "value": "{opacity.primitive.50.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity Medium 🔗 to 'Primitive-50'"
       },
       "low": {
         "value": "{opacity.primitive.60.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity Low 🔗 to 'Primitive-60'"
       },
       "x-low": {
         "value": "{opacity.primitive.70.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity x-Low 🔗 to 'Primitive-70'"
       },
       "xx-low": {
         "value": "{opacity.primitive.80.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity 2x-Low 🔗 to 'Primitive-80'"
       },
       "none": {
         "value": "{opacity.primitive.0.value}",
         "attributes": {
-          "category": "effect",
-          "type": "opacity"
+          "category": "opacity",
+          "type": "layer opacity"
         },
         "comment": "Opacity None 🔗 to 'Primitive-0'"
       }

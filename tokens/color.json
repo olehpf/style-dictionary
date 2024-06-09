@@ -8,7 +8,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Default color is ⚪️"
           }
@@ -19,7 +19,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Neutral'"
             },
             "comment": "Neutral-0"
@@ -29,7 +29,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-5"
           },
@@ -38,7 +38,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-10"
           },
@@ -47,7 +47,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-20"
           },
@@ -56,7 +56,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-30"
           },
@@ -65,7 +65,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-40"
           },
@@ -74,7 +74,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-50"
           },
@@ -83,7 +83,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-60"
           },
@@ -92,7 +92,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-70"
           },
@@ -101,7 +101,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-80"
           },
@@ -110,7 +110,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-90"
           },
@@ -119,7 +119,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Neutral-100"
           }
@@ -130,7 +130,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Blue'"
             },
             "comment": "Blue-10"
@@ -140,7 +140,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-20"
           },
@@ -149,7 +149,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-30"
           },
@@ -158,7 +158,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-40"
           },
@@ -167,7 +167,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-50"
           },
@@ -176,7 +176,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-60"
           },
@@ -185,7 +185,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-70"
           },
@@ -194,7 +194,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-80"
           },
@@ -203,7 +203,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-90"
           },
@@ -212,7 +212,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Blue-100"
           }
@@ -223,7 +223,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Navy'"
             },
             "comment": "Navy-10"
@@ -233,7 +233,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-20"
           },
@@ -242,7 +242,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-30"
           },
@@ -251,7 +251,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-40"
           },
@@ -260,7 +260,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-50"
           },
@@ -269,7 +269,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-60"
           },
@@ -278,7 +278,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-70"
           },
@@ -287,7 +287,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-80"
           },
@@ -296,7 +296,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-90"
           },
@@ -305,7 +305,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Navy-100"
           }
@@ -316,7 +316,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Green'"
             },
             "comment": "Green-10"
@@ -326,7 +326,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-20"
           },
@@ -335,7 +335,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-30"
           },
@@ -344,7 +344,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-40"
           },
@@ -353,7 +353,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-50"
           },
@@ -362,7 +362,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-60"
           },
@@ -371,7 +371,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-70"
           },
@@ -380,7 +380,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-80"
           },
@@ -389,7 +389,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-90"
           },
@@ -398,7 +398,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Green-100"
           }
@@ -409,7 +409,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Yellow'"
             },
             "comment": "Yellow-10"
@@ -419,7 +419,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-20"
           },
@@ -428,7 +428,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-30"
           },
@@ -437,7 +437,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-40"
           },
@@ -446,7 +446,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-50"
           },
@@ -455,7 +455,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-60"
           },
@@ -464,7 +464,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-70"
           },
@@ -473,7 +473,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-80"
           },
@@ -482,7 +482,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-90"
           },
@@ -491,7 +491,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Yellow-100"
           }
@@ -502,7 +502,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Red'"
             },
             "comment": "Red-10"
@@ -512,7 +512,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-20"
           },
@@ -521,7 +521,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-30"
           },
@@ -530,7 +530,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-40"
           },
@@ -539,7 +539,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-50"
           },
@@ -548,7 +548,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-60"
           },
@@ -557,7 +557,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-70"
           },
@@ -566,7 +566,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-80"
           },
@@ -575,7 +575,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-90"
           },
@@ -584,7 +584,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Red-100"
           }
@@ -595,7 +595,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Orange'"
             },
             "comment": "Orange-10"
@@ -605,7 +605,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-20"
           },
@@ -614,7 +614,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-30"
           },
@@ -623,7 +623,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-40"
           },
@@ -632,7 +632,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-50"
           },
@@ -641,7 +641,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-60"
           },
@@ -650,7 +650,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-70"
           },
@@ -659,7 +659,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-80"
           },
@@ -668,7 +668,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-90"
           },
@@ -677,7 +677,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Orange-100"
           }
@@ -688,7 +688,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Violet'"
             },
             "comment": "Violet-10"
@@ -698,7 +698,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-20"
           },
@@ -707,7 +707,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-30"
           },
@@ -716,7 +716,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-40"
           },
@@ -725,7 +725,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-50"
           },
@@ -734,7 +734,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-60"
           },
@@ -743,7 +743,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-70"
           },
@@ -752,7 +752,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-80"
           },
@@ -761,7 +761,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-90"
           },
@@ -770,7 +770,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Violet-100"
           }
@@ -781,7 +781,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade",
+              "type": "unit",
               "description": "'@/Color/Primitive/Magenta'"
             },
             "comment": "Magenta-10"
@@ -791,7 +791,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-20"
           },
@@ -800,7 +800,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-30"
           },
@@ -809,7 +809,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-40"
           },
@@ -818,7 +818,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-50"
           },
@@ -827,7 +827,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-60"
           },
@@ -836,7 +836,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-70"
           },
@@ -845,7 +845,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-80"
           },
@@ -854,7 +854,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-90"
           },
@@ -863,7 +863,7 @@
             "attributes": {
               "category": "color",
               "subcategory": "primitive",
-              "type": "shade"
+              "type": "unit"
             },
             "comment": "Magenta-100"
           }

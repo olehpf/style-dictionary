@@ -60,6 +60,15 @@
                         "outputReferences": true
                     },
                     "filter": "isRadius"
+                },
+                {
+                    "destination": "scss/stroke.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isStroke"
                 }        
             ]
         }

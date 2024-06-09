@@ -4,8 +4,8 @@
       "0": {
         "value": "'0px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius",
+          "category": "radius",
+          "type": "unit",
           "description": "'@/Radius/Primitive'"
         },
         "comment": "✨ Use to add||remove values\n// Primitive-0"
@@ -13,112 +13,112 @@
       "2": {
         "value": "'2px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-2"
       },
       "4": {
         "value": "'4px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-4"
       },
       "6": {
         "value": "'6px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-6"
       },
       "8": {
         "value": "'8px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-8"
       },
       "10": {
         "value": "'10px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-10"
       },
       "12": {
         "value": "'12px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-12"
       },
       "16": {
         "value": "'16px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-16"
       },
       "20": {
         "value": "'20px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "primitive-20"
       },
       "24": {
         "value": "'24px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-24"
       },
       "32": {
         "value": "'32px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-32"
       },
       "40": {
         "value": "'40px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-40"
       },
       "48": {
         "value": "'48px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-48"
       },
       "100": {
         "value": "'100px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-100"
       },
       "10000": {
         "value": "'10000px'",
         "attributes": {
-          "category": "effect",
-          "type": "radius"
+          "category": "radius",
+          "type": "unit"
         },
         "comment": "Primitive-10000"
       }
@@ -127,8 +127,8 @@
         "rounded-0" : {
           "value": "{radius.primitive.0.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius",
+            "category": "radius",
+            "type": "rounded corner",
             "description": "'@/Radius/Semantic'"
           },
           "comment": "Rounded-none 🔗 to 'Primitive-0'"
@@ -136,112 +136,112 @@
         "rounded-25" : {
           "value": "{radius.primitive.2.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-25 🔗 to 'Primitive-2'"
         },
         "rounded-50" : {
           "value": "{radius.primitive.4.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-50 🔗 to 'Primitive-4'"
         },
         "rounded-75" : {
           "value": "{radius.primitive.6.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-75 🔗 to 'Primitive-6'"
         },
         "rounded-100" : {
           "value": "{radius.primitive.8.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-100 🔗 to 'Primitive-8'"
         },
         "rounded-125" : {
           "value": "{radius.primitive.10.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-125 🔗 to 'Primitive-10'"
         },
         "rounded-150" : {
           "value": "{radius.primitive.12.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-150 🔗 to 'Primitive-12'"
         },
         "rounded-200" : {
           "value": "{radius.primitive.16.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-200 🔗 to 'Primitive-16'"
         },
         "rounded-250" : {
           "value": "{radius.primitive.20.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-250 🔗 to 'Primitive-20'"
         },
         "rounded-300" : {
           "value": "{radius.primitive.24.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-300 🔗 to 'Primitive-24'"
         },
         "rounded-400" : {
           "value": "{radius.primitive.32.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-400 🔗 to 'Primitive-32'"
         },
         "rounded-500" : {
           "value": "{radius.primitive.40.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-500 🔗 to 'Primitive-40'"
         },
         "rounded-600" : {
           "value": "{radius.primitive.48.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-600 🔗 to 'Primitive-48'"
         },
         "rounded-pill" : {
           "value": "{radius.primitive.100.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-Pill 🔗 to 'Primitive-100'"
         },
         "rounded-circle" : {
           "value": "{radius.primitive.10000.value}",
           "attributes": {
-            "category": "effect",
-            "type": "radius"
+            "category": "radius",
+            "type": "rounded corner"
           },
           "comment": "Rounded-Circle 🔗 to 'Primitive-10000'"
         }

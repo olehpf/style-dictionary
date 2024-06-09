@@ -1,0 +1,122 @@
+{
+  "stroke": {
+    "primitive": {
+      "50": {
+        "value": "'0.5px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid",
+          "description": "'@/Stroke/Primitive'"
+        },
+        "comment": "✨ Use to add||remove values\n// Primitive-50"
+      },
+      "75": {
+        "value": "'0.75px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-75"
+      },
+      "100": {
+        "value": "'1px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-100"
+      },
+      "150": {
+        "value": "'1.5px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-150"
+      },
+      "200": {
+        "value": "'2px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-200"
+      },
+      "300": {
+        "value": "'3px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-300"
+      },
+      "400": {
+        "value": "'4px'",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Primitive-400"
+      }
+    },
+    "semanitic": {
+      "xx-light": {
+        "value": "{stroke.primitive.50.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid",
+          "description": "'@/Stroke/Semantic'"
+        },
+        "comment": "Stroke 2x-Light 🔗 to 'Primitive-50'"
+      },
+      "x-light": {
+        "value": "{stroke.primitive.75.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke x-Light 🔗 to 'Primitive-75'"
+      },
+      "light": {
+        "value": "{stroke.primitive.100.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke Light 🔗 to 'Primitive-100'"
+      },
+      "normal": {
+        "value": "{stroke.primitive.150.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke Normal 🔗 to 'Primitive-150'"
+      },
+      "heavy": {
+        "value": "{stroke.primitive.200.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke Heavy 🔗 to 'Primitive-200'"
+      },
+      "x-heavy": {
+        "value": "{stroke.primitive.300.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke x-Heavy 🔗 to 'Primitive-300'"
+      },
+      "xx-heavy": {
+        "value": "{stroke.primitive.400.value}",
+        "attributes": {
+          "category": "stroke",
+          "type": "solid"
+        },
+        "comment": "Stroke 2x-Heavy 🔗 to 'Primitive-400'"
+      }
+    }
+  }
+}
