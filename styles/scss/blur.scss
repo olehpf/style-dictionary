@@ -1,0 +1,51 @@
+/** --------------------------------------------------------------------------
+ * The scss/blur.scss file.
+ * Generated on: Tue Jun 11 2024 10:39:40 GMT+0300 (Eastern European Summer Time)
+ * russia is a terrorist state 💯💩 
+ ----------------------------------------------------------------------------- **/
+
+
+/* '@/Blur/Backdrop' */
+// ✨ Use to add||remove values
+// Primitive-25
+$coreUiBlurPrimitive25: 2px;
+
+// Primitive-50
+$coreUiBlurPrimitive50: 4px;
+
+// Primitive-75
+$coreUiBlurPrimitive75: 6px;
+
+// Primitive-100
+$coreUiBlurPrimitive100: 8px;
+
+// Primitive-125
+$coreUiBlurPrimitive125: 10px;
+
+// Primitive-150
+$coreUiBlurPrimitive150: 12px;
+
+// Primitive-200
+$coreUiBlurPrimitive200: 16px;
+
+/* '@/Blur/Semantic/Backdrop Blur' */
+// Blur xx-Weak 🔗 to 'Primitive-25'
+$coreUiBlurSemanticXxWeak: 2px;
+
+// Blur x-Weak 🔗 to 'Primitive-50'
+$coreUiBlurSemanticXWeak: 4px;
+
+// Blur Weak 🔗 to 'Primitive-75'
+$coreUiBlurSemanticWeak: 6px;
+
+// Blur Medium 🔗 to 'Primitive-100'
+$coreUiBlurSemanticNormal: 8px;
+
+// Blur Strong 🔗 to 'Primitive-125'
+$coreUiBlurSemanticStrong: 10px;
+
+// Blur x-Strong 🔗 to 'Primitive-150'
+$coreUiBlurSemanticXStrong: 12px;
+
+// Blur xx-Strong 🔗 to 'Primitive-200'
+$coreUiBlurSemanticXxStrong: 16px;

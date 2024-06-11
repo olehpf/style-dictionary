@@ -1,0 +1,122 @@
+{
+  "blur": {
+    "primitive": {
+      "25": {
+        "value": "2px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit",
+          "description": "'@/Blur/Backdrop'"
+        },
+        "comment": "✨ Use to add||remove values\n// Primitive-25"
+      },
+      "50": {
+        "value": "4px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-50"
+      },
+      "75": {
+        "value": "6px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-75"
+      },
+      "100": {
+        "value": "8px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-100"
+      },
+      "125": {
+        "value": "10px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-125"
+      },
+      "150": {
+        "value": "12px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-150"
+      },
+      "200": {
+        "value": "16px",
+        "attributes": {
+          "category": "blur",
+          "type": "unit"
+        },
+        "comment": "Primitive-200"
+      }
+    },
+    "semantic": {
+      "xx-weak": {
+        "value": "{blur.primitive.25.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur",
+          "description": "'@/Blur/Semantic/Backdrop Blur'"
+        },
+        "comment": "Blur xx-Weak 🔗 to 'Primitive-25'"
+      },
+      "x-weak": {
+        "value": "{blur.primitive.50.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur x-Weak 🔗 to 'Primitive-50'"
+      },
+      "weak": {
+        "value": "{blur.primitive.75.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur Weak 🔗 to 'Primitive-75'"
+      },
+      "normal": {
+        "value": "{blur.primitive.100.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur Medium 🔗 to 'Primitive-100'"
+      },
+      "strong": {
+        "value": "{blur.primitive.125.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur Strong 🔗 to 'Primitive-125'"
+      },
+      "x-strong": {
+        "value": "{blur.primitive.150.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur x-Strong 🔗 to 'Primitive-150'"
+      },
+      "xx-strong": {
+        "value": "{blur.primitive.200.value}",
+        "attributes": {
+          "category": "blur",
+          "type": "backdrop blur"
+        },
+        "comment": "Blur xx-Strong 🔗 to 'Primitive-200'"
+      }
+    }
+  }
+}

@@ -69,7 +69,16 @@
                         "outputReferences": true
                     },
                     "filter": "isStroke"
-                }        
+                },
+                {
+                    "destination": "scss/blur.scss",
+                    "format": "scss/variables",
+                    "options": {
+                        "showFileHeader": "customFileHeader",
+                        "outputReferences": true
+                    },
+                    "filter": "isBlur"
+                }         
             ]
         }
     }

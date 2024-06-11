@@ -60,6 +60,14 @@ StyleDictionary.registerFilter({
   },
 });
 
+// Filter for Blur properties
+StyleDictionary.registerFilter({
+  name: "isBlur",
+  matcher: function (token) {
+    return token.attributes.category === "blur" || token.attributes.type === "backdrop blur";
+  },
+});
+
 // Build the Camel Case name for the token
 StyleDictionary.registerTransform({
   name: "name/camel",

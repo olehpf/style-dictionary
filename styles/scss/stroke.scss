@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/stroke.scss file.
- * Generated on: Mon Jun 10 2024 11:28:53 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Tue Jun 11 2024 10:39:40 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -8,44 +8,44 @@
 /* '@/Stroke/Primitive' */
 // ✨ Use to add||remove values
 // Primitive-50
-$coreUiStrokePrimitive50: '0.5px';
+$coreUiStrokePrimitive50: 0.5px;
 
 // Primitive-75
-$coreUiStrokePrimitive75: '0.75px';
+$coreUiStrokePrimitive75: 0.75px;
 
 // Primitive-100
-$coreUiStrokePrimitive100: '1px';
+$coreUiStrokePrimitive100: 1px;
 
 // Primitive-150
-$coreUiStrokePrimitive150: '1.5px';
+$coreUiStrokePrimitive150: 1.5px;
 
 // Primitive-200
-$coreUiStrokePrimitive200: '2px';
+$coreUiStrokePrimitive200: 2px;
 
 // Primitive-300
-$coreUiStrokePrimitive300: '3px';
+$coreUiStrokePrimitive300: 3px;
 
 // Primitive-400
-$coreUiStrokePrimitive400: '4px';
+$coreUiStrokePrimitive400: 4px;
 
 /* '@/Stroke/Semantic' */
-// Stroke 2x-Light 🔗 to 'Primitive-50'
-$coreUiStrokeSemaniticXxLight: '0.5px';
+// Stroke 2x-Weak 🔗 to 'Primitive-50'
+$coreUiStrokeSemaniticXxWeak: 0.5px;
 
-// Stroke x-Light 🔗 to 'Primitive-75'
-$coreUiStrokeSemaniticXLight: '0.75px';
+// Stroke x-Weak 🔗 to 'Primitive-75'
+$coreUiStrokeSemaniticXWeak: 0.75px;
 
-// Stroke Light 🔗 to 'Primitive-100'
-$coreUiStrokeSemaniticLight: '1px';
+// Stroke Weak 🔗 to 'Primitive-100'
+$coreUiStrokeSemaniticWeak: 1px;
 
 // Stroke Normal 🔗 to 'Primitive-150'
-$coreUiStrokeSemaniticNormal: '1.5px';
+$coreUiStrokeSemaniticNormal: 1.5px;
 
-// Stroke Heavy 🔗 to 'Primitive-200'
-$coreUiStrokeSemaniticHeavy: '2px';
+// Stroke Strong 🔗 to 'Primitive-200'
+$coreUiStrokeSemaniticStrong: 2px;
 
-// Stroke x-Heavy 🔗 to 'Primitive-300'
-$coreUiStrokeSemaniticXHeavy: '3px';
+// Stroke x-Strong 🔗 to 'Primitive-300'
+$coreUiStrokeSemaniticXStrong: 3px;
 
-// Stroke 2x-Heavy 🔗 to 'Primitive-400'
-$coreUiStrokeSemaniticXxHeavy: '4px';
+// Stroke 2x-Strong 🔗 to 'Primitive-400'
+$coreUiStrokeSemaniticXxStrong: 4px;
