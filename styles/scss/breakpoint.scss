@@ -1,6 +1,6 @@
 /** --------------------------------------------------------------------------
  * The scss/breakpoint.scss file.
- * Generated on: Sun Jun 09 2024 09:30:22 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Mon Jun 10 2024 11:28:53 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
@@ -16,11 +16,11 @@ $coreUiBreakpointSmMaxWidth: '600px';
 $coreUiBreakpointSmColumns: 4;
 
 // Gutter 🔗 to '@Spacing/Semantic/Gap-100'
-$coreUiBreakpointSmGutter: '8px';
+$coreUiBreakpointSmGutter: 8px;
 
 // Margin size 🔗 to '@Spacing/Semantic/Margin-200'
 // use to wrap <Layout />
-$coreUiBreakpointSmMargin: '16px';
+$coreUiBreakpointSmMargin: 16px;
 
 /* '@/Breakpoint/Medium' */
 // '601' is the Start point
@@ -33,11 +33,11 @@ $coreUiBreakpointMdMaxWidth: '960px';
 $coreUiBreakpointMdColumns: 6;
 
 // Gutter 🔗 to '@Spacing/Semantic/Gap-150'
-$coreUiBreakpointMdGutter: '12px';
+$coreUiBreakpointMdGutter: 12px;
 
 // Margin size 🔗 to '@Spacing/Semantic/Margin-400'
 // use to wrap <Layout />
-$coreUiBreakpointMdMargin: '32px';
+$coreUiBreakpointMdMargin: 32px;
 
 /* '@/Breakpoint/Large' */
 // '961' is the Start point
@@ -50,11 +50,11 @@ $coreUiBreakpointLgMaxWidth: '1280px';
 $coreUiBreakpointLgColumns: 8;
 
 // Gutter 🔗 to '@Spacing/Semantic/Gap-200'
-$coreUiBreakpointLgGutter: '16px';
+$coreUiBreakpointLgGutter: 16px;
 
 // Margin size 🔗 to '@Spacing/Semantic/Margin-600'
 // use to wrap <Layout />
-$coreUiBreakpointLgMargin: '48px';
+$coreUiBreakpointLgMargin: 48px;
 
 /* '@/Breakpoint/XL' */
 // '1281' is the Start point
@@ -67,8 +67,8 @@ $coreUiBreakpointXlMaxWidth: '1600px';
 $coreUiBreakpointXlColumns: 12;
 
 // Gutter 🔗 to '@Spacing/Semantic/Gap-300'
-$coreUiBreakpointXlGutter: '24px';
+$coreUiBreakpointXlGutter: 24px;
 
 // Margin size 🔗 to '@Spacing/Semantic/Margin-800'
 // use to wrap <Layout />
-$coreUiBreakpointXlMargin: '64px';
+$coreUiBreakpointXlMargin: 64px;

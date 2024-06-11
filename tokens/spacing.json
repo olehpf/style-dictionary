@@ -2,7 +2,7 @@
   "spacing": {
     "primitive": {
       "0": {
-        "value": "'0px'",
+        "value": "0px",
         "attributes": {
           "category": "spacing",
           "type": "unit",
@@ -11,7 +11,7 @@
         "comment": "✨ Use to add||remove values\n// Primitive-0"
       },
       "2": {
-        "value": "'2px'",
+        "value": "2px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -19,7 +19,7 @@
         "comment": "Primitive-2"
       },
       "4": {
-        "value": "'4px'",
+        "value": "4px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -27,7 +27,7 @@
         "comment": "Primitive-4"
       },
       "6": {
-        "value": "'6px'",
+        "value": "6px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -35,7 +35,7 @@
         "comment": "Primitive-6"
       },
       "8": {
-        "value": "'8px'",
+        "value": "8px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -43,7 +43,7 @@
         "comment": "Primitive-8"
       },
       "10": {
-        "value": "'10px'",
+        "value": "10px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -51,7 +51,7 @@
         "comment": "Primitive-10"
       },
       "12": {
-        "value": "'12px'",
+        "value": "12px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -59,7 +59,7 @@
         "comment": "Primitive-12"
       },
       "16": {
-        "value": "'16px'",
+        "value": "16px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -67,7 +67,7 @@
         "comment": "Primitive-16"
       },
       "20": {
-        "value": "'20px'",
+        "value": "20px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -75,7 +75,7 @@
         "comment": "Primitive-20"
       },
       "24": {
-        "value": "'24px'",
+        "value": "24px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -83,7 +83,7 @@
         "comment": "Primitive-24"
       },
       "32": {
-        "value": "'32px'",
+        "value": "32px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -91,7 +91,7 @@
         "comment": "Primitive-32"
       },
       "40": {
-        "value": "'40px'",
+        "value": "40px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -99,7 +99,7 @@
         "comment": "Primitive-40"
       },
       "48": {
-        "value": "'48px'",
+        "value": "48px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -107,7 +107,7 @@
         "comment": "Primitive-48"
       },
       "64": {
-        "value": "'64px'",
+        "value": "64px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -115,7 +115,7 @@
         "comment": "Primitive-64"
       },
       "80": {
-        "value": "'80px'",
+        "value": "80px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -123,7 +123,7 @@
         "comment": "Primitive-80"
       },
       "96": {
-        "value": "'96px'",
+        "value": "96px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -131,7 +131,7 @@
         "comment": "Primitive-96"
       },
       "128": {
-        "value": "'128px'",
+        "value": "128px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -139,7 +139,7 @@
         "comment": "Primitive-128"
       },
       "160": {
-        "value": "'160px'",
+        "value": "160px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -147,7 +147,7 @@
         "comment": "Primitive-160"
       },
       "192": {
-        "value": "'192px'",
+        "value": "192px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -155,7 +155,7 @@
         "comment": "Primitive-192"
       },
       "256": {
-        "value": "'256px'",
+        "value": "256px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -171,7 +171,7 @@
         "comment": "Primitive 'auto'"
       },
       "negative-2": {
-        "value": "'-2px'",
+        "value": "-2px",
         "attributes": {
           "category": "spacing",
           "type": "unit",
@@ -180,7 +180,7 @@
         "comment": "Primitive-Negative-2"
       },
       "negative-4": {
-        "value": "'-4px'",
+        "value": "-4px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -188,7 +188,7 @@
         "comment": "Primitive-Negative-4"
       },
       "negative-6": {
-        "value": "'-6px'",
+        "value": "-6px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -196,7 +196,7 @@
         "comment": "Primitive-Negative-6"
       },
       "negative-8": {
-        "value": "'-8px'",
+        "value": "-8px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -204,7 +204,7 @@
         "comment": "Primitive-Negative-8"
       },
       "negative-10": {
-        "value": "'-10px'",
+        "value": "-10px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -212,7 +212,7 @@
         "comment": "Primitive-Negative-10"
       },
       "negative-12": {
-        "value": "'-12px'",
+        "value": "-12px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -220,7 +220,7 @@
         "comment": "Primitive-Negative-12"
       },
       "negative-16": {
-        "value": "'-16px'",
+        "value": "-16px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -228,7 +228,7 @@
         "comment": "Primitive-Negative-16"
       },
       "negative-20": {
-        "value": "'-20px'",
+        "value": "-20px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -236,7 +236,7 @@
         "comment": "Primitive-Negative-20"
       },
       "negative-24": {
-        "value": "'-24px'",
+        "value": "-24px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -244,7 +244,7 @@
         "comment": "Primitive-Negative-24"
       },
       "negative-32": {
-        "value": "'-32px'",
+        "value": "-32px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -252,7 +252,7 @@
         "comment": "Primitive-Negative-32"
       },
       "negative-40": {
-        "value": "'-40px'",
+        "value": "-40px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -260,7 +260,7 @@
         "comment": "Primitive-Negative-40"
       },
       "negative-48": {
-        "value": "'-48px'",
+        "value": "-48px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -268,7 +268,7 @@
         "comment": "Primitive-Negative-48"
       },
       "negative-64": {
-        "value": "'-64px'",
+        "value": "-64px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -276,7 +276,7 @@
         "comment": "Primitive-Negative-64"
       },
       "negative-80": {
-        "value": "'-80px'",
+        "value": "-80px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -284,7 +284,7 @@
         "comment": "Primitive-Negative-80"
       },
       "negative-96": {
-        "value": "'-96px'",
+        "value": "-96px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -292,7 +292,7 @@
         "comment": "Primitive-Negative-96"
       },
       "negative-128": {
-        "value": "'-128px'",
+        "value": "-128px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -300,7 +300,7 @@
         "comment": "Primitive-Negative-128"
       },
       "negative-160": {
-        "value": "'-160px'",
+        "value": "-160px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -308,7 +308,7 @@
         "comment": "Primitive-Negative-160'"
       },
       "negative-192": {
-        "value": "'-192px'",
+        "value": "-192px",
         "attributes": {
           "category": "spacing",
           "type": "unit"
@@ -316,7 +316,7 @@
         "comment": "Primitive-Negative-192"
       },
       "negative-256": {
-        "value": "'-256px'",
+        "value": "-256px",
         "attributes": {
           "category": "spacing",
           "type": "unit"

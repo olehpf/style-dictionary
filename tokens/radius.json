@@ -2,7 +2,7 @@
   "radius": {
     "primitive": {
       "0": {
-        "value": "'0px'",
+        "value": "0px",
         "attributes": {
           "category": "radius",
           "type": "unit",
@@ -11,7 +11,7 @@
         "comment": "✨ Use to add||remove values\n// Primitive-0"
       },
       "2": {
-        "value": "'2px'",
+        "value": "2px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -19,7 +19,7 @@
         "comment": "Primitive-2"
       },
       "4": {
-        "value": "'4px'",
+        "value": "4px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -27,7 +27,7 @@
         "comment": "Primitive-4"
       },
       "6": {
-        "value": "'6px'",
+        "value": "6px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -35,7 +35,7 @@
         "comment": "Primitive-6"
       },
       "8": {
-        "value": "'8px'",
+        "value": "8px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -43,7 +43,7 @@
         "comment": "Primitive-8"
       },
       "10": {
-        "value": "'10px'",
+        "value": "10px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -51,7 +51,7 @@
         "comment": "Primitive-10"
       },
       "12": {
-        "value": "'12px'",
+        "value": "12px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -59,7 +59,7 @@
         "comment": "Primitive-12"
       },
       "16": {
-        "value": "'16px'",
+        "value": "16px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -67,7 +67,7 @@
         "comment": "Primitive-16"
       },
       "20": {
-        "value": "'20px'",
+        "value": "20px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -75,7 +75,7 @@
         "comment": "primitive-20"
       },
       "24": {
-        "value": "'24px'",
+        "value": "24px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -83,7 +83,7 @@
         "comment": "Primitive-24"
       },
       "32": {
-        "value": "'32px'",
+        "value": "32px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -91,7 +91,7 @@
         "comment": "Primitive-32"
       },
       "40": {
-        "value": "'40px'",
+        "value": "40px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -99,7 +99,7 @@
         "comment": "Primitive-40"
       },
       "48": {
-        "value": "'48px'",
+        "value": "48px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -107,7 +107,7 @@
         "comment": "Primitive-48"
       },
       "100": {
-        "value": "'100px'",
+        "value": "100px",
         "attributes": {
           "category": "radius",
           "type": "unit"
@@ -115,7 +115,7 @@
         "comment": "Primitive-100"
       },
       "10000": {
-        "value": "'10000px'",
+        "value": "10000px",
         "attributes": {
           "category": "radius",
           "type": "unit"
