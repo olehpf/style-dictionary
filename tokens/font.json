@@ -1,205 +1,429 @@
 {
   "font": {
-      "family": {
-        "title": {
-          "value": "\"Rethink Sans\", sans-serif",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
+    "family": {
+      "title": {
+        "value": "\"Rethink Sans\", sans-serif",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Family'"
         },
-        "body": {
-          "value": "\"Rethink Sans\", sans-serif",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
+        "comment": "✨ Use to change Title Font\n// Default: \"Rethink Sans\", sans-serif"
+      },
+      "body": {
+        "value": "\"Rethink Sans\", sans-serif",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
         },
-        "code": {
-          "value": "\"Roboto Sans\", monospace",
+        "comment": "Body Text Font"
+      },
+      "code": {
+        "value": "\"Roboto Sans\", monospace",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Code Text Font"
+      }
+    },
+    "weight": {
+      "extrabold": {
+        "value": "800",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Weight'"
+        },
+        "comment": "✨ Use to change Font Weight\n// Extrabold:'800'"
+      },
+      "bold": {
+        "value": "700",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Bold:'700'"
+      },
+      "semibold": {
+        "value": "600",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "SemiBold:'600'"
+      },
+      "medium": {
+        "value": "500",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Medium:'500'"
+      },
+      "regular": {
+        "value": "400",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Regular:'400'"
+      }
+    },
+    "size": {
+      "display1": {
+        "lg": {
+          "value": "60px",
+          "attributes": {
+            "category": "typography",
+            "type": "font",
+            "description": "'@/Typography/Font/Size/Displays'"
+          },
+          "comment": "✨ Use to change Displays font-size\n// Display1:'60px' for 'Large' screen"
+        },
+        "md": {
+          "value": "48px",
           "attributes": {
             "category": "typography",
             "type": "font"
-          }
+          },
+          "comment": "Display1:'48px' for 'Medium' & 'Small' screens"
         }
       },
-      "weight": {
-        "extrabold": {
-          "value": "800",
+      "display2": {
+        "lg": {
+          "value": "52px",
           "attributes": {
             "category": "typography",
             "type": "font"
-          }
+          },
+          "comment": "Display2:'52px' for 'Large' screen"
         },
-        "bold": {
-          "value": "700",
+        "md": {
+          "value": "40px",
           "attributes": {
             "category": "typography",
             "type": "font"
-          }
-        },
-        "semibold": {
-          "value": "600",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "medium": {
-          "value": "500",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "regular": {
-          "value": "400",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
+          },
+          "comment": "Display2:'40px' for 'Medium' & 'Small' screens"
         }
       },
-      "size": {
-        "display1": { 
-          "lg" : {
-            "value": "60px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
+      "display3": {
+        "lg": {
+          "value": "40px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
           },
-          "md" : {
-            "value": "48px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
-          }
-       },
-       "display2": { 
-          "lg" : {
-            "value": "52px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
+          "comment": "Display3:'40px' for 'Large' screen"
+        },
+        "md": {
+          "value": "32px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
           },
-          "md" : {
-            "value": "40px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
-          }
-       },
-       "display3": { 
-          "lg" : {
-            "value": "40px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
-          },
-          "md" : {
-            "value": "32px",
-            "attributes": {
-              "category": "typography",
-              "type": "font"
-            }
-          }
-       },
-        "heading1": {
-          "value": "28px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "heading2": {
-          "value": "24px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "heading3": {
-          "value": "21px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "heading4": {
-          "value": "18px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "heading5": {
-          "value": "16px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "heading6": {
-          "value": "14px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "body-xl": {
-          "value": "28px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "body-lg": {
-          "value": "24px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "body-md": {
-          "value": "21px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "body-sm": {
-          "value": "18px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "body-xs": {
-          "value": "16px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "code-md": {
-          "value": "15px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
-        },
-        "code-sm": {
-          "value": "13px",
-          "attributes": {
-            "category": "typography",
-            "type": "font"
-          }
+          "comment": "Display3:'32px' for 'Medium' & 'Small' screens"
         }
+      },
+      "heading1": {
+        "value": "28px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Size/Headings'"
+        },
+        "comment": "✨ Use to change Headings font-size\n// Heading1:'28px'"
+      },
+      "heading2": {
+        "value": "24px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Heading2:'24px'"
+      },
+      "heading3": {
+        "value": "21px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Heading3:'21px'"
+      },
+      "heading4": {
+        "value": "18px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Heading4:'18px'"
+      },
+      "heading5": {
+        "value": "16px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Heading5:'16px'"
+      },
+      "heading6": {
+        "value": "14px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Heading6:'14px'"
+      },
+      "body-xl": {
+        "value": "19px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Size/BodyText'"
+        },
+        "comment": "✨ Use to change BodyText font-size\n// Body xl:'19px'"
+      },
+      "body-lg": {
+        "value": "16px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Body lg:'16px'"
+      },
+      "body-md": {
+        "value": "14px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Body md:'14px'"
+      },
+      "body-sm": {
+        "value": "12px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Body sm:'12px'"
+      },
+      "body-xs": {
+        "value": "10px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Body xs:'10px'"
+      },
+      "code-md": {
+        "value": "15px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Size/BodyText/Code'"
+        },
+        "comment": "✨ Use to change Code font-size\n// Code md:'15px'"
+      },
+      "code-sm": {
+        "value": "13px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Code sm:'13px'"
+      }
+    },
+    "line-height": {
+      "display1": {
+        "lg": {
+          "value": "72px",
+          "attributes": {
+            "category": "typography",
+            "type": "font",
+            "description": "'@/Typography/Font/LineHeight/Displays'"
+          },
+          "comment": "✨ Use to change Displays line-height\n// Line-Height of Display1:'72px' for 'Large' screen"
+        },
+        "md": {
+          "value": "56px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          },
+          "comment": "Line-Height of Display1:'56px' for 'Medium' & 'Small' screens"
+        }
+      },
+      "display2": {
+        "lg": {
+          "value": "60px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          },
+          "comment": "Line-Height of Display2:'60px' for 'Large' screen"
+        },
+        "md": {
+          "value": "48px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          },
+          "comment": "Line-Height of Display2:'48px' for 'Medium' & 'Small' screens"
+        }
+      },
+      "display3": {
+        "lg": {
+          "value": "48px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          },
+          "comment": "Line-Height of Display3:'48px' for 'Large' screen"
+        },
+        "md": {
+          "value": "40px",
+          "attributes": {
+            "category": "typography",
+            "type": "font"
+          },
+          "comment": "Line-Height of Display3:'40px' for 'Medium' & 'Small' screens"
+        }
+      },
+      "heading1": {
+        "value": "36px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/LineHeight/Headings'"
+        },
+        "comment": "✨ Use to change Headings line-height\n// Line-Height of Heading1:'36px'"
+      },
+      "heading2": {
+        "value": "32px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Heading2:'32px'"
+      },
+      "heading3": {
+        "value": "28px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Heading3:'28px'"
+      },
+      "heading4": {
+        "value": "26px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Heading4:'26px'"
+      },
+      "heading5": {
+        "value": "24px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Heading5:'24px'"
+      },
+      "heading6": {
+        "value": "20px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Heading6:'20px'"
+      },
+      "body-xl": {
+        "value": "28px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/Size/BodyText'"
+        },
+        "comment": "✨ Use to change BodyText line-height\n// Line-Height of Body xl:'28px'"
+      },
+      "body-lg": {
+        "value": "24px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Body lg:'24px'"
+      },
+      "body-md": {
+        "value": "20px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Body md:'20px'"
+      },
+      "body-sm": {
+        "value": "16px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Body sm:'16px'"
+      },
+      "body-xs": {
+        "value": "12px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Body xs:'12px'"
+      },
+      "code-md": {
+        "value": "20px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/LineHeight/BodyText/Code'"
+        },
+        "comment": "✨ Use to change Code line-height\n// Line-Height of Code md:'20px'"
+      },
+      "code-sm": {
+        "value": "16px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Line-Height of Code sm:'16px'"
+      }
+    },
+    "letter-spacing": {
+      "display1": {
+        "value": "-1px",
+        "attributes": {
+          "category": "typography",
+          "type": "font",
+          "description": "'@/Typography/Font/LetterSpacing/Displays'"
+        },
+        "comment": "✨ Use to change Displays letter-spacing\n// Letter-Spacing of Display1:'-1px'"
+      },
+      "display2": {
+        "value": "-0.5px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Letter-Spacing of Display2:'-0.5px'"
+      },
+      "display3": {
+        "value": "-0.25px",
+        "attributes": {
+          "category": "typography",
+          "type": "font"
+        },
+        "comment": "Letter-Spacing of Display3:'-0.25px'"
       }
     }
   }
+}

@@ -1,87 +1,175 @@
 /** --------------------------------------------------------------------------
  * The scss/font.scss file.
- * Generated on: Tue Jun 11 2024 10:39:40 GMT+0300 (Eastern European Summer Time)
+ * Generated on: Wed Jun 12 2024 11:23:52 GMT+0300 (Eastern European Summer Time)
  * russia is a terrorist state 💯💩 
  ----------------------------------------------------------------------------- **/
 
 
-
+/* '@/Typography/Font/Family' */
+// ✨ Use to change Title Font
+// Default: "Rethink Sans", sans-serif
 $coreUiFontFamilyTitle: "Rethink Sans", sans-serif;
 
-
+// Body Text Font
 $coreUiFontFamilyBody: "Rethink Sans", sans-serif;
 
-
+// Code Text Font
 $coreUiFontFamilyCode: "Roboto Sans", monospace;
 
-
+/* '@/Typography/Font/Weight' */
+// ✨ Use to change Font Weight
+// Extrabold:'800'
 $coreUiFontWeightExtrabold: 800;
 
-
+// Bold:'700'
 $coreUiFontWeightBold: 700;
 
-
+// SemiBold:'600'
 $coreUiFontWeightSemibold: 600;
 
-
+// Medium:'500'
 $coreUiFontWeightMedium: 500;
 
-
+// Regular:'400'
 $coreUiFontWeightRegular: 400;
 
-
+/* '@/Typography/Font/Size/Displays' */
+// ✨ Use to change Displays font-size
+// Display1:'60px' for 'Large' screen
 $coreUiFontSizeDisplay1Lg: 60px;
 
-
+// Display1:'48px' for 'Medium' & 'Small' screens
 $coreUiFontSizeDisplay1Md: 48px;
 
-
+// Display2:'52px' for 'Large' screen
 $coreUiFontSizeDisplay2Lg: 52px;
 
-
+// Display2:'40px' for 'Medium' & 'Small' screens
 $coreUiFontSizeDisplay2Md: 40px;
 
-
+// Display3:'40px' for 'Large' screen
 $coreUiFontSizeDisplay3Lg: 40px;
 
-
+// Display3:'32px' for 'Medium' & 'Small' screens
 $coreUiFontSizeDisplay3Md: 32px;
 
-
+/* '@/Typography/Font/Size/Headings' */
+// ✨ Use to change Headings font-size
+// Heading1:'28px'
 $coreUiFontSizeHeading1: 28px;
 
-
+// Heading2:'24px'
 $coreUiFontSizeHeading2: 24px;
 
-
+// Heading3:'21px'
 $coreUiFontSizeHeading3: 21px;
 
-
+// Heading4:'18px'
 $coreUiFontSizeHeading4: 18px;
 
-
+// Heading5:'16px'
 $coreUiFontSizeHeading5: 16px;
 
-
+// Heading6:'14px'
 $coreUiFontSizeHeading6: 14px;
 
+/* '@/Typography/Font/Size/BodyText' */
+// ✨ Use to change BodyText font-size
+// Body xl:'19px'
+$coreUiFontSizeBodyXl: 19px;
 
-$coreUiFontSizeBodyXl: 28px;
+// Body lg:'16px'
+$coreUiFontSizeBodyLg: 16px;
 
+// Body md:'14px'
+$coreUiFontSizeBodyMd: 14px;
 
-$coreUiFontSizeBodyLg: 24px;
+// Body sm:'12px'
+$coreUiFontSizeBodySm: 12px;
 
+// Body xs:'10px'
+$coreUiFontSizeBodyXs: 10px;
 
-$coreUiFontSizeBodyMd: 21px;
-
-
-$coreUiFontSizeBodySm: 18px;
-
-
-$coreUiFontSizeBodyXs: 16px;
-
-
+/* '@/Typography/Font/Size/BodyText/Code' */
+// ✨ Use to change Code font-size
+// Code md:'15px'
 $coreUiFontSizeCodeMd: 15px;
 
-
+// Code sm:'13px'
 $coreUiFontSizeCodeSm: 13px;
+
+/* '@/Typography/Font/LineHeight/Displays' */
+// ✨ Use to change Displays line-height
+// Line-Height of Display1:'72px' for 'Large' screen
+$coreUiFontLineHeightDisplay1Lg: 72px;
+
+// Line-Height of Display1:'56px' for 'Medium' & 'Small' screens
+$coreUiFontLineHeightDisplay1Md: 56px;
+
+// Line-Height of Display2:'60px' for 'Large' screen
+$coreUiFontLineHeightDisplay2Lg: 60px;
+
+// Line-Height of Display2:'48px' for 'Medium' & 'Small' screens
+$coreUiFontLineHeightDisplay2Md: 48px;
+
+// Line-Height of Display3:'48px' for 'Large' screen
+$coreUiFontLineHeightDisplay3Lg: 48px;
+
+// Line-Height of Display3:'40px' for 'Medium' & 'Small' screens
+$coreUiFontLineHeightDisplay3Md: 40px;
+
+/* '@/Typography/Font/LineHeight/Headings' */
+// ✨ Use to change Headings line-height
+// Line-Height of Heading1:'36px'
+$coreUiFontLineHeightHeading1: 36px;
+
+// Line-Height of Heading2:'32px'
+$coreUiFontLineHeightHeading2: 32px;
+
+// Line-Height of Heading3:'28px'
+$coreUiFontLineHeightHeading3: 28px;
+
+// Line-Height of Heading4:'26px'
+$coreUiFontLineHeightHeading4: 26px;
+
+// Line-Height of Heading5:'24px'
+$coreUiFontLineHeightHeading5: 24px;
+
+// Line-Height of Heading6:'20px'
+$coreUiFontLineHeightHeading6: 20px;
+
+/* '@/Typography/Font/Size/BodyText' */
+// ✨ Use to change BodyText line-height
+// Line-Height of Body xl:'28px'
+$coreUiFontLineHeightBodyXl: 28px;
+
+// Line-Height of Body lg:'24px'
+$coreUiFontLineHeightBodyLg: 24px;
+
+// Line-Height of Body md:'20px'
+$coreUiFontLineHeightBodyMd: 20px;
+
+// Line-Height of Body sm:'16px'
+$coreUiFontLineHeightBodySm: 16px;
+
+// Line-Height of Body xs:'12px'
+$coreUiFontLineHeightBodyXs: 12px;
+
+/* '@/Typography/Font/LineHeight/BodyText/Code' */
+// ✨ Use to change Code line-height
+// Line-Height of Code md:'20px'
+$coreUiFontLineHeightCodeMd: 20px;
+
+// Line-Height of Code sm:'16px'
+$coreUiFontLineHeightCodeSm: 16px;
+
+/* '@/Typography/Font/LetterSpacing/Displays' */
+// ✨ Use to change Displays letter-spacing
+// Letter-Spacing of Display1:'-1px'
+$coreUiFontLetterSpacingDisplay1: -1px;
+
+// Letter-Spacing of Display2:'-0.5px'
+$coreUiFontLetterSpacingDisplay2: -0.5px;
+
+// Letter-Spacing of Display3:'-0.25px'
+$coreUiFontLetterSpacingDisplay3: -0.25px;
